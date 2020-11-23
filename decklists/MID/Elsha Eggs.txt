@@ -1,0 +1,95 @@
+1 Academy Ruins
+1 Aetherflux Reservoir
+1 Arcane Denial
+1 Arcane Signet
+1 Arid Mesa
+1 Bloodstained Mire
+1 Buried Ruin
+1 Chromatic Star
+1 Clifftop Retreat
+1 Cloud Key
+1 Codex Shredder
+1 Command Tower
+1 Conjurer's Bauble
+1 Copy Artifact
+1 Counterspell
+1 Crawlspace
+1 Cyclonic Rift
+1 Dispeller's Capsule
+1 Dockside Extortionist
+1 Elixir of Immortality
+1 Elsha of the Infinite
+1 Enlightened Tutor
+1 Etherium Sculptor
+1 Exotic Orchard
+1 Expedition Map
+1 Faith's Reward
+1 Flooded Strand
+1 Ghirapur Aether Grid
+1 Gilded Lotus
+1 Glacial Fortress
+1 Goblin Engineer
+1 Goblin Welder
+1 Hallowed Fountain
+1 Inspiring Statuary
+1 Inventors' Fair
+7 Island
+1 Izzet Signet
+1 Krark-Clan Ironworks
+1 Kuldotha Forgemaster
+1 Lightning Greaves
+1 Lotus Bloom
+1 Lotus Petal
+1 Marsh Flats
+1 Mindslaver
+1 Mirrorworks
+1 Misty Rainforest
+1 Mizzium Transreliquat
+1 Mountain
+1 Mox Opal
+1 Mystic Gate
+1 Mystic Monastery
+1 Mystic Remora
+1 Open the Vaults
+1 Paradoxical Outcome
+1 Path to Exile
+1 Phyrexian Metamorph
+1 Plains
+1 Plateau
+1 Polluted Delta
+1 Pyrite Spellbomb
+1 Reflecting Pool
+1 Sacred Foundry
+1 Saheeli, Sublime Artificer
+1 Salvaging Station
+1 Scalding Tarn
+1 Scrap Mastery
+1 Second Sunrise
+1 Sensei's Divining Top
+1 Shivan Reef
+1 Sol Ring
+1 Steam Vents
+1 Storm the Vault // Vault of Catlacan
+1 Sulfur Falls
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Synod Sanctum
+1 Talisman of Creativity
+1 Talisman of Progress
+1 Tezzeret the Seeker
+1 Trading Post
+1 Transmute Artifact
+1 Treasure Mage
+1 Trinket Mage
+1 Tundra
+1 Universal Solvent
+1 Unwinding Clock
+1 Volcanic Island
+1 Voltaic Key
+1 Voyager Staff
+1 Wayfarer's Bauble
+1 Whir of Invention
+1 Windswept Heath
+1 Witching Well
+1 Wooded Foothills
+

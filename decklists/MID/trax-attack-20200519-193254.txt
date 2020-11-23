@@ -1,0 +1,90 @@
+1 All Is Dust
+1 Ancient Stone Idol
+1 Ancient Tomb
+1 Arch of Orazca
+1 Argentum Armor
+1 Basalt Monolith
+1 Blightsteel Colossus
+1 Blinkmoth Urn
+1 Buried Ruin
+1 Champion's Helm
+1 Chaos Wand
+1 Cloud Key
+1 Darksteel Citadel
+1 Darksteel Colossus
+1 Darksteel Forge
+1 Darksteel Juggernaut
+1 Dreamstone Hedron
+1 Endless Atlas
+1 Etched Champion
+1 Everflowing Chalice
+1 Field of Ruin
+1 Foundry Inspector
+1 Ghost Quarter
+1 Gilded Lotus
+1 God-Pharaoh's Statue
+1 Golden Guardian / Gold-Forge Garrison
+1 Golem Foundry
+1 Hangarback Walker
+1 Inkmoth Nexus
+1 Inventors' Fair
+1 Jhoira's Familiar
+1 Junk Diver
+1 Karn Liberated
+1 Karn, Scion of Urza
+1 Karn, the Great Creator
+1 Kuldotha Forgemaster
+1 Lodestone Golem
+1 Mage-Ring Network
+1 Metalwork Colossus
+1 Metalworker
+1 Meteor Golem
+1 Mikokoro, Center of the Sea
+1 Mimic Vat
+1 Mirrorworks
+1 Mox Opal
+1 Mycosynth Golem
+1 Myr Retriever
+1 Palladium Myr
+1 Phyrexia's Core
+1 Planar Bridge
+1 Platinum Angel
+1 Platinum Emperion
+1 Prototype Portal
+1 Reliquary Tower
+1 Rogue's Passage
+1 Scarecrone
+1 Scour from Existence
+1 Scrap Trawler
+1 Sea Gate Wreckage
+1 Semblance Anvil
+1 Shimmer Myr
+1 Shrine of the Forsaken Gods
+1 Silent Arbiter
+1 Sol Ring
+1 Steel Overseer
+1 Swiftfoot Boots
+1 Tamiyo's Journal
+1 Tectonic Edge
+1 Temple of the False God
+1 Thespian's Stage
+1 Thran Dynamo
+1 Thran Temporal Gateway
+1 Tomb of the Spirit Dragon
+1 Trading Post
+1 Traxos, Scourge of Kroog
+1 Treasure Keeper
+1 Ugin, the Ineffable
+1 Ugin, the Spirit Dragon
+1 Unwinding Clock
+1 Urza's Factory
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Voltaic Servant
+1 Walking Ballista
+1 Wasteland
+11 Wastes
+1 Weatherlight
+1 Winter Orb
+1 Wurmcoil Engine

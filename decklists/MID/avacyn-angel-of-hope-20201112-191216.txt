@@ -1,0 +1,76 @@
+1 Alms Collector
+1 Ancient Tomb
+1 Angel of Jubilation
+1 Archon of Emeria
+1 Armageddon
+1 Aura of Silence
+1 Austere Command
+1 Avacyn, Angel of Hope
+1 Aven Mindcensor
+1 Catastrophe
+1 Cavern of Souls
+1 Containment Priest
+1 Cursed Totem
+1 Drannith Magistrate
+1 Emeria, the Sky Ruin
+1 Enlightened Tutor
+1 Ethersworn Canonist
+1 Extraplanar Lens
+1 Flagstones of Trokair
+1 Generous Gift
+1 Grafted Exoskeleton
+1 Grand Abolisher
+1 Grasp of Fate
+1 Grim Monolith
+1 Heliod, Sun-Crowned
+1 Heliod's Intervention
+1 Helm of Obedience
+1 Homeward Path
+1 Hour of Revelation
+1 Hushbringer
+1 Hushwing Gryff
+1 Idyllic Tutor
+1 Land Tax
+1 Lapse of Certainty
+1 Lightning Greaves
+1 Linvala, Keeper of Silence
+1 Mana Vault
+1 Mandate of Peace
+1 Mangara, the Diplomat
+1 Mistveil Plains
+1 Moat
+1 Mox Diamond
+1 Mox Opal
+1 Nevinyrral's Disk
+1 Nykthos, Shrine to Nyx
+1 Path to Exile
+1 Pearl Medallion
+1 Ranger-Captain of Eos
+1 Ravages of War
+1 Rest in Peace
+1 Return to Dust
+1 Scavenger Grounds
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Settle the Wreckage
+1 Sevinne's Reclamation
+1 Silence
+1 Smothering Tithe
+25 Snow-Covered Plains
+1 Sol Ring
+1 Soul-Guide Lantern
+1 Stoneforge Mystic
+1 Strip Mine
+1 Swiftfoot Boots
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Thalia, Heretic Cathar
+1 Tithe
+1 Torpor Orb
+1 Walking Ballista
+1 Weathered Wayfarer
+1 Winds of Abandon
+1 Worldslayer
+1 Wrath of God

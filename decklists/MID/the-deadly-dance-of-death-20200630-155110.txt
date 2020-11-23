@@ -1,0 +1,80 @@
+1 Arcane Signet
+1 Archon of Sun's Grace
+1 Azorius Signet
+1 Blasphemous Act
+1 Boros Signet
+1 Castle Vantress
+1 Cathartic Reunion
+1 Chaos Warp
+1 Chemister's Insight
+1 Cleansing Nova
+1 Command Tower
+1 Compulsion
+1 Dance of the Manse
+1 Desolate Lighthouse
+1 Elsha of the Infinite
+1 Estrid's Invocation
+1 Exotic Orchard
+1 Faithless Looting
+1 Fierce Guardianship
+1 Fiery Emancipation
+1 Fiery Islet
+1 Flusterstorm
+1 Force of Negation
+1 Frantic Search
+1 Generous Gift
+1 Ghostly Prison
+1 Gratuitous Violence
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Idyllic Tutor
+1 Impact Tremors
+7 Island
+1 Izzet Charm
+1 Izzet Signet
+1 Jeskai Ascendancy
+1 Karmic Justice
+1 Kykar, Wind's Fury
+1 Mind Stone
+1 Mirror March
+1 Mirrormade
+1 Mission Briefing
+1 Monastery Siege
+6 Mountain
+1 Mystic Monastery
+1 Mystical Tutor
+1 Narset of the Ancient Way
+1 Narset, Enlightened Master
+1 Narset's Reversal
+1 Open the Vaults
+1 Pandemonium
+1 Path to Exile
+10 Plains
+1 Prairie Stream
+1 Propaganda
+1 Raugrin Triome
+1 Reality Shift
+1 Reliquary Tower
+1 Search for Azcanta / Azcanta, the Sunken Ruin
+1 Shivan Reef
+1 Silent Sentinel
+1 Smothering Tithe
+1 Sol Ring
+1 Spellseeker
+1 Sphere of Safety
+1 Spirit Bonds
+1 Spirit Cairn
+1 Starfield of Nyx
+1 Steam Vents
+1 Swan Song
+1 Swords to Plowshares
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Thirst for Meaning
+1 Thrill of Possibility
+1 Time Wipe
+1 Tormenting Voice
+1 Twilight Drover
+1 Warstorm Surge
+1 Whirlwind of Thought
+1 Wild Research

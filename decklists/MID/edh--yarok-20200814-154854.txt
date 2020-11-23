@@ -1,0 +1,93 @@
+1 Acidic Slime
+1 Agent of Treachery
+1 Ancient Tomb
+1 Arcane Signet
+1 Assassin's Trophy
+1 Avenger of Zendikar
+1 Azusa, Lost but Seeking
+1 Baleful Strix
+1 Birthing Pod
+1 Blade of Selves
+1 Bojuka Bog
+1 Bramble Sovereign
+1 Breeding Pool
+1 Cabal Coffers
+1 Chromatic Lantern
+1 Coiling Oracle
+1 Command Tower
+1 Conjurer's Closet
+1 Counterspell
+1 Craterhoof Behemoth
+1 Crucible of Worlds
+1 Deadeye Navigator
+1 Demonic Tutor
+1 Dimir Signet
+1 Drowned Catacomb
+1 Eternal Witness
+1 Exploration
+1 Fabled Passage
+1 Fellwar Stone
+1 Field of the Dead
+1 Fierce Guardianship
+1 Finale of Devastation
+1 Force of Vigor
+3 Forest
+1 Ghost Quarter
+1 Ghostly Flicker
+1 Golgari Signet
+1 Guardian Project
+1 Hinterland Harbor
+4 Island
+1 Life from the Loam
+1 Lotus Cobra
+1 Morphic Pool
+1 Muldrotha, the Gravetide
+1 Mulldrifter
+1 Mystical Tutor
+1 Noxious Gearhulk
+1 Nurturing Peatland
+1 Ob Nixilis, the Fallen
+1 Opulent Palace
+1 Oracle of Mul Daya
+1 Overgrown Tomb
+1 Panharmonicon
+1 Phyrexian Delver
+1 Polluted Bonds
+1 Polluted Delta
+1 Prismatic Vista
+1 Rampaging Baloths
+1 Ramunap Excavator
+1 Ravenous Chupacabra
+1 Reclamation Sage
+1 Reflecting Pool
+1 Reliquary Tower
+1 Retreat to Hagra
+1 Risen Reef
+1 Roil Elemental
+1 Scapeshift
+1 Sepulchral Primordial
+1 Shriekmaw
+1 Simic Signet
+1 Sire of Stagnation
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spark Double
+1 Springbloom Druid
+3 Swamp
+1 Tatyova, Benthic Druid
+1 Temple of Deceit
+1 Temple of Mystery
+1 Thassa, Deep-Dwelling
+1 The Gitrog Monster
+1 Thespian's Stage
+1 Torment of Hailfire
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Villainous Wealth
+1 Wasteland
+1 Waterlogged Grove
+1 Watery Grave
+1 Woodland Cemetery
+1 Yarok, the Desecrated
+1 Zagoth Triome
+1 Zendikar's Roil

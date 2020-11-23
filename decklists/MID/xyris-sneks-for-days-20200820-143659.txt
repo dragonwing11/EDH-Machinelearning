@@ -1,0 +1,88 @@
+1 Anger
+1 Arcane Denial
+1 Arcane Signet
+1 Beast Within
+1 Beastmaster Ascension
+1 Blasphemous Act
+1 Breeding Pool
+1 Burgeoning
+1 Burning Inquiry
+1 Carpet of Flowers
+1 Cascade Bluffs
+1 Chaos Warp
+1 Cinder Glade
+1 Coastal Breach
+1 Command Tower
+1 Commander's Sphere
+1 Counterspell
+1 Cultivate
+1 Cyclonic Rift
+1 Darksteel Plate
+1 Deflecting Swat
+1 Doubling Season
+1 Echo of Eons
+1 Eternal Witness
+1 Exotic Orchard
+1 Explosive Vegetation
+1 Fabled Passage
+1 Farseek
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Fire-Lit Thicket
+1 Flooded Grove
+5 Forest
+1 Gamble
+1 Goblin Bombardment
+1 Heroic Intervention
+1 Hinterland Harbor
+1 Impact Tremors
+1 Incendiary Command
+5 Island
+1 Jace's Archivist
+1 Karplusan Forest
+1 Ketria Triome
+1 Lightning Greaves
+1 Magus of the Wheel
+1 Migration Path
+1 Mikokoro, Center of the Sea
+1 Molten Psyche
+1 Mossfire Valley
+5 Mountain
+1 Mystic Remora
+1 Nature's Lore
+1 Noxious Revival
+1 Ogre Battledriver
+1 Parallel Lives
+1 Pongify
+1 Purphoros, God of the Forge
+1 Rampant Growth
+1 Rapid Hybridization
+1 Reflecting Pool
+1 Reforge the Soul
+1 Reliquary Tower
+1 Rogue's Passage
+1 Rootbound Crag
+1 Shared Animosity
+1 Shivan Reef
+1 Skullclamp
+1 Skyshroud Claim
+1 Sol Ring
+1 Steam Vents
+1 Stomping Ground
+1 Sulfur Falls
+1 Swan Song
+1 Swiftfoot Boots
+1 Teferi's Puzzle Box
+1 The Locust God
+1 Throne of the God-Pharaoh
+1 Time Reversal
+1 Underworld Breach
+1 Vandalblast
+1 Wheel and Deal
+1 Whirlpool Warrior
+1 Whispersilk Cloak
+1 Windfall
+1 Winds of Change
+1 Worldly Tutor
+1 Xyris, the Writhing Storm
+1 Yavimaya Coast

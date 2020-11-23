@@ -1,0 +1,86 @@
+1 Abrupt Decay
+1 Acidic Slime
+1 Animate Dead
+1 Assassin's Trophy
+1 Attrition
+1 Blooming Marsh
+1 Butcher of Malakir
+1 Caustic Caterpillar
+1 Clackbridge Troll
+1 Cloudthresher
+1 Command Tower
+1 Crypt Ghast
+1 Dakmor Salvage
+1 Damnation
+1 Deathrite Shaman
+1 Den Protector
+1 Dictate of Erebos
+1 Eternal Witness
+1 Evolving Wilds
+1 Fecundity
+1 Fleshbag Marauder
+9 Forest
+1 Garruk Relentless / Garruk, the Veil-Cursed
+1 Garruk, Cursed Huntsman
+1 Golgari Charm
+1 Golgari Rot Farm
+1 Golgari Signet
+1 Grave Pact
+1 Gravedigger
+1 Grim Backwoods
+1 High Market
+1 Hissing Quagmire
+1 Hope of Ghirapur
+1 Indrik Stomphowler
+1 Journey to Eternity / Atzal, Cave of Eternity
+1 Life from the Loam
+1 Lightning Greaves
+1 Liliana, Death's Majesty
+1 Liliana, Heretical Healer / Liliana, Defiant Necromancer
+1 Liliana, the Last Hope
+1 Living Death
+1 Massacre Wurm
+1 Meren of Clan Nel Toth
+1 Moldervine Reclamation
+1 Mycoloth
+1 Nurturing Peatland
+1 Overgrown Tomb
+1 Overwhelming Stampede
+1 Pelt Collector
+1 Phyrexian Altar
+1 Phyrexian Tower
+1 Plaguecrafter
+1 Polluted Mire
+1 Primal Growth
+1 Putrefy
+1 Reanimate
+1 Sakura-Tribe Elder
+1 Satyr Wayfinder
+1 Shriekmaw
+1 Skullclamp
+1 Sol Ring
+1 Spore Frog
+7 Swamp
+1 Syr Konrad, the Grim
+1 Tainted Wood
+1 Talisman of Resilience
+1 Terastodon
+1 Terramorphic Expanse
+1 Thought Vessel
+1 Throne of the High City
+1 Tribute to the Wild
+1 Twilight Mire
+1 Underrealm Lich
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Victimize
+1 Viridian Emissary
+1 Viscera Seer
+1 Vivid Grove
+1 Vivid Marsh
+1 Vraska, Golgari Queen
+1 Vraska, Relic Seeker
+1 Wall of Blossoms
+1 Wood Elves
+1 World Shaper
+1 Wretched Confluence

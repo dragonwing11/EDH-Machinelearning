@@ -1,0 +1,96 @@
+1 Aetherflux Reservoir
+1 Ancient Tomb
+1 Arid Mesa
+1 Aven Mindcensor
+1 Azorius Signet
+1 Bloodstained Mire
+1 Brainstorm
+1 Cavern of Souls
+1 Chain of Vapor
+1 Chrome Mox
+1 City of Brass
+1 Codex Shredder
+1 Command Tower
+1 Copy Artifact
+1 Cyclonic Rift
+1 Dig Through Time
+1 Dovin's Veto
+1 Dramatic Reversal
+1 Enlightened Tutor
+1 Fabricate
+1 Faithless Looting
+1 Fiery Islet
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Frantic Search
+1 Future Sight
+1 Gamble
+1 Gilded Drake
+1 Gitaxian Probe
+1 Goblin Bombardment
+1 Grafdigger's Cage
+1 Grand Abolisher
+1 Hallowed Fountain
+1 Hurkyl's Recall
+1 Impulse
+1 Isochron Scepter
+1 Izzet Signet
+1 Jace, Vryn's Prodigy
+1 Jeskai Ascendancy
+1 Kykar, Wind's Fury
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Marsh Flats
+1 Mental Misstep
+1 Merchant Scroll
+1 Misty Rainforest
+1 Mox Diamond
+1 Mox Opal
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystical Tutor
+1 Narset's Reversal
+1 Narset, Parter of Veils
+1 Pact of Negation
+1 Paradox Engine
+1 Plateau
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Pyroblast
+1 Pyroclasm
+1 Reality Shift
+1 Rhystic Study
+1 Scalding Tarn
+1 Sensei's Divining Top
+1 Serum Visions
+1 Silence
+1 Sleight of Hand
+1 Smothering Tithe
+1 Snapcaster Mage
+5 Snow-Covered Island
+1 Snow-Covered Mountain
+3 Snow-Covered Plains
+1 Sol Ring
+1 Steam Vents
+1 Swan Song
+1 Talisman of Creativity
+1 Talisman of Progress
+1 The Tabernacle at Pendrell Vale
+1 Timetwister
+1 Transmute Artifact
+1 Trinket Mage
+1 Tundra
+1 Volcanic Island
+1 Wear / Tear
+1 Wheel of Fortune
+1 Whispers of the Muse
+1 Windfall
+1 Windswept Heath
+1 Wooded Foothills
+
+

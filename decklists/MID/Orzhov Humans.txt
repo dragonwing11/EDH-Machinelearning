@@ -1,0 +1,98 @@
+1 Adaptive Automaton
+1 Anguished Unmaking
+1 Arcane Signet
+1 Ashnod's Altar
+1 Athreos, God of Passage
+1 Barren Moor
+1 Bastion of Remembrance
+1 Black Market
+1 Blind Obedience
+1 Blood Artist
+1 Call the Coppercoats
+1 Castle Ardenvale
+1 Castle Locthwain
+1 Caves of Koilos
+1 Champion of the Parish
+1 Command Tower
+1 Containment Priest
+1 Corpse Knight
+1 Cruel Celebrant
+1 Devout Chaplain
+1 Dictate of Erebos
+1 Disciple of Bolas
+1 Drannith Magistrate
+1 Etchings of the Chosen
+1 Fetid Heath
+1 Fiend Hunter
+1 Flawless Maneuver
+1 General Kudro of Drannith
+1 General's Enforcer
+1 Generous Gift
+1 Godless Shrine
+1 Grand Abolisher
+1 Grave Pact
+1 Greed
+1 Heirloom Blade
+1 Icon of Ancestry
+1 Increasing Devotion
+1 Isolated Chapel
+1 Kambal, Consul of Allocation
+1 Knight of the White Orchid
+1 Make a Stand
+1 Merciless Eviction
+1 Metallic Mimic
+1 Mikaeus, the Lunarch
+1 Mirror Entity
+1 Necropotence
+1 Odric, Master Tactician
+1 Orzhov Signet
+1 Path of Ancestry
+1 Phyrexian Arena
+1 Pitiless Plunderer
+15 Plains
+1 Priest of Forgotten Gods
+1 Radiant Destiny
+1 Ranger of Eos
+1 Rootborn Defenses
+1 Secluded Steppe
+1 Serra Ascendant
+1 Silent Clearing
+1 Skullclamp
+1 Sol Ring
+1 Solemn Simulacrum
+1 Species Specialist
+1 Sun Titan
+8 Swamp
+1 Teysa Karlov
+1 Teysa, Orzhov Scion
+1 Thalia's Lieutenant
+1 Thalia, Heretic Cathar
+1 Thorn of the Black Rose
+1 Thraben Doomsayer
+1 Thraben Inspector
+1 Trynn, Champion of Freedom
+1 Unbreakable Formation
+1 Unclaimed Territory
+1 Verge Rangers
+1 Village Rites
+1 Xathrid Necromancer
+1 Zulaport Cutthroat
+
+Maybeboard
+1 Altar's Reap
+1 Avacyn, Angel of Hope
+1 Cathars' Crusade
+1 Commander's Sphere
+1 Costly Plunder
+1 Dire Tactics
+1 Exotic Orchard
+1 Mortify
+1 Path to Exile
+1 Sanctuary Lockdown
+1 Shadowspear
+1 Shared Triumph
+1 Smothering Tithe
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Utter End
+

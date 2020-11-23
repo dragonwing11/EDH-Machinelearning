@@ -1,0 +1,100 @@
+1 Arbor Elf
+1 Benefactor's Draught
+1 Birds of Paradise
+1 Bloodstained Mire
+1 Bloom Tender
+1 Bounding Krasis
+1 Brainstorm
+1 Breaching Hippocamp
+1 Breeding Pool
+1 Carpet of Flowers
+1 Cascade Bluffs
+1 Chord of Calling
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Crop Rotation
+1 Deceiver Exarch
+1 Dispel
+1 Eldritch Evolution
+1 Elvish Mystic
+1 Exotic Orchard
+1 Finale of Devastation
+1 Flash
+1 Flooded Strand
+1 Flusterstorm
+1 Forbidden Orchard
+2 Forest
+1 Freed from the Real
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Gilded Drake
+1 Imperial Recruiter
+1 Incubation Druid
+1 Island
+1 Kiki-Jiki, Mirror Breaker
+1 Kraum, Ludevic's Opus
+1 Llanowar Elves
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Mental Misstep
+1 Merchant Scroll
+1 Misty Rainforest
+1 Mox Diamond
+1 Mystic Remora
+1 Mystical Tutor
+1 Narset's Reversal
+1 Nature's Claim
+1 Neoform
+1 Noxious Revival
+1 Null Rod
+1 Orcish Lumberjack
+1 Pact of Negation
+1 Pestermite
+1 Polluted Delta
+1 Ponder
+1 Pongify
+1 Preordain
+1 Priest of Titania
+1 Prime Speaker Vannifar
+1 Protean Hulk
+1 Pyroblast
+1 Reflecting Pool
+1 Rhystic Study
+1 Runic Armasaur
+1 Scalding Tarn
+1 Seedborn Muse
+1 Shivan Reef
+1 Sigil Tracer
+1 Sol Ring
+1 Spellseeker
+1 Spire Garden
+1 Splinter Twin
+1 Steam Vents
+1 Stomping Ground
+1 Summoner's Pact
+1 Survival of the Fittest
+1 Swan Song
+1 Sylvan Library
+1 Sylvan Tutor
+1 Taiga
+1 Tarnished Citadel
+1 Thousand-Year Elixir
+1 Thrasios, Triton Hero
+1 Torch Courier
+1 Training Grounds
+1 Tropical Island
+1 Verdant Catacombs
+1 Vigean Graftmage
+1 Volcanic Island
+1 Wall of Roots
+1 Weird Harvest
+1 Windswept Heath
+1 Wirewood Symbiote
+1 Wooded Foothills
+1 Worldly Tutor
+1 Yavimaya Coast
+1 Yisan, the Wanderer Bard
+

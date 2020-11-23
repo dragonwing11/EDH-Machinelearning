@@ -1,0 +1,73 @@
+1 Angler Turtle
+1 Arcane Laboratory
+1 Archon of Absolution
+1 Armillary Sphere
+1 Avenger en-Dal
+1 Axis of Mortality
+1 Azorius Chancery
+1 Azorius Signet
+1 Baird, Steward of Argive
+1 Balduvian Warlord
+1 Bolt Bend
+1 Boomerang
+1 Boros Fury-Shield
+1 Boros Garrison
+1 Boros Signet
+1 Borrowing 100,000 Arrows
+1 Command Tower
+1 Commander's Sphere
+1 Counterspell
+1 Curse of the Nightly Hunt
+1 Deflecting Palm
+1 Dictate of the Twin Gods
+1 Disdainful Stroke
+1 Disenchant
+1 Displace
+1 Divine Deflection
+1 Divine Reckoning
+1 Echoing Truth
+1 Eidolon of Rhetoric
+1 Evolving Wilds
+1 Gideon's Intervention
+1 Glarecaster
+1 Illusionist's Gambit
+1 Incite Rebellion
+11 Island
+1 Izzet Boilerworks
+1 Izzet Signet
+1 Kill Switch
+1 Kumena's Awakening
+1 Mandate of Peace
+1 Master Warcraft
+1 Mirror Strike
+1 Mistmeadow Witch
+1 Mnemonic Wall
+1 Mob Rule
+1 Monastery Siege
+1 Morningtide
+7 Mountain
+1 Negate
+1 Nevermore
+1 Oblivion Ring
+12 Plains
+1 Portal Mage
+1 Pramikon, Sky Rampart
+1 Rebound
+1 Reflect Damage
+1 Reins of Power
+1 Reroute
+1 Riot Control
+1 Rule of Law
+1 Silent Gravestone
+1 Spirit of the Labyrinth
+1 Swerve
+1 Terramorphic Expanse
+1 The Wanderer
+1 Thrill of Possibility
+1 Time Wipe
+1 Tormenting Voice
+1 Wall of Frost
+1 War Tax
+1 Warmonger Hellkite
+1 War's Toll
+1 Whirlwind of Thought

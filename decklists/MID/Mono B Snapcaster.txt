@@ -1,0 +1,78 @@
+1 Arcane Lighthouse
+1 Barren Moor
+1 Beseech the Queen
+1 Cabal Coffers
+1 Cabal Ritual
+1 Caged Sun
+1 Castle Locthwain
+1 Chainer, Dementia Master
+1 Cremate
+1 Crypt Ghast
+1 Curtains' Call
+1 Damnation
+1 Dark Bargain
+1 Dark Ritual
+1 Darkness
+1 Darksteel Plate
+1 Defile
+1 Demonic Tutor
+1 Drag to the Underworld
+1 Drana, Kalastria Bloodchief
+1 Dread Presence
+1 Entomb
+1 Expedition Map
+1 Exsanguinate
+1 Force of Despair
+1 Gauntlet of Power
+1 Go for the Throat
+1 Grim Return
+1 Harvester of Souls
+1 Heartless Act
+1 Hero's Downfall
+1 Imp's Mischief
+1 Jet Medallion
+1 Lightning Greaves
+1 Liliana of the Dark Realms
+1 Liliana's Triumph
+1 Malicious Affliction
+1 Manascape Refractor
+1 Mind Stone
+1 Moonlight Bargain
+1 Murder
+1 Mutilate
+1 Myriad Landscape
+1 Necrologia
+1 Night's Whisper
+1 Nirkana Revenant
+1 Oathkeeper, Takeno's Daisho
+1 Oblivion Stone
+1 Phyrexian Arena
+1 Price of Fame
+1 Reckless Spite
+1 Revel in Riches
+1 Rise of the Dark Realms
+1 Shadowspear
+1 Slaughter Pact
+28 Snow-Covered Swamp
+1 Snuff Out
+1 Sol Ring
+1 Strip Mine
+1 Succumb to Temptation
+1 Tendrils of Corruption
+1 Thrilling Encore
+1 Torment of Hailfire
+1 Toshiro Umezawa
+1 Tragic Slip
+1 Treacherous Urge
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Victim of Night
+1 Vona's Hunger
+1 Vraska's Contempt
+1 Witch's Cottage
+1 Wretched Confluence
+
+Maybeboard
+1 Fated Return
+1 Withering Boon
+

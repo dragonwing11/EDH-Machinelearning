@@ -1,0 +1,79 @@
+1 Alchemist's Refuge
+1 All That Glitters
+1 Ancestral Mask
+1 Archon of Sun's Grace
+1 Argothian Enchantress
+1 Armadillo Cloak
+1 Aura of Silence
+1 Aura Shards
+1 Birds of Paradise
+1 Breeding Pool
+1 Burgeoning
+1 Capsize
+1 Command Tower
+1 Courser of Kruphix
+1 Crop Rotation
+1 Cultivate
+1 Cyclonic Rift
+1 Destiny Spinner
+1 Dryad of the Ilysian Grove
+1 Duelist's Heritage
+1 Eidolon of Blossoms
+1 Enchantress's Presence
+1 Enlightened Tutor
+1 Estrid's Invocation
+1 Ethereal Armor
+1 Exploration
+8 Forest
+1 Ghostly Prison
+1 Gift of Immortality
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Herald of the Pantheon
+1 Imprisoned in the Moon
+8 Island
+1 Karametra, God of Harvests
+1 Kodama's Reach
+1 Krosan Verge
+1 Kruphix, God of Horizons
+1 Land Tax
+1 Mesa Enchantress
+1 Mirari's Wake
+1 Mirri's Guile
+1 Mirrormade
+1 Nylea, God of the Hunt
+1 Nylea's Colossus
+1 Nyxbloom Ancient
+1 Path to Exile
+8 Plains
+1 Propaganda
+1 Rancor
+1 Reliquary Tower
+1 Replenish
+1 Rhystic Study
+1 Sandwurm Convergence
+1 Satyr Enchanter
+1 Seaside Citadel
+1 Serra's Sanctum
+1 Shalai, Voice of Plenty
+1 Shield of the Oversoul
+1 Sigarda, Host of Herons
+1 Sigil of the Empty Throne
+1 Smothering Tithe
+1 Song of the Dryads
+1 Sphere of Safety
+1 Starfield Mystic
+1 Steel of the Godhead
+1 Swords to Plowshares
+1 Sylvan Library
+1 Teferi's Protection
+1 Temple Garden
+1 Temple of Enlightenment
+1 Temple of Plenty
+1 Thassa, Deep-Dwelling
+1 Thassa, God of the Sea
+1 Tolaria West
+1 Tuvasa the Sunlit
+1 Verduran Enchantress
+1 Wheel of Sun and Moon
+1 Winds of Abandon

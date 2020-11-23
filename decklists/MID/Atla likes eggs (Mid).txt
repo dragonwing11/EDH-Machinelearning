@@ -1,0 +1,99 @@
+1 Arbor Elf
+1 Arid Mesa
+1 Ashnod's Altar
+1 Atla Palani, Nest Tender
+1 Autumn's Veil
+1 Avacyn's Pilgrim
+1 Beast Within
+1 Birds of Paradise
+1 Bloodstained Mire
+1 Bloom Tender
+1 Blossoming Defense
+1 Boil
+1 Bountiful Promenade
+1 Burnout
+1 Canopy Vista
+1 Chaos Warp
+1 Chord of Calling
+1 Cinder Glade
+1 Clifftop Retreat
+1 Command Tower
+1 Compost
+1 Decimate
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Eternal Witness
+1 Exotic Orchard
+1 Faeburrow Elder
+1 Faithless Looting
+1 Fecundity
+1 Felidar Guardian
+1 Finale of Devastation
+1 Flooded Strand
+3 Forest
+1 Gamble
+1 Generous Gift
+1 Green Sun's Zenith
+1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
+1 Guttural Response
+1 Hyrax Tower Scout
+1 Kiki-Jiki, Mirror Breaker
+1 Kozilek, Butcher of Truth
+1 Krosan Grip
+1 Lightning Greaves
+1 Llanowar Elves
+1 Mana Confluence
+1 Marsh Flats
+1 Mirari's Wake
+1 Mirror Entity
+1 Mountain
+1 Mutagenic Growth
+1 Nature's Lore
+1 Nissa, Vastwood Seer // Nissa, Sage Animist
+1 Noxious Revival
+1 Oblation
+1 Okina, Temple to the Grandfathers
+1 Path to Exile
+1 Plains
+1 Plateau
+1 Primal Growth
+1 Purphoros, God of the Forge
+1 Pyroblast
+1 Razorverge Thicket
+1 Reap
+1 Reclamation Sage
+1 Red Elemental Blast
+1 Reflecting Pool
+1 Regrowth
+1 Reliquary Tower
+1 Rootbound Crag
+1 Runic Armasaur
+1 Sacred Foundry
+1 Savannah
+1 Secluded Steppe
+1 Selvala, Explorer Returned
+1 Silence
+1 Skullclamp
+1 Smothering Tithe
+1 Sol Ring
+1 Spire Garden
+1 Stomping Ground
+1 Sublime Exhalation
+1 Sundering Growth
+1 Sunpetal Grove
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Sylvan Caryatid
+1 Taiga
+1 Temple Garden
+1 Tempt with Discovery
+1 Thornbite Staff
+1 Tranquil Thicket
+1 Vandalblast
+1 Village Bell-Ringer
+1 Wayward Swordtooth
+1 Windswept Heath
+1 Wooded Foothills
+1 Worldly Tutor
+1 Wrath of God
+

@@ -1,0 +1,81 @@
+1 Aetherize
+1 Agent of Treachery
+1 Ancient Tomb
+1 Arcane Lighthouse
+1 Arcane Signet
+1 Archaeomancer
+1 Ashnod's Altar
+1 Blade of Selves
+1 Blue Sun's Zenith
+1 Body Double
+1 Brainstorm
+1 Castle Vantress
+1 Clever Impersonator
+1 Command Beacon
+1 Consecrated Sphinx
+1 Counterspell
+1 Curse of the Swine
+1 Cyclonic Rift
+1 Deadeye Navigator
+1 Devastation Tide
+1 Diluvian Primordial
+1 Disallow
+1 Domineering Will
+1 Echoing Truth
+1 Fact or Fiction
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Followed Footsteps
+1 Force of Will
+1 Glasspool Mimic / Glasspool Shore
+1 Helm of the Host
+1 High Market
+24 Island
+1 Jace, Wielder of Mysteries
+1 Keiga, the Tide Star
+1 Laboratory Maniac
+1 Mana Drain
+1 Minamo, School at Water's Edge
+1 Mind Stone
+1 Minion Reflector
+1 Mirror Image
+1 Mirrormade
+1 Mirrorpool
+1 Mission Briefing
+1 Myriad Landscape
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Mystical Tutor
+1 Narset's Reversal
+1 Negate
+1 Peregrine Drake
+1 Phantasmal Image
+1 Pongify
+1 Propaganda
+1 Pull from Tomorrow
+1 Quasiduplicate
+1 Reliquary Tower
+1 Rhystic Study
+1 Rite of Replication
+1 Sakashima the Impostor
+1 Sapphire Medallion
+1 Sensei's Divining Top
+1 Shapesharer
+1 Sky Diamond
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spark Double
+1 Strionic Resonator
+1 Stunt Double
+1 Swan Song
+1 Swiftfoot Boots
+1 Talrand, Sky Summoner
+1 Thassa's Oracle
+1 Thieving Skydiver
+1 Thought Vessel
+1 Unsummon
+1 Vizier of Many Faces
+
+SIDEBOARD:
+1 Faerie Artisans
+1 Time Spiral

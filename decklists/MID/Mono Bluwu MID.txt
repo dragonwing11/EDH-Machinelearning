@@ -1,0 +1,88 @@
+1 Academy Ruins
+1 Ancient Tomb
+1 Arcane Signet
+1 Back to Basics
+1 Baral, Chief of Compliance
+1 Bident of Thassa
+1 Brainstorm
+1 Capture of Jingzhou
+1 Coastal Piracy
+1 Coat of Arms
+1 Coldsteel Heart
+1 Consecrated Sphinx
+1 Counterspell
+1 Curiosity
+1 Curious Obsession
+1 Cursed Totem
+1 Cyclonic Rift
+1 Disallow
+1 Essence Scatter
+1 Fabricate
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gemstone Caverns
+1 Gitaxian Probe
+1 Heraldic Banner
+1 High Tide
+1 Impulse
+1 Inventors' Fair
+1 Jeweled Lotus
+1 Kindred Discovery
+1 Lightning Greaves
+1 Loyal Drake
+1 Mana Drain
+1 Mana Vault
+1 Midnight Clock
+1 Mind Stone
+1 Misty Rainforest
+1 Mox Opal
+1 Muddle the Mixture
+1 Murmuring Mystic
+1 Myriad Landscape
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Mystical Tutor
+1 Negate
+1 Nykthos, Shrine to Nyx
+1 Opt
+1 Polluted Delta
+1 Ponder
+1 Pongify
+1 Portent
+1 Preordain
+1 Rapid Hybridization
+1 Reality Shift
+1 Reconnaissance Mission
+1 Reliquary Tower
+1 Rewind
+1 Rhystic Study
+1 Riptide Laboratory
+1 Sapphire Medallion
+1 Scalding Tarn
+1 Seat of the Synod
+1 Sensei's Divining Top
+1 Serum Visions
+1 Shark Typhoon
+1 Sky Diamond
+1 Snap
+18 Snow-Covered Island
+1 Sol Ring
+1 Strip Mine
+1 Swan Song
+1 Talrand's Invocation
+1 Talrand, Sky Summoner
+1 Temporal Manipulation
+1 Thought Vessel
+1 Time Warp
+1 Unwind
+1 Unwinding Clock
+1 Wavebreak Hippocamp
+1 Wizard's Retort
+
+Maybeboard
+1 Torpor Orb
+

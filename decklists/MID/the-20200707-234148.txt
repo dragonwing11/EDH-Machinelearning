@@ -1,0 +1,83 @@
+1 Aetherflux Reservoir
+1 Ancient Tomb
+1 Arcane Melee
+1 Atemsis, All-Seeing
+1 Beacon Bolt
+1 Blasphemous Act
+1 Bonus Round
+1 Brainstorm
+1 Careful Study
+1 Cascade Bluffs
+1 Chain Reaction
+1 Chaos Warp
+1 Chromatic Lantern
+1 Comet Storm
+1 Command Tower
+1 Crackling Drake
+1 Cyclonic Rift
+1 Dualcaster Mage
+1 Enigma Drake
+1 Fact or Fiction
+1 Forgotten Cave
+1 Fork
+1 Frantic Search
+1 Gamble
+1 Geier Reach Sanitarium
+1 Gilded Drake
+1 Gilded Lotus
+1 Halimar Depths
+1 Hypersonic Dragon
+1 Ideas Unbound
+1 Impulse
+12 Island
+1 Izzet Boilerworks
+1 Izzet Keyrune
+1 Izzet Locket
+1 Leadership Vacuum
+1 Lonely Sandbar
+1 Lotus Bloom
+1 Mana Geyser
+1 Melek, Izzet Paragon
+1 Memory Jar
+1 Mercurial Chemister
+1 Metallurgic Summonings
+1 Mirrormade
+7 Mountain
+1 Myriad Landscape
+1 Mystical Tutor
+1 Niv-Mizzet, Parun
+1 Past in Flames
+1 Propaganda
+1 Recurring Insight
+1 Reflecting Pool
+1 Reliquary Tower
+1 Reverberate
+1 Rise from the Tides
+1 Rite of Replication
+1 Role Reversal
+1 Saheeli's Artistry
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Sentinel Tower
+1 Serum Visions
+1 Shark Typhoon
+1 Shivan Reef
+1 Snap
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spellheart Chimera
+1 Steam Vents
+1 Stitch in Time
+1 Sulfur Falls
+1 Temple of Epiphany
+1 Temple of the False God
+1 Terrain Generator
+1 The Locust God
+1 The Magic Mirror
+1 Thran Dynamo
+1 Time Spiral
+1 Twincast
+1 Twinning Staff
+1 Visions of Beyond
+1 Windfall
+1 Worn Powerstone

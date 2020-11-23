@@ -1,0 +1,79 @@
+1 Abjure
+1 Arcane Adaptation
+1 Arcane Denial
+1 Arcane Signet
+1 Augury Owl
+1 Baleful Strix
+1 Bojuka Bog
+1 Brainstorm
+1 Castle Locthwain
+1 Castle Vantress
+1 Cerulean Drake
+1 Changeling Outcast
+1 Command Tower
+1 Commander's Sphere
+1 Commit / Memory
+1 Counterspell
+1 Countersquall
+1 Creeping Tar Pit
+1 Curtains' Call
+1 Daze
+1 Decree of Pain
+1 Delay
+1 Devastation Tide
+1 Dig Through Time
+1 Dispel
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Faerie Conclave
+1 Faerie Seer
+1 Faerie Vandal
+1 Fallen Shinobi
+1 Force of Negation
+1 Gudul Lurker
+1 Halimar Depths
+1 Higure, the Still Wind
+1 Hypnotic Sprite / Mesmeric Glare
+1 Imprisoned in the Moon
+1 Ingenious Infiltrator
+13 Island
+1 Karn's Temporal Sundering
+1 Mana Leak
+1 Mindshrieker
+1 Misdirection
+1 Mistblade Shinobi
+1 Mist-Cloaked Herald
+1 Mist-Syndicate Naga
+1 Moonblade Shinobi
+1 Mothdust Changeling
+1 Mystical Tutor
+1 Negate
+1 Never / Return
+1 Nightveil Sprite
+1 Ninja of the Deep Hours
+1 Ornithopter
+1 Phantom Ninja
+1 Rogue's Passage
+1 Sage Owl
+1 Scheming Symmetry
+1 Scroll Rack
+1 Slither Blade
+1 Sol Ring
+1 Soothsaying
+1 Spark Double
+1 Spectral Sailor
+1 Spell Pierce
+1 Spellstutter Sprite
+1 Spire Owl
+1 Sunken Hollow
+10 Swamp
+1 Swan Song
+1 Temporal Mastery
+1 Temporal Trespass
+1 Tetsuko Umezawa, Fugitive
+1 Thalakos Seer
+1 Treasure Cruise
+1 Underground River
+1 Watery Grave
+1 Xenograft
+1 Yuriko, the Tiger's Shadow

@@ -1,0 +1,87 @@
+1 Altar of the Brood
+1 Aminatou's Augury
+1 Aminatou, the Fateshifter
+1 Approach of the Second Sun
+1 Arcane Sanctum
+1 Archaeomancer
+1 Ashiok, Sculptor of Fears
+1 Azor, the Lawbringer
+1 Azorius Chancery
+1 Azorius Guildgate
+1 Azorius Signet
+1 Banishing Stroke
+1 Brainstorm
+1 Cancel
+1 Chromatic Lantern
+1 Coastal Tower
+1 Command Tower
+1 Contingency Plan
+1 Counterbalance
+1 Counterspell
+1 Deadeye Navigator
+1 Devastation Tide
+1 Diabolic Tutor
+1 Dimir Aqueduct
+1 Dimir Signet
+1 Djinn of Wishes
+1 Dovin, Hand of Control
+1 Drawn from Dreams
+1 Dream Eater
+1 Duskmantle Seer
+1 Elixir of Immortality
+1 Elspeth, Sun's Champion
+1 Enigma Sphinx
+1 Entreat the Angels
+1 Entreat the Dead
+1 Evolving Wilds
+1 Fact or Fiction
+1 Fall of the Gavel
+1 Forge of Heroes
+1 God-Eternal Kefnet
+1 Godless Shrine
+1 Halimar Depths
+1 Hallowed Fountain
+1 Into the Void
+6 Island
+1 Jace, the Living Guildpact
+1 Karn, the Great Creator
+1 Medomai the Ageless
+1 Mnemonic Betrayal
+1 Mycosynth Lattice
+1 Mystic Forge
+1 New Benalia
+1 Nexus of Fate
+1 Oath of Kaya
+1 Oath of Teferi
+1 Orzhov Basilica
+1 Orzhov Signet
+1 Overwhelmed Apprentice
+1 Peregrine Drake
+6 Plains
+1 Ponder
+1 Portent
+1 Psychic Surgery
+1 Razaketh's Rite
+1 Reliquary Tower
+1 Scour All Possibilities
+1 Sen Triplets
+1 Sensei's Divining Top
+1 Skull Storm
+1 Snow-Covered Swamp
+1 Sol Ring
+1 Sorin, Grim Nemesis
+1 Soulherder
+1 Spark Double
+1 Sphinx of Jwar Isle
+1 Supreme Verdict
+5 Swamp
+1 Teferi, Timebender
+1 Terminus
+1 Terramorphic Expanse
+1 Thran Dynamo
+1 Ugin, the Ineffable
+1 Unwind
+1 Watery Grave
+1 Wishclaw Talisman
+1 Wrath of God
+

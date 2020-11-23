@@ -1,0 +1,90 @@
+1 Abrupt Decay
+1 Altar of Bone
+1 Anafenza, the Foremost
+1 Arbor Elf
+1 Arcane Signet
+1 Ashnod's Altar
+1 Avacyn's Pilgrim
+1 Aven Mindcensor
+1 Beast Within
+1 Birds of Paradise
+1 Blood Artist
+1 Blooming Marsh
+1 Burnished Hart
+1 Casualties of War
+1 Champion of Lambholt
+1 Chrome Mox
+1 Command Tower
+1 Concealed Courtyard
+1 Craterhoof Behemoth
+1 Deathrite Shaman
+1 Demonic Tutor
+1 Diabolic Intent
+1 Eladamri's Call
+1 Elvish Archdruid
+1 Elvish Mystic
+1 Eternal Witness
+1 Exotic Orchard
+1 Fatal Push
+1 Field of the Dead
+1 Finale of Devastation
+1 Flooded Strand
+6 Forest
+1 Fyndhorn Elves
+1 Ghost Quarter
+1 Godless Shrine
+1 Grateful Apparition
+1 Hardened Scales
+1 Heroic Intervention
+1 Incubation Druid
+1 Kambal, Consul of Allocation
+1 Knight of Autumn
+1 Krosan Grip
+1 Leyline of the Void
+1 Liliana, Heretical Healer / Liliana, Defiant Necromancer
+1 Llanowar Elves
+1 Lotus Petal
+1 Mana Vault
+1 Mind's Eye
+1 Mirror Entity
+1 Mortify
+1 Nissa, Voice of Zendikar
+1 Noxious Revival
+1 Overgrown Tomb
+1 Path to Exile
+1 Phyrexian Revoker
+1 Pir, Imaginative Rascal
+4 Plains
+1 Priest of Titania
+1 Prismatic Vista
+1 Reclamation Sage
+1 Reliquary Tower
+1 Scavenging Ooze
+1 Seedborn Muse
+1 Sensei's Divining Top
+1 Shamanic Revelation
+1 Sidisi, Undead Vizier
+1 Sigarda, Host of Herons
+1 Silence
+1 Silent Clearing
+1 Skullclamp
+1 Smothering Tithe
+1 Snow-Covered Forest
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+1 Sol Ring
+1 Solemn Simulacrum
+3 Swamp
+1 Swords to Plowshares
+1 Temple Garden
+1 Terastodon
+1 Thought Vessel
+1 Unearth
+1 Vampire Hexmage
+1 Veil of Summer
+1 Vindicate
+1 Wild Growth
+1 Windswept Heath
+1 Wooded Foothills
+1 Worldly Tutor
+1 Zendikar Resurgent

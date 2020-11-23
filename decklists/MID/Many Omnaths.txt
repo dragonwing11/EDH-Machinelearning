@@ -1,0 +1,86 @@
+1 Arid Mesa
+1 Avenger of Zendikar
+1 Azusa, Lost but Seeking
+1 Beast Within
+1 Blighted Woodland
+1 Bonus Round
+1 Breeding Pool
+1 Burnished Hart
+1 Cackling Counterpart
+1 Chromatic Orrery
+1 Circuitous Route
+1 Cloudkin Seer
+1 Cloudstone Curio
+1 Crucible of Worlds
+1 Cultivate
+1 Cyclonic Rift
+1 Dockside Extortionist
+1 Doubling Cube
+1 Echo of Eons
+1 Elixir of Immortality
+1 Enlightened Tutor
+1 Explosive Vegetation
+1 Fated Infatuation
+1 Finale of Revelation
+1 Flooded Strand
+6 Forest
+1 Frantic Search
+1 Growth Spiral
+1 Hallowed Fountain
+1 Harrow
+1 Heat Shimmer
+1 Helm of the Host
+6 Island
+1 Ketria Triome
+1 Kodama's Reach
+1 Leafkin Druid
+1 Library of Leng
+1 Mana Confluence
+1 Mana Drain
+1 Mana Geyser
+1 Mana Reflection
+1 Manamorphose
+1 Melek, Izzet Paragon
+1 Mirror March
+1 Mirrormade
+1 Misty Rainforest
+4 Mountain
+1 Mythos of Illuna
+1 Negate
+1 Nyxbloom Ancient
+1 Omnath, Locus of Creation
+1 Omnath, Locus of Rage
+1 Omnath, Locus of the Roil
+1 Opt
+3 Plains
+1 Platinum Angel
+1 Psychic Spiral
+1 Pyretic Ritual
+1 Quasiduplicate
+1 Rampant Growth
+1 Ramunap Excavator
+1 Raugrin Triome
+1 Reiterate
+1 Repeated Reverberation
+1 Repudiate // Replicate
+1 Reverberate
+1 Risen Reef
+1 Rite of Replication
+1 Sacred Foundry
+1 Scalding Tarn
+1 Seething Song
+1 Silence
+1 Sol Ring
+1 Song of Creation
+1 Spark Double
+1 Steam Vents
+1 Stomping Ground
+1 Swords to Plowshares
+1 Temple Garden
+1 Temur Sabertooth
+1 Thousand-Year Storm
+1 Uro, Titan of Nature's Wrath
+1 Windswept Heath
+1 Wooded Foothills
+1 Worldly Tutor
+

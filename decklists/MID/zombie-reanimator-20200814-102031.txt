@@ -1,0 +1,93 @@
+1 Animate Dead
+1 Apprentice Necromancer
+1 Arcane Signet
+1 Arid Mesa
+1 Avacyn, Angel of Hope
+1 Blood Artist
+1 Bloodstained Mire
+1 Bone Miser
+1 Cemetery Reaper
+1 Chainer, Dementia Master
+1 City of Brass
+1 Command Tower
+1 Corpse Knight
+1 Counterspell
+1 Cryptbreaker
+1 Cryptic Command
+1 Dance of the Dead
+1 Death Baron
+1 Dimir Signet
+1 Diregraf Captain
+1 Diregraf Colossus
+1 Disallow
+1 Dovin's Veto
+1 Dread Return
+1 Echo of Eons
+1 Elesh Norn, Grand Cenobite
+1 Endless Ranks of the Dead
+1 Eternal Taskmaster
+1 Fierce Guardianship
+1 Flooded Strand
+1 Godless Shrine
+1 Grave Titan
+1 Gravecrawler
+1 Gravespawn Sovereign
+1 Hallowed Fountain
+1 Island
+1 Josu Vess, Lich Knight
+1 Kindred Dominance
+1 Lich Lord of Unx
+1 Liliana, Dreadhorde General
+1 Lord of the Undead
+1 Mana Confluence
+1 Mana Drain
+1 Mana Leak
+1 Marsh Flats
+1 Misty Rainforest
+1 Morphic Pool
+1 Mystical Tutor
+1 Necromancy
+1 Ominous Seas
+1 Open the Graves
+1 Orzhov Signet
+1 Path to Exile
+1 Phyrexian Altar
+1 Phyrexian Delver
+1 Phyrexian Tower
+1 Plains
+1 Polluted Delta
+1 Prismatic Vista
+1 Reanimate
+1 Relentless Dead
+1 Reya Dawnbringer
+1 Rhystic Study
+1 Rise of the Dark Realms
+1 Rooftop Storm
+1 Rot Hulk
+1 Scalding Tarn
+1 Scrubland
+1 Sheoldred, Whispering One
+1 Shepherd of Rot
+1 Sol Ring
+1 Stitcher's Supplier
+8 Swamp
+1 Swords to Plowshares
+1 Syr Konrad, the Grim
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Teferi's Protection
+1 The Scarab God
+1 Tundra
+1 Undead Alchemist
+1 Undead Augur
+1 Undead Warchief
+1 Underground Sea
+1 Varina, Lich Queen
+1 Verdant Catacombs
+1 Victimize
+1 Watery Grave
+1 Whip of Erebos
+1 Winds of Rebuke
+1 Windswept Heath
+1 Zombie Apocalypse

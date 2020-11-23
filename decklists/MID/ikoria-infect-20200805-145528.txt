@@ -1,0 +1,82 @@
+1 Abundant Growth
+1 Alchemist's Refuge
+1 Archipelagore
+1 Asceticism
+1 Auspicious Starrix
+1 Awakening of Vitu-Ghazi
+1 Blasphemous Act
+1 Blighted Agent
+1 Blightsteel Colossus
+1 Breeding Pool
+1 Coercive Portal
+1 Command Tower
+1 Consecrated Sphinx
+1 Contagion Engine
+1 Core Prowler
+1 Cyclonic Rift
+1 Decimate
+1 Elder Gargaroth
+1 Embercleave
+1 Etali, Primal Storm
+1 Everquill Phoenix
+1 Expropriate
+1 Far Wanderings
+1 Farseek
+1 Fiery Emancipation
+1 Finale of Devastation
+1 Firemind Vessel
+1 Force of Negation
+1 Force of Will
+10 Forest
+1 Gemrazer
+1 Heroic Intervention
+1 Hydra's Growth
+1 Illuna, Apex of Wishes
+1 Ilysian Caryatid
+1 Inexorable Tide
+7 Island
+1 Ketria Triome
+1 Mana Drain
+1 Migratory Greathorn
+1 Misty Rainforest
+4 Mountain
+1 Mystical Tutor
+1 Necropede
+1 Pact of Negation
+1 Parcelbeast
+1 Pemmin's Aura
+1 Phyrexian Swarmlord
+1 Porcuparrot
+1 Rhystic Study
+1 Riku of Two Reflections
+1 Scalding Tarn
+1 Scroll Rack
+1 Sea-Dasher Octopus
+1 Seedborn Muse
+1 Selvala, Heart of the Wilds
+1 Sensei's Divining Top
+1 Shaman of the Great Hunt
+1 Sheltered Thicket
+1 Steam Vents
+1 Stomping Ground
+1 Sublime Epiphany
+1 Sword of Truth and Justice
+1 Sylvan Library
+1 Taiga
+1 Talisman of Impulse
+1 Teferi's Ageless Insight
+1 Temur Sabertooth
+1 Thassa, God of the Sea
+1 Time Stretch
+1 Tropical Island
+1 Ugin, the Spirit Dragon
+1 Vedalken Orrery
+1 Viral Drake
+1 Volcanic Island
+1 Vorinclex, Voice of Hunger
+1 Waterlogged Grove
+1 Whispersilk Cloak
+1 Wooded Foothills
+1 Worldly Tutor
+1 Xenagos, God of Revels
+1 Zendikar Resurgent

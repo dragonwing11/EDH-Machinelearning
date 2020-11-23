@@ -1,0 +1,81 @@
+1 Arbor Elf
+1 Barren Moor
+1 Centaur Vinecrasher
+1 Cryptic Caves
+1 Crystal Vein
+1 Culling the Weak
+1 Dakmor Salvage
+1 Dark Ritual
+1 Demonic Tutor
+1 Desert of the Glorified
+1 Desert of the Indomitable
+1 Doomsday
+1 Dread
+1 Drownyard Temple
+1 Edge of Autumn
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Elvish Reclaimer
+1 Emergence Zone
+1 Entomb
+1 Evolving Wilds
+1 Fertile Ground
+1 Final Parting
+14 Forest
+1 Foul Orchard
+1 Gaea's Blessing
+1 Golgari Grave-Troll
+1 Golgari Guildgate
+1 Golgari Rot Farm
+1 Golgari Signet
+1 Golgari Thug
+1 Grisly Salvage
+1 Harrow
+1 Jarad, Golgari Lich Lord
+1 Jarad's Orders
+1 Jungle Hollow
+1 Krosan Reclamation
+1 Life from the Loam
+1 Llanowar Elves
+1 Llanowar Wastes
+1 Nature's Claim
+1 Noose Constrictor
+1 Oblivion Crown
+1 Olivia's Dragoon
+1 Patchwork Gnomes
+1 Phyrexian Tower
+1 Polluted Delta
+1 Polluted Mire
+1 Putrid Imp
+1 Rain of Filth
+1 Rampant Growth
+1 Ramunap Excavator
+1 Raven's Crime
+1 Reanimate
+1 Return to Nature
+1 Riftsweeper
+1 Sakura-Tribe Elder
+1 Search for Tomorrow
+1 Shared Summons
+1 Skirge Familiar
+1 Slippery Karst
+1 Sol Ring
+1 Splendid Reclamation
+1 Springbloom Druid
+1 Stinkweed Imp
+7 Swamp
+1 Sylvan Scrying
+1 Syphon Life
+1 Tainted Wood
+1 Talisman of Resilience
+1 Terramorphic Expanse
+1 The Gitrog Monster
+1 Tranquil Thicket
+1 Traverse the Ulvenwald
+1 Unravel the Aether
+1 Veil of Summer
+1 Vigor
+1 Volrath's Dungeon
+1 Wild Growth
+1 Wild Mongrel
+1 Worm Harvest

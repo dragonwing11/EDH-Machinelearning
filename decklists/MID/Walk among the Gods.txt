@@ -1,0 +1,94 @@
+1 Altar of the Pantheon
+1 Approach of the Second Sun
+1 Arcane Signet
+1 Azorius Chancery
+1 Bant Charm
+1 Bear Umbra
+1 Bident of Thassa
+1 Calix, Destiny's Hand
+1 Command Tower
+1 Counterspell
+1 Courser of Kruphix
+1 Cultivate
+1 Day of Judgment
+1 Destiny Spinner
+1 Doubling Season
+1 Dryad of the Ilysian Grove
+1 Eidolon of Blossoms
+1 Enchantress's Presence
+1 Ephara, God of the Polis
+1 Estrid's Invocation
+1 Estrid, the Masked
+1 Farseek
+1 Fertile Ground
+1 Fierce Guardianship
+1 Force of Vigor
+4 Forest
+1 Ghostly Prison
+1 Glacial Fortress
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Heliod, God of the Sun
+1 Heliod, Sun-Crowned
+1 Herald of the Pantheon
+1 Heroic Intervention
+1 Hinterland Harbor
+1 Homeward Path
+1 Honor-Worn Shaku
+1 Idyllic Tutor
+1 Irrigated Farmland
+3 Island
+1 Karametra, God of Harvests
+1 Karn's Bastion
+1 Krosan Verge
+1 Kruphix, God of Horizons
+1 Leyline of Anticipation
+1 Luminarch Ascension
+1 Mesa Enchantress
+1 Mirrormade
+1 Nimbus Maze
+1 Nylea, God of the Hunt
+1 Nylea, Keen-Eyed
+1 Oath of Ajani
+1 Oath of Gideon
+1 Oath of Nissa
+1 Oath of Teferi
+1 Oblivion Ring
+1 Oko, Thief of Crowns
+1 Overgrowth
+3 Plains
+1 Prairie Stream
+1 Privileged Position
+1 Propaganda
+1 Reliquary Tower
+1 Return to Dust
+1 Rhystic Study
+1 Satyr Enchanter
+1 Scattered Groves
+1 Seaside Citadel
+1 Selesnya Sanctuary
+1 Setessan Champion
+1 Sigil of the Empty Throne
+1 Simic Growth Chamber
+1 Smothering Tithe
+1 Sol Ring
+1 Spark Double
+1 Spear of Heliod
+1 Starfield Mystic
+1 Sunpetal Grove
+1 Swords to Plowshares
+1 Tamiyo, Collector of Tales
+1 Tamiyo, Field Researcher
+1 Tamiyo, the Moon Sage
+1 Teferi, Master of Time
+1 Temple Garden
+1 Temple of Enlightenment
+1 Temple of Mystery
+1 Temple of Plenty
+1 Thassa, Deep-Dwelling
+1 Thassa, God of the Sea
+1 Ugin, the Spirit Dragon
+1 Venser, the Sojourner
+1 Wild Growth
+1 Wrath of God
+

@@ -1,0 +1,140 @@
+1 Altar of Dementia
+1 Ancient Greenwarden
+1 Arid Mesa
+1 Ashnod's Altar
+1 Avenger of Zendikar
+1 Azusa, Lost but Seeking
+1 Beast Within
+1 Blasphemous Act
+1 Bloodstained Mire
+1 Burgeoning
+1 Cavern of Souls
+1 Cinder Glade
+1 Crop Rotation
+1 Crucible of Worlds
+1 Cultivate
+1 Decimate
+1 Domri, Anarch of Bolas
+1 Doubling Season
+1 Dryad of the Ilysian Grove
+1 Elemental Bond
+1 Eternal Witness
+1 Exploration
+1 Fabled Passage
+1 Farseek
+1 Field of the Dead
+1 Fiery Emancipation
+1 Finale of Devastation
+1 Fires of Yavimaya
+1 Force of Vigor
+5 Forest
+1 Garruk's Uprising
+1 Garruk, Primal Hunter
+1 Ghost Town
+1 Goblin Bombardment
+1 Greater Good
+1 Green Sun's Zenith
+1 Hammer of Purphoros
+1 Harmonize
+1 Harrow
+1 Heroic Intervention
+1 Homeward Path
+1 Hour of Promise
+1 Kodama's Reach
+1 Krosan Grip
+1 Lotus Cobra
+1 Misty Rainforest
+1 Moraug, Fury of Akoum
+4 Mountain
+1 Nature's Claim
+1 Nature's Lore
+1 Nissa, Vastwood Seer // Nissa, Sage Animist
+1 Nissa, Vital Force
+1 Omnath, Locus of Rage
+1 Oracle of Mul Daya
+1 Parallel Lives
+1 Pir's Whim
+1 Prismatic Omen
+1 Prismatic Vista
+1 Purphoros, God of the Forge
+1 Rampaging Baloths
+1 Rampant Growth
+1 Ramunap Excavator
+1 Return of the Wildspeaker
+1 Rishkar's Expertise
+1 Sakura-Tribe Elder
+1 Scalding Tarn
+1 Scapeshift
+1 Sheltered Thicket
+1 Skyshroud Claim
+4 Snow-Covered Forest
+4 Snow-Covered Mountain
+1 Sol Ring
+1 Stomping Ground
+1 Strip Mine
+1 Sylvan Library
+1 Terror of the Peaks
+1 Tireless Tracker
+1 Tooth and Nail
+1 Triumph of the Hordes
+1 Valakut Exploration
+1 Valakut, the Molten Pinnacle
+1 Veil of Summer
+1 Verdant Catacombs
+1 Warstorm Surge
+1 Windswept Heath
+1 Wood Elves
+1 Wooded Foothills
+
+Cuts
+1 Anger of the Gods
+1 Blighted Woodland
+1 Evolving Wilds
+1 Explosive Vegetation
+1 Hunting Wilds
+1 Migration Path
+1 Sanctum of Eternity
+1 Storm's Wrath
+1 Sweltering Suns
+1 Tectonic Edge
+1 Tempt with Discovery
+1 Terramorphic Expanse
+1 Vastwood Surge
+1 Where Ancients Tread
+1 Woodland Bellower
+
+Maybeboard
+1 Autumn's Veil
+1 Courser of Kruphix
+1 Craterhoof Behemoth
+1 Deflecting Swat
+1 Hull Breach
+1 Life from the Loam
+1 Mana Crypt
+1 Nahiri's Lithoforming
+1 Outpost Siege
+1 Perilous Forays
+1 Phylath, World Sculptor
+1 Phyrexian Altar
+1 Radha, Heart of Keld
+1 Reap and Sow
+1 Rhythm of the Wild
+1 Roiling Regrowth
+1 Soul-Guide Lantern
+1 Stalking Vengeance
+1 Sylvan Scrying
+1 Taiga
+1 Three Visits
+1 Titania, Protector of Argoth
+1 Vandalblast
+1 Vexing Shusher
+1 World Shaper
+1 Wrenn and Six
+
+Suggested Adds
+1 Chaos Warp
+1 Ezuri's Predation
+1 Pyroblast
+1 Red Elemental Blast
+1 Seedtime
+

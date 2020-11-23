@@ -1,0 +1,91 @@
+1 Arachnogenesis
+1 Archaeomancer
+1 Ashiok, Dream Render
+1 Bioessence Hydra
+1 Breeding Pool
+1 Chromatic Lantern
+1 Command Tower
+1 Constant Mists
+1 Counterspell
+1 Cultivate
+1 Cyclonic Rift
+1 Darkness
+1 Deepglow Skate
+1 Demonic Tutor
+1 Dimir Signet
+1 Doubling Season
+1 Esper Panorama
+1 Eternal Witness
+1 Evolving Wilds
+1 Exotic Orchard
+1 Expropriate
+1 Fact or Fiction
+5 Forest
+1 Garruk, Apex Predator
+1 Genesis Wave
+1 Gilded Lotus
+1 Golgari Signet
+1 Interplanar Beacon
+6 Island
+1 Jace, Architect of Thought
+1 Jace, Memory Adept
+1 Jace, Unraveler of Secrets
+1 Jace, Vryn's Prodigy // Jace, Telepath Unbound
+1 Kasmina, Enigmatic Mentor
+1 Kaya's Ghostform
+1 Kiora, the Crashing Wave
+1 Kodama's Reach
+1 Krosan Grip
+1 Languish
+1 Liliana of the Dark Realms
+1 Liliana, the Necromancer
+1 Maze of Ith
+1 Mox Amber
+1 Mu Yanling
+1 Muldrotha, the Gravetide
+1 Myriad Landscape
+1 Narset's Reversal
+1 Narset, Parter of Veils
+1 Nevinyrral's Disk
+1 Nissa, Vastwood Seer // Nissa, Sage Animist
+1 Nissa, Vital Force
+1 Ob Nixilis Reignited
+1 Oko, Thief of Crowns
+1 Omniscience
+1 Opulent Palace
+1 Overgrown Tomb
+1 Perplexing Chimera
+1 Plasm Capture
+1 Reanimate
+1 Rhystic Study
+1 Sakura-Tribe Elder
+1 Secrets of the Dead
+1 Simic Signet
+1 Sol Ring
+1 Song of the Dryads
+1 Sorin Markov
+1 Spark Double
+1 Spike Weaver
+1 Spore Frog
+5 Swamp
+1 Tainted Isle
+1 Tainted Wood
+1 Tamiyo, the Moon Sage
+1 Teferi, Temporal Archmage
+1 Terramorphic Expanse
+1 Tezzeret, Artifice Master
+1 The Chain Veil
+1 The Elderspell
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Vraska, Golgari Queen
+1 Vraska, Relic Seeker
+1 Wasteland
+1 Watery Grave
+1 Wilderness Reclamation
+1 Woodland Cemetery
+1 Zagoth Triome
+
+Maybeboard
+1 Shark Typhoon
+

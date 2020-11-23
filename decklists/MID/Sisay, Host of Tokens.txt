@@ -1,0 +1,104 @@
+1 Akiri, Fearless Voyager
+1 Arcane Signet
+1 Arvad the Cursed
+1 Assassin's Trophy
+1 Blackblade Reforged
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bountiful Promenade
+1 Breeding Pool
+1 Brudiclad, Telchor Engineer
+1 Cascading Cataracts
+1 Chainer, Nightmare Adept
+1 Chaos Warp
+1 Chromatic Lantern
+1 Chromatic Orrery
+1 Command Tower
+1 Cultivate
+1 Cyclonic Rift
+1 Despark
+1 Dockside Extortionist
+1 Dovin's Veto
+1 Drowned Catacomb
+1 Elenda, the Dusk Rose
+1 Emmara, Soul of the Accord
+1 Etrata, the Silencer
+1 Exotic Orchard
+1 Faeburrow Elder
+1 Farseek
+1 Fellwar Stone
+1 Field of Ruin
+1 Flooded Grove
+2 Forest
+1 Gerrard, Weatherlight Hero
+1 Ghired, Conclave Exile
+1 Godless Shrine
+1 Godo, Bandit Warlord
+1 Graven Cairns
+1 Hadana's Climb // Winged Temple of Orazca
+1 Hammer of Nazahn
+1 Hate Mirage
+1 Helm of the Host
+1 Hero's Blade
+1 Heroic Intervention
+1 Illusionist's Bracers
+1 Indatha Triome
+1 Island
+1 Jhoira, Weatherlight Captain
+1 Journey to Eternity // Atzal, Cave of Eternity
+1 Kethis, the Hidden Hand
+1 Ketria Triome
+1 Kiora, Behemoth Beckoner
+1 Krenko, Tin Street Kingpin
+1 Lightning Greaves
+1 Morphic Pool
+1 Mox Amber
+1 Najeela, the Blade-Blossom
+1 Nazahn, Revered Bladesmith
+1 Niambi, Esteemed Speaker
+1 Overgrown Tomb
+1 Paradise Druid
+3 Plains
+1 Polluted Delta
+1 Prairie Stream
+1 Primevals' Glorious Rebirth
+1 Raugrin Triome
+1 Rhys the Redeemed
+1 Rishkar, Peema Renegade
+1 Rugged Prairie
+1 Ruric Thar, the Unbowed
+1 Sakura-Tribe Elder
+1 Savai Triome
+1 Sea of Clouds
+1 Sensei's Divining Top
+1 Shadowspear
+1 Shalai, Voice of Plenty
+1 Shinka, the Bloodsoaked Keep
+1 Sisay, Weatherlight Captain
+1 Smothering Tithe
+1 Sol Ring
+1 Spark Double
+1 Sunpetal Grove
+1 Swamp
+1 Tale's End
+1 Temple of Epiphany
+1 Temple of Malady
+1 Teysa Karlov
+1 The Locust God
+1 The Scarab God
+1 Trostani Discordant
+1 Unsubstantiate
+1 Unwind
+1 Urza's Ruinous Blast
+1 Watery Grave
+1 Wilderness Reclamation
+1 Wooded Foothills
+1 Xyris, the Writhing Storm
+1 Zagoth Triome
+
+Sideboard
+1 Atla Palani, Nest Tender
+
+Companion
+1 Jegantha, the Wellspring
+

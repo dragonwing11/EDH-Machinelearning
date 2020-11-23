@@ -1,0 +1,100 @@
+1 Amoeboid Changeling
+1 Amulet of Vigor
+1 Ashnod's Altar
+1 Awakening
+1 Azorius Guildgate
+1 Basal Sliver
+1 Blasphemous Act
+1 Bloodstained Mire
+1 Blur Sliver
+1 Bonescythe Sliver
+1 Boros Guildgate
+1 Chromatic Lantern
+1 Clot Sliver
+1 Cloudshredder Sliver
+1 Coat of Arms
+1 Command Tower
+1 Conclave Tribunal
+1 Crucible of Worlds
+1 Crystalline Sliver
+1 Cyclonic Rift
+1 Darksteel Ingot
+1 Deafening Clarion
+1 Dimir Guildgate
+1 Dormant Sliver
+1 Elixir of Immortality
+1 Exotic Orchard
+1 Fiery Islet
+1 Galerider Sliver
+1 Gemhide Sliver
+1 Ghost Quarter
+1 Golgari Guildgate
+1 Gruul Guildgate
+1 Harmonic Sliver
+1 Heart Sliver
+1 Heartstone
+1 Herald's Horn
+1 Hibernation Sliver
+1 Hinterland Harbor
+1 Homing Sliver
+1 Indatha Triome
+1 Intruder Alarm
+1 Izzet Guildgate
+1 Ketria Triome
+1 Kindred Summons
+1 Leyline of Anticipation
+1 Living Death
+1 Mana Echoes
+1 Manaweft Sliver
+1 Maze's End
+1 Might Sliver
+1 Morophon, the Boundless
+1 Mox Tantalite
+1 Muscle Sliver
+1 Mutavault
+1 Necrotic Sliver
+1 Nurturing Peatland
+1 Orzhov Guildgate
+1 Path to Exile
+1 Polluted Delta
+1 Predatory Sliver
+1 Purphoros, God of the Forge
+1 Quick Sliver
+1 Rakdos Guildgate
+1 Raugrin Triome
+1 Rhythm of the Wild
+1 Rootbound Crag
+1 Savai Triome
+1 Selesnya Guildgate
+1 Selesnya Sanctuary
+1 Sensei's Divining Top
+1 Sentinel Sliver
+1 Shared Summons
+1 Simic Guildgate
+1 Sliver Hive
+1 Sliver Hivelord
+1 Sliver Legion
+1 Sliver Overlord
+1 Sliver Queen
+1 Snow-Covered Forest
+1 Snow-Covered Island
+1 Snow-Covered Mountain
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+1 Sol Ring
+1 Spiteful Sliver
+1 Steam Vents
+1 Striking Sliver
+1 Sunbaked Canyon
+1 Syphon Sliver
+1 Teferi's Protection
+1 Temple of the False God
+1 The First Sliver
+1 The Great Henge
+1 Training Grounds
+1 Triumph of the Hordes
+1 Virulent Sliver
+1 Vivien, Monsters' Advocate
+1 Vivien's Arkbow
+1 Windswept Heath
+1 Zagoth Triome

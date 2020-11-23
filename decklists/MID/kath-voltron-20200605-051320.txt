@@ -1,0 +1,96 @@
+1 Aerial Responder
+1 Akroma, Angel of Wrath
+1 Arcane Signet
+1 Assassin's Trophy
+1 Avacyn, Angel of Hope
+1 Bassara Tower Archer
+1 Bayou
+1 Beast Within
+1 Birds of Paradise
+1 Bojuka Bog
+1 Bontu the Glorified
+1 Bountiful Promenade
+1 Bruna, the Fading Light
+1 Buried Alive
+1 Cabal Coffers
+1 Carnage Tyrant
+1 Caves of Koilos
+1 Command Tower
+1 Cultivate
+1 Demonic Tutor
+1 Doom Whisperer
+1 Eerie Ultimatum
+1 Entomb
+1 Eternal Witness
+1 Exotic Orchard
+1 Farseek
+1 Fauna Shaman
+3 Forest
+1 Gisela, the Broken Blade
+1 Godless Shrine
+1 Greater Good
+1 Grisly Salvage
+1 Hermit Druid
+1 High Market
+1 Horizon Canopy
+1 Indatha Triome
+1 Isolated Chapel
+1 Jarad's Orders
+1 Karametra, God of Harvests
+1 Kathril, Aspect Warper
+1 Kodama's Reach
+1 Krosan Verge
+1 Kunoros, Hound of Athreos
+1 Leyline Prowler
+1 Life from the Loam
+1 Lightning Greaves
+1 Living Death
+1 Llanowar Wastes
+1 Luminous Broodmoth
+1 Mana Crypt
+1 Marsh Flats
+1 Mythos of Nethroi
+1 Nesting Grounds
+1 Nethroi, Apex of Death
+1 Nurturing Peatland
+1 Nyx Weaver
+1 Obscuring Haze
+1 Odric, Lunarch Marshal
+1 Oketra the True
+1 Overgrown Tomb
+1 Phyrexian Arena
+2 Plains
+1 Questing Beast
+1 Reanimate
+1 Rhonas the Indomitable
+1 Satyr Wayfinder
+1 Savannah
+1 Scrubland
+1 Selective Adaptation
+1 Sigarda, Host of Herons
+1 Skull Prophet
+1 Slippery Bogbonder
+1 Smothering Tithe
+1 Sol Ring
+1 Stinkweed Imp
+1 Sunpetal Grove
+1 Survival of the Fittest
+2 Swamp
+1 Swarmyard
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Sylvan Caryatid
+1 Sylvan Library
+1 Teferi's Protection
+1 Temple Garden
+1 The Great Henge
+1 The Ozolith
+1 Twilight Mire
+1 Underrealm Lich
+1 Urborg, Tomb of Yawgmoth
+1 Vampire Nighthawk
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Windswept Heath
+1 Woodland Cemetery
+1 Zetalpa, Primal Dawn

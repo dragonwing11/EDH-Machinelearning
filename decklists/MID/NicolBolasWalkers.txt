@@ -1,0 +1,95 @@
+1 Academy Ruins
+1 Ancient Tomb
+1 Arcane Signet
+1 Badlands
+1 Baleful Strix
+1 Blasphemous Act
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bolas's Citadel
+1 Brainstorm
+1 Burnished Hart
+1 Chaos Warp
+1 Chromatic Lantern
+1 Clever Impersonator
+1 Command Tower
+1 Command the Dreadhorde
+1 Counterspell
+1 Cyclonic Rift
+1 Dack Fayden
+1 Damnation
+1 Dark Intimations
+1 Deepglow Skate
+1 Deliver Unto Evil
+1 Demonic Tutor
+1 Dimir Signet
+1 Dockside Extortionist
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Gem of Becoming
+1 Great Furnace
+4 Island
+1 Izzet Signet
+1 Jhoira, Weatherlight Captain
+1 Kess, Dissident Mage
+1 Leadership Vacuum
+1 Liliana, Dreadhorde General
+1 Luxury Suite
+1 Mana Drain
+1 Mimic Vat
+1 Morphic Pool
+2 Mountain
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystical Tutor
+1 Narset, Parter of Veils
+1 Negate
+1 Nicol Bolas, Dragon-God
+1 Nicol Bolas, God-Pharaoh
+1 Nicol Bolas, Planeswalker
+1 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen
+1 Nihil Spellbomb
+1 Notion Thief
+1 Polluted Delta
+1 Rakdos Signet
+1 Reflecting Pool
+1 Repeated Reverberation
+1 Rhystic Study
+1 Rings of Brighthearth
+1 Scalding Tarn
+1 Seat of the Synod
+1 Sensei's Divining Top
+1 Snapcaster Mage
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spark Double
+1 Spellseeker
+1 Steam Vents
+1 Sulfur Falls
+3 Swamp
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Temporal Mastery
+1 Tezzeret the Seeker
+1 Tezzeret, Artifice Master
+1 Tezzeret, Master of the Bridge
+1 Thaumatic Compass // Spires of Orazca
+1 The Elderspell
+1 Thirst for Knowledge
+1 Torment of Hailfire
+1 Toxic Deluge
+1 Trinket Mage
+1 Ugin, the Spirit Dragon
+1 Underground Sea
+1 Unearth
+1 Urza, Lord High Artificer
+1 Vampiric Tutor
+1 Vandalblast
+1 Vault of Whispers
+1 Volcanic Island
+1 Watery Grave
+1 Wayfarer's Bauble
+1 Windfall
+

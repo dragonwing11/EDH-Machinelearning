@@ -1,0 +1,86 @@
+1 All Is Dust
+1 Artificer's Assistant
+1 Assert Authority
+1 Brainstorm
+1 Brudiclad, Telchor Engineer
+1 Capsize
+1 Cascade Bluffs
+1 Chaos Warp
+1 Chief of the Foundry
+1 Command Tower
+1 Counterspell
+1 Curse of the Swine
+1 Dalakos, Crafter of Wonders
+1 Darksteel Citadel
+1 Darksteel Forge
+1 Darksteel Plate
+1 Dockside Extortionist
+1 Dragonmaster Outcast
+1 Etherium Sculptor
+1 Fabricate
+1 Feldon of the Third Path
+1 Fiery Islet
+1 Glimmervoid
+1 Glint-Nest Crane
+1 Great Furnace
+1 Helm of the Host
+1 Inventors' Fair
+1 Iron Myr
+10 Island
+1 Izzet Boilerworks
+1 Izzet Signet
+1 Jhoira, Weatherlight Captain
+1 Krark-Clan Ironworks
+1 Kuldotha Forgemaster
+1 Lightning Greaves
+1 Master of Etherium
+1 Mirrodin Besieged
+7 Mountain
+1 Mycosynth Golem
+1 Myr Battlesphere
+1 Myr Retriever
+1 Myr Turbine
+1 One with the Machine
+1 Padeem, Consul of Innovation
+1 Palladium Myr
+1 Phyrexia's Core
+1 Platinum Angel
+1 Platinum Emperion
+1 Purphoros, Bronze-Blooded
+1 Quasiduplicate
+1 Reconstruction
+1 Reliquary Tower
+1 Saheeli, Sublime Artificer
+1 Saheeli, the Gifted
+1 Sai, Master Thopterist
+1 Scalding Tarn
+1 Scrap Trawler
+1 Sculpting Steel
+1 Seat of the Synod
+1 Shimmer Dragon
+1 Shimmer Myr
+1 Shivan Reef
+1 Silver Myr
+1 Skullclamp
+1 Slobad, Goblin Tinkerer
+1 Sol Ring
+1 Spine of Ish Sah
+1 Steam Vents
+1 Steel Overseer
+1 Stoic Rebuttal
+1 Storm the Vault / Vault of Catlacan
+1 Sulfur Falls
+1 Swiftwater Cliffs
+1 Talisman of Creativity
+1 Tawnos, Urza's Apprentice
+1 Temple of Epiphany
+1 Tezzeret the Seeker
+1 Thopter Assembly
+1 Thopter Spy Network
+1 Treasonous Ogre
+1 Ugin, the Ineffable
+1 Unwinding Clock
+1 Vandalblast
+1 Vedalken Archmage
+1 Volcanic Island
+1 Wurmcoil Engine

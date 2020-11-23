@@ -1,0 +1,85 @@
+1 Aetherflux Reservoir
+1 Ajani, Strength of the Pride
+1 Alhammarret's Archive
+1 Angel of Vitality
+1 Arch of Orazca
+1 Authority of the Consuls
+1 Blind Obedience
+1 Boon Reflection
+1 Burnished Hart
+1 Caged Sun
+1 Children of Korlis
+1 Condemn
+1 Cradle of Vitality
+1 Darksteel Plate
+1 Dawn of Hope
+1 Daxos, Blessed by the Sun
+1 Day of Judgment
+1 Drannith Magistrate
+1 Emeria Shepherd
+1 Emeria, the Sky Ruin
+1 Endless Atlas
+1 Endless Horizons
+1 Evra, Halcyon Witness
+1 Felidar Sovereign
+1 Flawless Maneuver
+1 Fumigate
+1 Generous Gift
+1 Gift of Immortality
+1 Grand Abolisher
+1 Heliod's Intervention
+1 Heliod, Sun-Crowned
+1 Hour of Revelation
+1 Key to the City
+1 Knight of the White Orchid
+1 Lightning Greaves
+1 Mass Calcify
+1 Mind's Eye
+1 Myriad Landscape
+1 Nykthos, Shrine to Nyx
+1 Oblivion Ring
+1 Open the Armory
+1 Oreskos Explorer
+1 Path to Exile
+1 Pearl Medallion
+29 Plains
+1 Ranger of Eos
+1 Rebuff the Wicked
+1 Rhox Faithmender
+1 Rogue's Passage
+1 Sanguine Sacrament
+1 Secluded Steppe
+1 Selfless Spirit
+1 Serra Ascendant
+1 Serra Avatar
+1 Shatter the Sky
+1 Smothering Tithe
+1 Sol Ring
+1 Solemn Simulacrum
+1 Soul Warden
+1 Soul's Attendant
+1 Soul's Grace
+1 Spirit Link
+1 Spirit Loop
+1 Sun Titan
+1 Surestrike Trident
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Temple of the False God
+1 Unexpectedly Absent
+1 Wall of Reverence
+1 Well of Lost Dreams
+1 Whispersilk Cloak
+
+Maybeboard
+1 Auriok Champion
+1 Austere Command
+1 Beacon of Immortality
+1 Enlightened Tutor
+1 Land Tax
+1 Mangara, the Diplomat
+1 Sunbond
+1 Teferi's Protection
+1 Test of Endurance
+1 Wrath of God
+

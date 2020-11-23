@@ -1,0 +1,79 @@
+1 Ancient Tomb
+1 Baral, Chief of Compliance
+1 Blasphemous Act
+1 Blatant Thievery
+1 Blue Sun's Zenith
+1 Bonus Round
+1 Brainstorm
+1 Buried Ruin
+1 Capsize
+1 Charmbreaker Devils
+1 Comet Storm
+1 Command Tower
+1 Counterflux
+1 Cyclonic Rift
+1 Dig Through Time
+1 Epic Experiment
+1 Expansion / Explosion
+1 Expropriate
+1 Fact or Fiction
+1 Faithless Looting
+1 Firemind's Foresight
+1 Frantic Search
+1 Fury Storm
+1 Goblin Electromancer
+1 Guttersnipe
+1 Increasing Vengeance
+1 Invert / Invent
+14 Island
+1 Izzet Boilerworks
+1 Izzet Signet
+1 Jaya's Immolating Inferno
+1 Lightning Greaves
+1 Mana Confluence
+1 Mana Geyser
+1 Melek, Izzet Paragon
+1 Merchant Scroll
+1 Metallurgic Summonings
+1 Mind's Desire
+1 Mindswipe
+1 Mizzium Mortars
+1 Mizzix of the Izmagnus
+1 Mizzix's Mastery
+9 Mountain
+1 Mystic Confluence
+1 Mystic Retrieval
+1 Mystical Tutor
+1 Nexus of Fate
+1 Past in Flames
+1 Ponder
+1 Preordain
+1 Primal Amulet / Primal Wellspring
+1 Pyromancer's Goggles
+1 Reflecting Pool
+1 Reiterate
+1 Reliquary Tower
+1 Rewind
+1 Rite of Replication
+1 Scour from Existence
+1 Seething Song
+1 Sentinel Tower
+1 Shivan Reef
+1 Show and Tell
+1 Sol Ring
+1 Steam Vents
+1 Stroke of Genius
+1 Sulfur Falls
+1 Swiftwater Cliffs
+1 Temple of Epiphany
+1 Temple of the False God
+1 Temporal Mastery
+1 Tezzeret's Gambit
+1 The Mirari Conjecture
+1 Thought Vessel
+1 Thousand-Year Storm
+1 Treasure Cruise
+1 Turnabout
+1 Unwind
+1 Vandalblast
+1 Volcanic Vision

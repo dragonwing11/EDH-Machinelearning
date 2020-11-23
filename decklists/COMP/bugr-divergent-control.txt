@@ -1,0 +1,102 @@
+1 Abrupt Decay
+1 Ad Nauseam
+1 Ancient Tomb
+1 Assassin's Trophy
+1 Badlands
+1 Bayou
+1 Bloodstained Mire
+1 Brainstorm
+1 Breeding Pool
+1 Carpet of Flowers
+1 Chain of Vapor
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Compost
+1 Copy Artifact
+1 Counterspell
+1 Cyclonic Rift
+1 Dark Ritual
+1 Delay
+1 Demonic Tutor
+1 Dimir Signet
+1 Dispel
+1 Divergent Transformations
+1 Dramatic Reversal
+1 Exotic Orchard
+1 Fellwar Stone
+1 Fiery Islet
+1 Fire Covenant
+1 Flooded Strand
+1 Flusterstorm
+1 Forbidden Orchard
+1 Force of Negation
+1 Force of Will
+1 Gamble
+1 Grim Monolith
+1 Imperial Seal
+1 Isochron Scepter
+1 Kozilek's Return
+1 Legacy's Allure
+1 Lim-Dul's Vault
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Marsh Flats
+1 Massacre
+1 Mental Misstep
+1 Misty Rainforest
+1 Mnemonic Betrayal
+1 Morphic Pool
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mystic Remora
+1 Mystical Tutor
+1 Narset's Reversal
+1 Nature's Claim
+1 Necropotence
+1 Notion Thief
+1 Noxious Revival
+1 Overgrown Tomb
+1 Pact of Negation
+1 Polluted Delta
+1 Ponder
+1 Power Artifact
+1 Preordain
+1 Pyroblast
+1 Rhystic Study
+1 Scalding Tarn
+1 Sensei's Divining Top
+1 Sol Ring
+1 Steam Vents
+1 Swan Song
+1 Sylvan Library
+1 Taiga
+1 Talisman of Creativity
+1 Talisman of Curiosity
+1 Talisman of Dominance
+1 Tarnished Citadel
+1 Thrasios, Triton Hero
+1 Timetwister
+1 Toxic Deluge
+1 Training Grounds
+1 Tropical Island
+1 Underground River
+1 Underground Sea
+1 Vampiric Tutor
+1 Veil of Summer
+1 Verdant Catacombs
+1 Vial Smasher the Fierce
+1 Volcanic Island
+1 Waterlogged Grove
+1 Watery Grave
+1 Wheel of Fortune
+1 Whirlpool Warrior
+1 Windfall
+1 Windswept Heath
+1 Wooded Foothills
+1 Yawgmoth's Will
+
+

@@ -1,0 +1,77 @@
+1 Abundance
+1 Acidic Slime
+1 Argothian Enchantress
+1 Asceticism
+1 Aura Shards
+1 Avacyn, Angel of Hope
+1 Azusa, Lost but Seeking
+1 Blossoming Sands
+1 Calix, Destiny's Hand
+1 Canopy Vista
+1 Celestial Archon
+1 Chord of Calling
+1 Cleansing Nova
+1 Command Tower
+1 Containment Priest
+1 Courser of Kruphix
+1 Crop Rotation
+1 Darksteel Mutation
+1 Dawn's Reflection
+1 Dragonlord Dromoka
+1 Earthcraft
+1 Eidolon of Blossoms
+1 Eladamri's Call
+1 Enchantress's Presence
+1 Enlightened Tutor
+1 Exploration
+1 Flooded Strand
+13 Forest
+1 Graypelt Refuge
+1 Ground Seal
+1 Heliod, God of the Sun
+1 Herald of the Pantheon
+1 Heroic Intervention
+1 Hydra Omnivore
+1 Karametra, God of Harvests
+1 Krosan Verge
+1 Linvala, Keeper of Silence
+1 Mesa Enchantress
+1 Mikaeus, the Lunarch
+1 Mirari's Wake
+1 Mirri's Guile
+1 Nylea's Colossus
+1 Nylea, God of the Hunt
+1 Oblivion Ring
+1 Opalescence
+1 Overgrowth
+1 Path to Exile
+13 Plains
+1 Plea for Guidance
+1 Presence of Gond
+1 Ravenous Slime
+1 Reliquary Tower
+1 Replenish
+1 Seal of Cleansing
+1 Selesnya Sanctuary
+1 Shielded by Faith
+1 Sigarda, Heron's Grace
+1 Sigarda, Host of Herons
+1 Sigil of the Empty Throne
+1 Silent Sentinel
+1 Siona, Captain of the Pyleas
+1 Sol Ring
+1 Song of the Dryads
+1 Soul Snare
+1 Sphere of Safety
+1 Squirrel Nest
+1 Starfield of Nyx
+1 Sterling Grove
+1 Stony Silence
+1 Verduran Enchantress
+1 Wild Growth
+1 Wildest Dreams
+1 Winds of Rath
+1 Wooded Foothills
+1 Worship
+1 Yavimaya Enchantress
+

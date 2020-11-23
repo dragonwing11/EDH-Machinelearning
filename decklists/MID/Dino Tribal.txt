@@ -1,0 +1,95 @@
+1 Apex Altisaur
+1 Atzocan Seer
+1 Austere Command
+1 Battlefield Forge
+1 Boros Charm
+1 Boros Signet
+1 Bountiful Promenade
+1 Brushland
+1 Burgeoning
+1 Cacophodon
+1 Canopy Vista
+1 Cavern of Souls
+1 Cinder Glade
+1 City of Brass
+1 Cleansing Nova
+1 Clifftop Retreat
+1 Command Tower
+1 Cultivate
+1 Decimate
+1 Eladamri's Call
+1 Etali, Primal Storm
+1 Eternal Witness
+1 Exotic Orchard
+1 Farseek
+1 Finale of Devastation
+1 Forerunner of the Empire
+4 Forest
+1 Garruk's Uprising
+1 Ghalta, Primal Hunger
+1 Ghost Quarter
+1 Gishath, Sun's Avatar
+1 Gruul Signet
+1 Hammer of Nazahn
+1 Heroic Intervention
+1 Hour of Devastation
+1 Karplusan Forest
+1 Kessig Wolf Run
+1 Kodama's Reach
+1 Krosan Verge
+1 Lifecrafter's Bestiary
+1 Lightning Greaves
+1 Mana Confluence
+1 Marauding Raptor
+1 Mirari's Wake
+2 Mountain
+1 Naya Charm
+1 Otepec Huntmaster
+1 Path to Exile
+3 Plains
+1 Polyraptor
+1 Quartzwood Crasher
+1 Raging Regisaur
+1 Raging Swordtooth
+1 Rampaging Ferocidon
+1 Rampant Growth
+1 Ranging Raptors
+1 Raptor Hatchling
+1 Reflecting Pool
+1 Regisaur Alpha
+1 Rhythm of the Wild
+1 Ripjaw Raptor
+1 Rishkar's Expertise
+1 Rite of Passage
+1 Rootbound Crag
+1 Runic Armasaur
+1 Sacred Foundry
+1 Scattered Groves
+1 Selesnya Signet
+1 Shake the Foundations
+1 Sheltered Thicket
+1 Silverclad Ferocidons
+1 Sol Ring
+1 Spire Garden
+1 Stomping Ground
+1 Sunpetal Grove
+1 Swords to Plowshares
+1 Sylvan Library
+1 Talisman of Unity
+1 Teferi's Protection
+1 Temple Altisaur
+1 Temple Garden
+1 Temple of Triumph
+1 Temur Sabertooth
+1 Thunderherd Migration
+1 Trapjaw Tyrant
+1 Vanquisher's Banner
+1 Wakening Sun's Avatar
+1 Wayward Swordtooth
+1 Windswept Heath
+1 Wooded Foothills
+1 Worldly Tutor
+1 Zacama, Primal Calamity
+1 Zendikar Resurgent
+1 Zetalpa, Primal Dawn
+

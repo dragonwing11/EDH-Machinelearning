@@ -1,0 +1,86 @@
+1 Aetherflux Reservoir
+1 Apostle's Blessing
+1 Arcane Signet
+1 Aria of Flame
+1 Bandage
+1 Battlefield Forge
+1 Boros Charm
+1 Boros Signet
+1 Braid of Fire
+1 Brute Force
+1 Chandra's Ignition
+1 Chaos Warp
+1 Cleansing Nova
+1 Clifftop Retreat
+1 Cloudshift
+1 Command Tower
+1 Commander's Plate
+1 Crimson Wisps
+1 Defiant Strike
+1 Deflecting Swat
+1 Dockside Extortionist
+1 Eerie Interlude
+1 Ephemerate
+1 Expedite
+1 Feather, the Redeemed
+1 Firebrand Archer
+1 Fists of Flame
+1 Forgotten Cave
+1 Gamble
+1 Generous Gift
+1 Gods Willing
+1 Grand Abolisher
+1 Guided Strike
+1 Guttersnipe
+1 Hammer of Nazahn
+1 Imperial Recruiter
+1 Infuriate
+1 Land Tax
+1 Magnetic Theft
+1 Monastery Mentor
+11 Mountain
+1 Mox Amber
+1 Myriad Landscape
+1 Open the Armory
+1 Path to Exile
+11 Plains
+1 Psychotic Fury
+1 Pyroblast
+1 Recruiter of the Guard
+1 Red Elemental Blast
+1 Reliquary Tower
+1 Rile
+1 Rugged Prairie
+1 Runaway Steam-Kin
+1 Sacred Foundry
+1 Secluded Steppe
+1 Seize the Day
+1 Sensei's Divining Top
+1 Shadowspear
+1 Shelter
+1 Single Combat
+1 Smothering Tithe
+1 Sol Ring
+1 Steelshaper's Gift
+1 Stoneforge Mystic
+1 Sun Titan
+1 Sunforger
+1 Sunhome, Fortress of the Legion
+1 Swiftfoot Boots
+1 Sword of Feast and Famine
+1 Sword of the Animist
+1 Swords to Plowshares
+1 Talisman of Conviction
+1 Teferi's Protection
+1 Thought Vessel
+1 Titan's Strength
+1 Unleash Fury
+1 Vandalblast
+1 Wear // Tear
+1 Young Pyromancer
+
+Maybeboard
+1 Enlightened Tutor
+1 Needleverge Pathway // Pillarverge Pathway
+1 Shinka, the Bloodsoaked Keep
+

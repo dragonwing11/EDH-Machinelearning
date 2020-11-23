@@ -1,0 +1,80 @@
+1 Abrupt Decay
+1 Altar of Dementia
+1 Barren Moor
+1 Blighted Woodland
+1 Buried Alive
+1 Command Tower
+1 Crypt of Agadeem
+1 Darksteel Ingot
+1 Deathrite Shaman
+1 Diabolic Tutor
+1 Doom Whisperer
+1 Elvish Harbinger
+1 Eternal Witness
+1 Evolving Wilds
+1 Exotic Orchard
+1 Far Wanderings
+1 Fauna Shaman
+1 Final Parting
+1 Finale of Eternity
+11 Forest
+1 Ghoultree
+1 Gilded Lotus
+1 Glowspore Shaman
+1 Golgari Charm
+1 Golgari Findbroker
+1 Golgari Grave-Troll
+1 Golgari Rot Farm
+1 Golgari Signet
+1 Greater Good
+1 Grisly Salvage
+1 Grow from the Ashes
+1 Harrow
+1 Hogaak, Arisen Necropolis
+1 Izoni, Thousand-Eyed
+1 Jarad, Golgari Lich Lord
+1 Jarad's Orders
+1 Journey to Eternity / Atzal, Cave of Eternity
+1 Jund Panorama
+1 Lhurgoyf
+1 Lightning Greaves
+1 Lotus Field
+1 Maelstrom Pulse
+1 Mausoleum Secrets
+1 Minion's Return
+1 Momentous Fall
+1 Mossbridge Troll
+1 Nighthowler
+1 Overgrown Tomb
+1 Pattern of Rebirth
+1 Phytotitan
+1 Plaguecrafter
+1 Protean Hulk
+1 Putrefy
+1 Reclamation Sage
+1 Reliquary Tower
+1 Rogue's Passage
+1 Sakura-Tribe Elder
+1 Search for Tomorrow
+1 See the Unwritten
+1 Shambling Shell
+1 Skyshroud Claim
+1 Stinkweed Imp
+11 Swamp
+1 Syr Konrad, the Grim
+1 Talisman of Resilience
+1 Temple of Malady
+1 Terramorphic Expanse
+1 The Cauldron of Eternity
+1 Thrashing Brontodon
+1 Tragic Slip
+1 Traverse the Ulvenwald
+1 Treasured Find
+1 Twisted Abomination
+1 Underrealm Lich
+1 Unholy Indenture
+1 Vigor Mortis
+1 Viridian Zealot
+1 Witch's Cottage
+1 Wood Elves
+1 World Shaper

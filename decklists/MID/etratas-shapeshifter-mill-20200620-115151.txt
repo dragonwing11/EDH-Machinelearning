@@ -1,0 +1,90 @@
+1 Ancient Ziggurat
+1 Archive Trap
+1 Ashiok, Nightmare Weaver
+1 Baral, Chief of Compliance
+1 Brain Freeze
+1 Cave of Temptation
+1 Cavern of Souls
+1 Choked Estuary
+1 Clever Impersonator
+1 Command Tower
+1 Consuming Aberration
+1 Cryptoplasm
+1 Crystal Shard
+1 Curious Homunculus / Voracious Reader
+1 Curse of the Bloody Tome
+1 Diabolic Tutor
+1 Dimir Aqueduct
+1 Dismal Backwater
+1 Drowned Catacomb
+1 Duskmantle Guildmage
+1 Emergence Zone
+1 Endless Sands
+1 Essence Flux
+1 Etrata, the Silencer
+1 Field of the Dead
+1 Folio of Fancies
+1 Fraying Sanity
+1 Gateway Plaza
+1 Glimpse the Unthinkable
+1 Grindclock
+1 Grindstone
+1 Hedron Crab
+1 Helm of the Host
+1 Holdout Settlement
+1 Increasing Confusion
+6 Island
+1 Jace Beleren
+1 Jace, Memory Adept
+1 Lazav, Dimir Mastermind
+1 Mechanized Production
+1 Memory Sluice
+1 Meteor Crater
+1 Millstone
+1 Mind Funeral
+1 Mindcrank
+1 Mirage Mirror
+1 Mirko Vosk, Mind Drinker
+1 Mirror Gallery
+1 Mirror Image
+1 Narset's Reversal
+1 Nemesis of Reason
+1 Nighthowler
+1 Nightveil Predator
+1 Overwhelmed Apprentice
+1 Paranoid Delusions
+1 Phenax, God of Deception
+1 Phyrexian Metamorph
+1 Pilfered Plans
+1 Portal of Sanctuary
+1 Quasiduplicate
+1 Reaping the Graves
+1 Release to the Wind
+1 Rite of Replication
+1 River of Tears
+1 Sakashima the Impostor
+1 Sands of Delirium
+1 Siren's Ruse
+1 Spark Double
+1 Spire of Industry
+1 Stream of Consciousness
+1 Strionic Resonator
+1 Stunt Double
+1 Sunken Hollow
+1 Survivors' Encampment
+5 Swamp
+1 Swiftfoot Boots
+1 Tainted Isle
+1 Teferi's Time Twist
+1 The Haunt of Hightower
+1 Tome Scour
+1 Traumatize
+1 Underground River
+1 Unknown Shores
+1 Vanishing
+1 Vantress Gargoyle
+1 Vizier of Many Faces
+1 Vodalian Illusionist
+1 Voyager Staff
+1 Waterveil Cavern
+1 Watery Grave

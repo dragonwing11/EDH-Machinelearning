@@ -1,0 +1,85 @@
+1 Acidic Slime
+1 Arbor Elf
+1 Ashnod's Altar
+1 Avacyn's Pilgrim
+1 Beast Within
+1 Beastmaster Ascension
+1 Bronzehide Lion
+1 Camaraderie
+1 Canopy Vista
+1 Citanul Hierophants
+1 Citywide Bust
+1 Collective Effort
+1 Conclave Tribunal
+1 Cryptolith Rite
+1 Dauntless Escort
+1 Dawn of Hope
+1 Dusk // Dawn
+1 Emergence Zone
+1 Emmara, Soul of the Accord
+1 Eternal Witness
+9 Forest
+1 Fortified Village
+1 Garruk's Uprising
+1 Generous Gift
+1 Glare of Subdual
+1 Grasslands
+1 Harmonize
+1 Harvest Season
+1 Helm of the Host
+1 Holdout Settlement
+1 Huatli, Radiant Champion
+1 Join Shields
+1 Karmic Guide
+1 Knight of Autumn
+1 Lapse of Certainty
+1 Majestic Myriarch
+1 Mandate of Peace
+1 March of the Multitudes
+1 Mentor of the Meek
+1 Midnight Guard
+1 Mimic Vat
+1 Mine Excavation
+1 Mirror Entity
+1 Mosswort Bridge
+1 Nullmage Shepherd
+1 Once and Future
+1 Overwhelming Stampede
+1 Oviya Pashiri, Sage Lifecrafter
+1 Paradise Mantle
+9 Plains
+1 Presence of Gond
+1 Prismatic Strands
+1 Quest for Renewal
+1 Radiant Purge
+1 Reveillark
+1 Rogue's Passage
+1 Rootborn Defenses
+1 Scattered Groves
+1 Secure the Wastes
+1 Selesnya Evangel
+1 Selesnya Sanctuary
+1 Selfless Spirit
+1 Selvala, Explorer Returned
+1 Shalai, Voice of Plenty
+1 Shamanic Revelation
+1 Skullclamp
+1 Skyshroud Claim
+1 Smuggler's Copter
+1 Sol Ring
+1 Song of Freyalise
+1 Stonybrook Schoolmaster
+1 Sun Titan
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Survivors' Encampment
+1 Swords to Plowshares
+1 Temple Garden
+1 Thornbite Staff
+1 Throne of the God-Pharaoh
+1 To Arms!
+1 Twilight Drover
+1 White Sun's Zenith
+1 Wildest Dreams
+1 Windbrisk Heights
+

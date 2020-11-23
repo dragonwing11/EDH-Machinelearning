@@ -1,0 +1,71 @@
+1 Arcane Denial
+1 As Foretold
+1 Atemsis, All-Seeing
+1 Back to Basics
+1 Blinkmoth Nexus
+1 Brainstorm
+1 Caged Sun
+1 Chasm Skulker
+1 Consecrated Sphinx
+1 Counterspell
+1 Crush of Tentacles
+1 Cyclonic Rift
+1 Darksteel Colossus
+1 Deep-Sea Kraken
+1 Desert of the Mindful
+1 Diamond Kaleidoscope
+1 Discontinuity
+1 Drawn from Dreams
+1 Flood of Tears
+1 Frost Titan
+1 Guardian of Tazeem
+1 Homarid Spawning Bed
+1 Illusionist's Gambit
+1 Inkwell Leviathan
+31 Island
+1 It That Betrays
+1 Jalira, Master Polymorphist
+1 Kederekt Leviathan
+1 Kraken of the Straits
+1 Lonely Sandbar
+1 Mass Polymorph
+1 Mimic Vat
+1 Myr Battlesphere
+1 Myr Turbine
+1 Mystic Confluence
+1 Nadir Kraken
+1 Nuisance Engine
+1 Opt
+1 Polymorph
+1 Ponder
+1 Proteus Staff
+1 Pursued Whale
+1 Rapid Hybridization
+1 Reality Shift
+1 Reef Worm
+1 Remote Isle
+1 Retrofitter Foundry
+1 Sapphire Medallion
+1 Saprazzan Cove
+1 Scourge of Fleets
+1 Sealock Monster
+1 Serpent of Yawning Depths
+1 Shipbreaker Kraken
+1 Shrouded Serpent
+1 Sky Diamond
+1 Sol Ring
+1 Stormsurge Kraken
+1 Stormtide Leviathan
+1 Swan Song
+1 Swiftfoot Boots
+1 Thassa, God of the Sea
+1 Thopter Assembly
+1 Thopter Spy Network
+1 Thran Dynamo
+1 Tidal Force
+1 Trading Post
+1 Ugin's Insight
+1 Void Stalker
+1 Wall of Kelp
+1 Wonder
+

@@ -1,0 +1,75 @@
+1 Aetherflux Reservoir
+1 Angelic Accord
+1 Arcane Signet
+1 Archangel of Thune
+1 Armada Wurm
+1 Aura Shards
+1 Beast Within
+1 Blossoming Sands
+1 Boon Reflection
+1 Camaraderie
+1 Cathars' Crusade
+1 Collective Blessing
+1 Command Tower
+1 Cultivate
+1 Druid's Deliverance
+1 Eladamri's Call
+1 Elder Gargaroth
+1 Exotic Orchard
+1 Ezuri's Predation
+1 Felidar Sovereign
+1 Fertile Ground
+14 Forest
+1 Fracturing Gust
+1 Fumigate
+1 Garruk's Uprising
+1 Gavony Township
+1 Ghostly Prison
+1 Giant Adephage
+1 Grove of the Guardian
+1 Growing Ranks
+1 Hour of Reckoning
+1 Huatli, Radiant Champion
+1 Hydra Broodmaster
+1 Idyllic Tutor
+1 Intangible Virtue
+1 Karametra, God of Harvests
+1 Kodama's Reach
+1 Krosan Grip
+1 Krosan Verge
+1 Lifecrafter's Bestiary
+1 Loxodon Hierarch
+1 Magewright's Stone
+1 Mimic Vat
+1 Nissa, Vastwood Seer / Nissa, Sage Animist
+1 Overgrowth
+1 Overwhelming Stampede
+1 Oviya Pashiri, Sage Lifecrafter
+1 Path to Exile
+1 Phyrexian Rebirth
+13 Plains
+1 Privileged Position
+1 Rampaging Baloths
+1 Resplendent Angel
+1 Rhox Faithmender
+1 Sandwurm Convergence
+1 Selesnya Sanctuary
+1 Selesnya Signet
+1 Shalai, Voice of Plenty
+1 Shamanic Revelation
+1 Shatter the Sky
+1 Smothering Tithe
+1 Sol Ring
+1 Speaker of the Heavens
+1 Sundering Growth
+1 Sungrass Prairie
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Temple of Plenty
+1 Trostani Discordant
+1 Trostani, Selesnya's Voice
+1 Unbreakable Formation
+1 Well of Lost Dreams
+1 Wild Growth
+1 Wilderness Reclamation
+1 Wingmate Roc

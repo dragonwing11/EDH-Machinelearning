@@ -1,0 +1,102 @@
+1 Abrupt Decay
+1 Anafenza, the Foremost
+1 Arbor Elf
+1 Ashiok, Dream Render
+1 Assassin's Trophy
+1 Avacyn's Pilgrim
+1 Aven Mindcensor
+1 Badlands
+1 Bayou
+1 Birds of Paradise
+1 Bloodstained Mire
+1 Brainstorm
+1 Breeding Pool
+1 Carpet of Flowers
+1 Chain of Vapor
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Containment Priest
+1 Counterspell
+1 Cyclonic Rift
+1 Dark Confidant
+1 Deathrite Shaman
+1 Delay
+1 Demonic Tutor
+1 Derevi, Empyrial Tactician
+1 Diabolic Intent
+1 Dispel
+1 Dovin's Veto
+1 Eldritch Evolution
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Enlightened Tutor
+1 Exotic Orchard
+1 Extirpate
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Will
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Gilded Drake
+1 Gitaxian Probe
+1 Grafdigger's Cage
+1 Imperial Seal
+1 Island
+1 Laboratory Maniac
+1 Leyline of the Void
+1 Llanowar Elves
+1 Lotus Petal
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Drain
+1 Marsh Flats
+1 Memory's Journey
+1 Mental Misstep
+1 Mindblade Render
+1 Misty Rainforest
+1 Morphic Pool
+1 Mox Diamond
+1 Mystic Remora
+1 Mystical Tutor
+1 Najeela, the Blade-Blossom
+1 Narset's Reversal
+1 Nature's Claim
+1 Nature's Will
+1 Noble Hierarch
+1 Notion Thief
+1 Noxious Revival
+1 Overgrown Tomb
+1 Pact of Negation
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Rest in Peace
+1 Savannah
+1 Scalding Tarn
+1 Scavenging Ooze
+1 Scrubland
+1 Shadow of Doubt
+1 Silence
+1 Sol Ring
+1 Spell Pierce
+1 Spellseeker
+1 Summoner's Pact
+1 Swamp
+1 Swan Song
+1 Swords to Plowshares
+1 Sylvan Library
+1 Taiga
+1 Tainted Pact
+1 Tropical Island
+1 Tundra
+1 Underground Sea
+1 Utopia Sprawl
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Volcanic Island
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+
+

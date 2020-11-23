@@ -1,0 +1,91 @@
+1 Atarka, World Render
+1 Austere Command
+1 Balefire Dragon
+1 Bladewing the Risen
+1 Blood Crypt
+1 Bloom Tender
+1 Boneyard Scourge
+1 Breeding Pool
+1 Cascading Cataracts
+1 Chromatic Lantern
+1 Command Tower
+1 Crush Contraband
+1 Crux of Fate
+1 Cultivate
+1 Deathbringer Regent
+1 Dragon Tempest
+1 Dragon's Hoard
+1 Dragonlord Dromoka
+1 Dragonlord Silumgar
+1 Dragonlord's Servant
+1 Dragonspeaker Shaman
+1 Evolving Wilds
+1 Exotic Orchard
+1 Faeburrow Elder
+1 Farseek
+5 Forest
+1 Frontier Bivouac
+1 Garruk's Uprising
+1 Gilded Lotus
+1 Golos, Tireless Pilgrim
+1 Hallowed Fountain
+1 Haven of the Spirit Dragon
+1 Hellkite Charger
+1 Helm of the Host
+1 Icefall Regent
+1 Ilysian Caryatid
+2 Island
+1 Kindred Summons
+1 Kodama's Reach
+1 Kolaghan, the Storm's Fury
+1 Lathliss, Dragon Queen
+1 Lurking Predators
+1 Mirage Mirror
+1 Mirari's Wake
+1 Morphic Pool
+1 Mortify
+1 Mosswort Bridge
+4 Mountain
+1 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen
+1 O-Kagachi, Vengeful Kami
+1 Ojutai, Soul of Winter
+1 Overgrown Tomb
+1 Path of Ancestry
+2 Plains
+1 Putrefy
+1 Ramos, Dragon Engine
+1 Ryusei, the Falling Star
+1 Sacred Foundry
+1 Sarkhan Unbroken
+1 Sarkhan the Masterless
+1 Sarkhan, Fireblood
+1 Savage Ventmaw
+1 Scalelord Reckoner
+1 Scion of the Ur-Dragon
+1 Scourge of Valkas
+1 Scourge of the Throne
+1 Sea of Clouds
+1 Selvala's Stampede
+1 Silumgar, the Drifting Death
+1 Skyline Despot
+1 Skyshroud Claim
+1 Sol Ring
+1 Spinerock Knoll
+1 Steam Vents
+1 Steel Hellkite
+1 Stomping Ground
+1 Sunscorch Regent
+2 Swamp
+1 Temple Garden
+1 Temur Ascendancy
+1 Terramorphic Expanse
+1 Territorial Hellkite
+1 The Ur-Dragon
+1 Transguild Promenade
+1 Unclaimed Territory
+1 Urza's Incubator
+1 Utvara Hellkite
+1 Vaevictis Asmadi, the Dire
+1 Wasitora, Nekoru Queen
+1 Watery Grave
+

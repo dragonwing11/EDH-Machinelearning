@@ -1,0 +1,95 @@
+1 Aid from the Cowl
+1 Ancient Ziggurat
+1 Animar, Soul of Elements
+1 Ashnod's Altar
+1 Avenger of Zendikar
+1 Bane of Progress
+1 Brokkos, Apex of Forever
+1 Burgeoning
+1 Buried Alive
+1 Canopy Vista
+1 Cavalier of Flame
+1 Cavalier of Thorns
+1 Chandra, Flamecaller
+1 Chromatic Lantern
+1 Cinder Glade
+1 Coat of Arms
+1 Command Tower
+1 Crackling Doom
+1 Dig Through Time
+1 Enlightened Tutor
+1 Entomb
+1 Esper Panorama
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fall of the Titans
+1 Farseek
+1 Fellwar Stone
+1 Field of the Dead
+1 Flamekin Harbinger
+1 Flickerwisp
+4 Forest
+1 Fulminator Mage
+1 Ghost Quarter
+1 Greenwarden of Murasa
+1 Grisly Salvage
+1 Gruul Turf
+1 Harrow
+1 Heroic Intervention
+1 Horde of Notions
+1 Illuna, Apex of Wishes
+1 Indatha Triome
+1 Ingot Chewer
+3 Island
+1 Jegantha, the Wellspring
+1 Ketria Triome
+1 Kindred Summons
+1 Kiora, Master of the Depths
+1 Kodama's Reach
+1 Living Death
+1 Maelstrom Wanderer
+1 Morophon, the Boundless
+3 Mountain
+1 Muldrotha, the Gravetide
+1 Mulldrifter
+1 Multani, Yavimaya's Avatar
+1 Nature's Lore
+1 Nyxbloom Ancient
+1 Omnath, Locus of Rage
+1 Omnath, Locus of the Roil
+1 Parcelbeast
+1 Path of Ancestry
+2 Plains
+1 Prairie Stream
+1 Primal Beyond
+1 Raugrin Triome
+1 Reveillark
+1 Rhystic Study
+1 Risen Reef
+1 Rishkar's Expertise
+1 Scampering Scorcher
+1 Scapeshift
+1 Scattered Groves
+1 See the Unwritten
+1 Shriekmaw
+1 Simic Growth Chamber
+1 Smokebraider
+1 Smoldering Marsh
+1 Sol Ring
+1 Soul of the Harvest
+1 Sunken Hollow
+1 Swamp
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Temur Ascendancy
+1 Titania, Protector of Argoth
+1 Transguild Promenade
+1 Unknown Shores
+1 Vadrok, Apex of Thunder
+1 Voice of Resurgence
+1 Wispmare
+1 Yarok, the Desecrated
+1 Zagoth Triome
+
+SIDEBOARD:
+1 Kaheera, the Orphanguard

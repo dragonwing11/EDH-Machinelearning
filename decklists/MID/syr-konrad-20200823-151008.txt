@@ -1,0 +1,86 @@
+1 Altar of the Brood
+1 Arcane Signet
+1 Ashnod's Altar
+1 Ayara, First of Locthwain
+1 Balthor the Defiled
+1 Balustrade Spy
+1 Black Market
+1 Blood Artist
+1 Bojuka Bog
+1 Bolas's Citadel
+1 Bone Harvest
+1 Cabal Coffers
+1 Cabal Stronghold
+1 Carrion Feeder
+1 Castle Locthwain
+1 Cauldron's Gift
+1 Command the Dreadhorde
+1 Crypt Ghast
+1 Crypt of Agadeem
+1 Dakmor Salvage
+1 Dark Confidant
+1 Dark Ritual
+1 Defile
+1 Doom Whisperer
+1 Dread Presence
+1 Dread Return
+1 Feldon's Cane
+1 Fleshbag Marauder
+1 Funeral Rites
+1 Golgari Thug
+1 Gorging Vulture
+1 Grave Titan
+1 Gray Merchant of Asphodel
+1 Grim Haruspex
+1 Grim Tutor
+1 K'rrik, Son of Yawgmoth
+1 Living Death
+1 Massacre Girl
+1 Massacre Wurm
+1 Memorial to Folly
+1 Merciless Executioner
+1 Mindcrank
+1 Morality Shift
+1 Murderous Rider / Swift End
+1 Myriad Landscape
+1 Nyx Lotus
+1 Pawn of Ulamog
+1 Peer into the Abyss
+1 Pestilent Haze
+1 Phyrexian Arena
+1 Phyrexian Delver
+1 Plaguecrafter
+1 Ravenous Chupacabra
+1 Read the Bones
+1 Reassembling Skeleton
+1 Rise of the Dark Realms
+1 Sifter of Skulls
+1 Sign in Blood
+1 Skullclamp
+1 Sol Ring
+1 Solemn Simulacrum
+1 Songs of the Damned
+1 Soul-Guide Lantern
+1 Stinkweed Imp
+1 Stitcher's Supplier
+23 Swamp
+1 Syr Konrad, the Grim
+1 The Cauldron of Eternity
+1 Toxic Deluge
+1 Twilight Prophet
+1 Undercity Informer
+1 Undertaker
+1 Unearth
+1 Walk the Plank
+1 Witch's Cottage
+1 Woe Strider
+1 Yahenni, Undying Partisan
+1 Zulaport Cutthroat
+
+SIDEBOARD:
+1 Demonic Tutor
+1 Diabolic Tutor
+1 Geth, Lord of the Vault
+1 Gutterbones
+1 Heartstone
+1 Urborg, Tomb of Yawgmoth

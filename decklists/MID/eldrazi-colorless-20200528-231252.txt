@@ -1,0 +1,87 @@
+1 All Is Dust
+1 Altar of Dementia
+1 Altar of the Brood
+1 Ancient Tomb
+1 Arcane Lighthouse
+1 Arch of Orazca
+1 Artisan of Kozilek
+1 Bane of Bala Ged
+1 Basalt Monolith
+1 Blasted Landscape
+1 Blinkmoth Urn
+1 Breaker of Armies
+1 Buried Ruin
+1 Burnished Hart
+1 Conduit of Ruin
+1 Crumbling Vestige
+1 Darksteel Citadel
+1 Deceiver of Form
+1 Desolation Twin
+1 Dreamstone Hedron
+1 Eldrazi Temple
+1 Emrakul, the Promised End
+1 Endbringer
+1 Endless One
+1 Eye of Ugin
+1 Foundry Inspector
+1 Geier Reach Sanitarium
+1 Geode Golem
+1 Gilded Lotus
+1 Hand of Emrakul
+1 Hedron Archive
+1 Hedron Crawler
+1 Howling Mine
+1 It That Betrays
+1 Keening Stone
+1 Kozilek, the Great Distortion
+1 Kozilek's Channeler
+1 Lightning Greaves
+1 Mana Vault
+1 Mesmeric Orb
+1 Mikokoro, Center of the Sea
+1 Mind Stone
+1 Mindcrank
+1 Mind's Eye
+1 Mycosynth Wellspring
+1 Mystifying Maze
+1 Nevinyrral's Disk
+1 Oblivion Sower
+1 Oblivion Stone
+1 Palladium Myr
+1 Pathrazer of Ulamog
+1 Perilous Vault
+1 Planar Bridge
+1 Reality Smasher
+1 Relic of Progenitus
+1 Rogue's Passage
+1 Sanctum of Ugin
+1 Scavenger Grounds
+1 Scour from Existence
+1 Sea Gate Wreckage
+1 Shrine of the Forsaken Gods
+1 Sol Ring
+1 Solemn Simulacrum
+1 Soul of New Phyrexia
+1 Spawning Bed
+1 Spawnsire of Ulamog
+1 Staff of Nin
+1 Swiftfoot Boots
+1 Temple of the False God
+1 Thran Dynamo
+1 Thran Temporal Gateway
+1 Titan's Presence
+1 Tomb of the Spirit Dragon
+1 Ugin, the Ineffable
+1 Ugin, the Spirit Dragon
+1 Ulamog, the Ceaseless Hunger
+1 Ulamog's Crusher
+1 Urza's Incubator
+1 Void Winnower
+1 Voltaic Key
+1 Warden of Geometries
+1 Warping Wail
+1 Wasteland
+14 Wastes
+1 Whispersilk Cloak
+1 Worn Powerstone
+1 Zhalfirin Void

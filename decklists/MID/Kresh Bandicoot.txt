@@ -1,0 +1,84 @@
+1 Acidic Slime
+1 Assassin's Trophy
+1 Bane of Progress
+1 Beast Whisperer
+1 Beast Within
+1 Blasphemous Act
+1 Blighted Woodland
+1 Bojuka Bog
+1 Burnished Hart
+1 Butcher of Malakir
+1 Chandra's Ignition
+1 Cinder Glade
+1 Command Tower
+1 Corpsejack Menace
+1 Crawling Barrens
+1 Demon's Disciple
+1 Dictate of Erebos
+1 Doubling Season
+1 Dragonskull Summit
+1 Eternal Witness
+1 Feldon of the Third Path
+1 Flesh // Blood
+1 Fleshbag Marauder
+1 Fling
+7 Forest
+1 Garruk's Uprising
+1 Gyre Sage
+1 Hamletback Goliath
+1 Heart-Piercer Manticore
+1 Hour of Devastation
+1 In Garruk's Wake
+1 Journey to Eternity // Atzal, Cave of Eternity
+1 Jund Charm
+1 Kalitas, Traitor of Ghet
+1 Kessig Wolf Run
+1 Kresh the Bloodbraided
+1 Krosan Grip
+1 Lifecrafter's Bestiary
+1 Llanowar Wastes
+1 Luxury Suite
+1 Map the Wastes
+1 Meren of Clan Nel Toth
+1 Mosswort Bridge
+6 Mountain
+1 Oran-Rief, the Vastwood
+1 Overwhelming Stampede
+1 Path of Ancestry
+1 Phyrexian Delver
+1 Phyrexian Dreadnought
+1 Plaguecrafter
+1 Praetor's Counsel
+1 Primeval Bounty
+1 Raging Ravine
+1 Reyhan, Last of the Abzan
+1 Rhythm of the Wild
+1 Rishkar's Expertise
+1 Rite of the Raging Storm
+1 Rootbound Crag
+1 Ryusei, the Falling Star
+1 Sakura-Tribe Elder
+1 Savage Lands
+1 Savage Summoning
+1 Sidisi, Undead Vizier
+1 Sol Ring
+1 Solemn Simulacrum
+1 Soul's Fire
+1 Spinerock Knoll
+1 Spitebellows
+7 Swamp
+1 Terminate
+1 The Haunt of Hightower
+1 The Ozolith
+1 Traverse the Outlands
+1 Vaevictis Asmadi, the Dire
+1 Verdurous Gearhulk
+1 Vigor
+1 Viscera Seer
+1 Vulturous Zombie
+1 Woodland Cemetery
+1 Wurmcoil Engine
+1 Xenagos, God of Revels
+1 Yavimaya Elder
+1 Zendikar Resurgent
+

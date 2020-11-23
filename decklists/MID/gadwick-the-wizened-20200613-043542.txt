@@ -1,0 +1,73 @@
+1 Arcane Denial
+1 Archmage's Charm
+1 Baral, Chief of Compliance
+1 Bloodforged Battle-Axe
+1 Boon of the Wish-Giver
+1 Brainstorm
+1 Brazen Borrower / Petty Theft
+1 Bribery
+1 Careful Study
+1 Chart a Course
+1 Cloudkin Seer
+1 Control Magic
+1 Counterspell
+1 Cryptic Command
+1 Cyclonic Rift
+1 Dig Through Time
+1 Dream Eater
+1 Emry, Lurker of the Loch
+1 Everflowing Chalice
+1 Fact or Fiction
+1 Faerie Seer
+1 Force of Will
+1 Frantic Search
+1 Gadwick, the Wizened
+1 God-Eternal Kefnet
+1 Grafted Wargear
+1 Grim Monolith
+1 Hieroglyphic Illumination
+1 Impulse
+28 Island
+1 Jace, Vryn's Prodigy / Jace, Telepath Unbound
+1 Looter il-Kor
+1 Mana Vault
+1 Miscalculation
+1 Murmuring Mystic
+1 Mystic Confluence
+1 Mystic Sanctuary
+1 Mystical Tutor
+1 Nadir Kraken
+1 Nexus of Fate
+1 Omen of the Sea
+1 Opposition
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Ponder
+1 Pongify
+1 Preordain
+1 Reality Shift
+1 Remand
+1 Scour All Possibilities
+1 Scrying Sheets
+1 Shark Typhoon
+1 Skullclamp
+1 Smuggler's Copter
+1 Snapcaster Mage
+1 Spectral Sailor
+1 Spellseeker
+1 Sword of Feast and Famine
+1 Tezzeret, Artifice Master
+1 Thassa's Intervention
+1 Thing in the Ice / Awoken Horror
+1 Thran Dynamo
+1 Torrential Gearhulk
+1 Treachery
+1 Treasure Cruise
+1 Umezawa's Jitte
+1 Urza, Lord High Artificer
+1 Vedalken Shackles
+1 Vendilion Clique
+1 Venser, Shaper Savant
+1 Voracious Greatshark
+1 Windfall
+1 Witching Well

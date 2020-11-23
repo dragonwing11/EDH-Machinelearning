@@ -1,0 +1,93 @@
+1 Agent of Treachery
+1 Alchemist's Refuge
+1 Arcane Signet
+1 Azusa, Lost but Seeking
+1 Beast Within
+1 Birds of Paradise
+1 Botanical Sanctum
+1 Brainstorm
+1 Breeding Pool
+1 Bribery
+1 Burgeoning
+1 Castle Vantress
+1 Clever Impersonator
+1 Command Tower
+1 Commandeer
+1 Counterspell
+1 Cyclonic Rift
+1 Desertion
+1 Dig Through Time
+1 Dryad of the Ilysian Grove
+1 Emergence Zone
+1 Exploration
+1 Expropriate
+1 Fierce Guardianship
+1 Flood of Tears
+1 Flooded Grove
+1 Force of Vigor
+1 Force of Will
+11 Forest
+1 Greenwarden of Murasa
+1 Gush
+1 Hinterland Harbor
+13 Island
+1 Keruga, the Macrosage
+1 Kodama's Reach
+1 Kruphix, God of Horizons
+1 Leyline of Anticipation
+1 Lightning Greaves
+1 Mana Drain
+1 Mind's Dilation
+1 Mirri's Guile
+1 Momir Vig, Simic Visionary
+1 Mystic Sanctuary
+1 Mystic Snake
+1 Mystical Tutor
+1 Nature's Lore
+1 Noxious Revival
+1 Nyxbloom Ancient
+1 Oracle of Mul Daya
+1 Peregrine Drake
+1 Progenitor Mimic
+1 Rapid Hybridization
+1 Rashmi, Eternities Crafter
+1 Reclaim
+1 Reliquary Tower
+1 Sakashima the Impostor
+1 Seasons Past
+1 Seedborn Muse
+1 Sensei's Divining Top
+1 Simic Signet
+1 Skyshroud Claim
+1 Snapcaster Mage
+1 Sol Ring
+1 Sublime Epiphany
+1 Swan Song
+1 Sylvan Library
+1 Teferi, Mage of Zhalfir
+1 Thassa, Deep-Dwelling
+1 Treasure Cruise
+1 Veil of Summer
+1 Venser, Shaper Savant
+1 Waterlogged Grove
+1 Wavebreak Hippocamp
+1 Wayward Swordtooth
+1 Wilderness Reclamation
+1 Winding Canyons
+1 Wood Elves
+1 Worldly Tutor
+
+Maybeboard
+1 Blatant Thievery
+1 Oko, Thief of Crowns
+1 Pact of Negation
+1 Plasm Capture
+1 Ponder
+1 Sapphire Medallion
+1 Spell Swindle
+1 Spitting Image
+1 Tidespout Tyrant
+1 Treachery
+1 Trygon Predator
+1 Vedalken Orrery
+

@@ -1,0 +1,97 @@
+1 Akroma, Angel of Wrath
+1 Animate Dead
+1 Arcane Signet
+1 Athreos, Shroud-Veiled
+1 Avacyn, Angel of Hope
+1 Beast Whisperer
+1 Birthing Pod
+1 Brushland
+1 Buried Alive
+1 Canopy Vista
+1 Caves of Koilos
+1 Command Tower
+1 Commander's Sphere
+1 Concerted Effort
+1 Conjurer's Closet
+1 Cultivate
+1 Dakmor Salvage
+1 Deathsprout
+1 Defense of the Heart
+1 Despark
+1 Eerie Ultimatum
+1 Elixir of Immortality
+1 Embodiment of Agonies
+1 Eternal Witness
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fabled Passage
+1 Far Wanderings
+1 Farseek
+1 Fetid Heath
+1 Final Parting
+1 Forest
+1 Forest
+2 Forest
+1 Gavony Township
+1 God-Eternal Oketra
+1 Godless Shrine
+1 Golgari Grave-Troll
+1 Golgari Rot Farm
+1 Gravebreaker Lamia
+1 Greater Good
+1 Grisly Salvage
+1 Isolated Chapel
+1 Jarad's Orders
+1 Karametra, God of Harvests
+1 Kathril, Aspect Warper
+1 Key to the City
+1 Kodama's Reach
+1 Krosan Verge
+1 Kunoros, Hound of Athreos
+1 Leyline Prowler
+1 Lightning Greaves
+1 Living Death
+1 Llanowar Wastes
+1 Massacre Girl
+1 Mirror Entity
+1 Myriad Landscape
+1 Nesting Grounds
+1 Nurturing Peatland
+1 Nyx Weaver
+1 Odric, Lunarch Marshal
+1 Orzhov Basilica
+1 Path to Exile
+2 Plains
+1 Plains
+1 Plated Crusher
+1 Prismatic Vista
+1 Rampant Growth
+1 Return of the Wildspeaker
+1 Sakura-Tribe Elder
+1 Scattered Groves
+1 Selesnya Sanctuary
+1 Shadowspear
+1 Shalai, Voice of Plenty
+1 Silent Clearing
+1 Slippery Bogbonder
+1 Sol Ring
+1 Sun Titan
+1 Sunpetal Grove
+1 Swamp
+3 Swamp
+1 Swiftfoot Boots
+1 Tainted Strike
+1 Talisman of Hierarchy
+1 Talisman of Resilience
+1 Terramorphic Expanse
+1 The Ozolith
+1 Tragic Arrogance
+1 Trailblazer's Boots
+1 Underrealm Lich
+1 Vampire Nighthawk
+1 Vorrac Battlehorns
+1 Windgrace's Judgment
+1 Winding Way
+1 Winds of Abandon
+1 Zetalpa, Primal Dawn
+

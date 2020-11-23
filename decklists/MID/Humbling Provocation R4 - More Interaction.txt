@@ -1,0 +1,99 @@
+1 Alela, Artful Provocateur
+1 Anguished Unmaking
+1 Arcane Sanctum
+1 Arcane Signet
+1 Austere Command
+1 Azorius Signet
+1 Beseech the Queen
+1 Bident of Thassa
+1 Bitterblossom
+1 Bolas's Citadel
+1 Caves of Koilos
+1 Command Tower
+1 Commander's Sphere
+1 Counterspell
+1 Cumber Stone
+1 Curse of Death's Hold
+1 Dampening Pulse
+1 Dark Tutelage
+1 Despark
+1 Diabolic Tutor
+1 Dimir Signet
+1 Dovin's Veto
+1 Drannith Magistrate
+1 Empyrean Eagle
+1 Etchings of the Chosen
+1 Ethereal Absolution
+1 Ethersworn Adjudicator
+1 Evolving Wilds
+1 Faerie Formation
+1 Favorable Winds
+1 Fetid Pools
+1 Flood of Tears
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Generous Gift
+1 Godhead of Awe
+1 Godless Shrine
+1 Grafdigger's Cage
+1 Gravitational Shift
+1 Grim Tutor
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Heraldic Banner
+1 Hour of Reckoning
+1 Idyllic Tutor
+1 Intangible Virtue
+1 Irrigated Farmland
+6 Island
+1 Isolated Chapel
+1 Lightning Greaves
+1 Mass Diminish
+1 Mirrormade
+1 Mystic Remora
+1 Negate
+1 Notorious Throng
+1 Orzhov Signet
+6 Plains
+1 Polluted Delta
+1 Prairie Stream
+1 Prismatic Vista
+1 Profit // Loss
+1 Rankle, Master of Pranks
+1 Reconnaissance Mission
+1 Render Silent
+1 Scion of Oona
+1 Sephara, Sky's Blade
+1 Serra the Benevolent
+1 Shared Triumph
+1 Skullclamp
+1 Smothering Tithe
+1 Sol Ring
+1 Spark Double
+1 Sudden Spoiling
+1 Sunken Hollow
+5 Swamp
+1 Swords to Plowshares
+1 Tale's End
+1 Temple of Deceit
+1 Temple of Enlightenment
+1 Temple of Silence
+1 Thunderclap Wyvern
+1 Torpor Orb
+1 Vedalken Humiliator
+1 Voidstone Gargoyle
+1 Zealous Persecution
+
+Maybeboard
+1 Cathars' Crusade
+1 Coastal Piracy
+1 Divine Visitation
+1 Meandering River
+1 Mortify
+1 Night of Souls' Betrayal
+1 Overwhelming Splendor
+1 Silumgar, the Drifting Death
+1 Tome of Legends
+1 Windreader Sphinx
+

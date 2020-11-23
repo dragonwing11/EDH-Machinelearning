@@ -1,0 +1,89 @@
+1 Academy Ruins
+1 Ancient Tomb
+1 Arcane Laboratory
+1 Arcane Signet
+1 Back to Basics
+1 Basalt Monolith
+1 Blood Moon
+1 Blue Sun's Zenith
+1 Brainstorm
+1 Buried Ruin
+1 Capsize
+1 Cavern of Souls
+1 Cephalid Coliseum
+1 Chrome Mox
+1 Command Beacon
+1 Counterspell
+1 Cyclonic Rift
+1 Delay
+1 Desperate Ritual
+1 Dispel
+1 Dockside Extortionist
+1 Dramatic Reversal
+1 Drift of Phantasms
+1 Emergence Zone
+1 Fellwar Stone
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Will
+1 Frenetic Efreet
+1 Gamble
+1 Gemstone Caverns
+1 Gilded Drake
+1 Grafdigger's Cage
+1 Grim Monolith
+1 High Tide
+1 Imperial Recruiter
+1 Inventors' Fair
+11 Island
+1 Isochron Scepter
+1 Izzet Charm
+1 Izzet Signet
+1 Krark's Thumb
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+4 Mountain
+1 Mox Diamond
+1 Mox Opal
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystical Tutor
+1 Narset's Reversal
+1 Narset, Parter of Veils
+1 Negate
+1 Okaun, Eye of Chaos
+1 Pact of Negation
+1 Planar Chaos
+1 Polluted Delta
+1 Ponder
+1 Red Elemental Blast
+1 Rhystic Study
+1 Rolling Earthquake
+1 Scalding Tarn
+1 Sensei's Divining Top
+1 Shimmer Myr
+1 Simian Spirit Guide
+1 Sol Ring
+1 Spellseeker
+1 Stasis
+1 Steam Vents
+1 Stranglehold
+1 Sulfur Falls
+1 Swan Song
+1 Tangle Wire
+1 Teferi, Mage of Zhalfir
+1 Tezzeret the Seeker
+1 Thassa's Oracle
+1 The Royal Scions
+1 Thought Vessel
+1 Transmute Artifact
+1 Tribute Mage
+1 Volcanic Island
+1 Voltaic Key
+1 Wheel of Fortune
+1 Windfall
+1 Zndrsplt, Eye of Wisdom
+
+

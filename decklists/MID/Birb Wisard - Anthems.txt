@@ -1,0 +1,92 @@
+1 Anointed Procession
+1 Arcane Signet
+1 Ashnod's Altar
+1 Azorius Guildgate
+1 Azorius Signet
+1 Battlefield Forge
+1 Bident of Thassa
+1 Boros Guildgate
+1 Cathars' Crusade
+1 Chromatic Lantern
+1 Clifftop Retreat
+1 Coastal Piracy
+1 Command Tower
+1 Commander's Sphere
+1 Cyclonic Rift
+1 Dance of the Manse
+1 Dictate of Heliod
+1 Distant Melody
+1 Divergent Transformations
+1 Divine Visitation
+1 Dockside Extortionist
+1 Drogskol Captain
+1 Empyrean Eagle
+1 Estrid's Invocation
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fabled Passage
+1 Faithless Looting
+1 Favorable Winds
+1 Fellwar Stone
+1 Force of Virtue
+1 Force of Will
+1 Future Sight
+1 Generous Gift
+1 Glacial Fortress
+1 Greater Auramancy
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Impact Tremors
+1 Intangible Virtue
+1 Izzet Guildgate
+1 Izzet Signet
+1 Kindred Discovery
+1 Kykar, Wind's Fury
+1 Land Tax
+1 Lightning Greaves
+1 Mana Confluence
+1 Mana Drain
+1 Mana Echoes
+1 Mentor of the Meek
+1 Myriad Landscape
+1 Mystic Monastery
+1 Mystic Remora
+1 Negate
+1 Prairie Stream
+1 Price of Glory
+1 Prismatic Vista
+1 Purphoros, God of the Forge
+1 Red Elemental Blast
+1 Replenish
+1 Reverberate
+1 Rhystic Study
+1 Sacred Foundry
+1 Sensei's Divining Top
+1 Shared Animosity
+1 Shivan Reef
+1 Skullclamp
+1 Smothering Tithe
+4 Snow-Covered Island
+4 Snow-Covered Mountain
+4 Snow-Covered Plains
+1 Sol Ring
+1 Sphinx's Revelation
+1 Steam Vents
+1 Sulfur Falls
+1 Sunbird's Invocation
+1 Supreme Phantom
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Talisman of Conviction
+1 Talisman of Progress
+1 Tectonic Reformation
+1 Teferi's Protection
+1 Temple of Epiphany
+1 Thrill of Possibility
+1 Trinket Mage
+1 Underworld Breach
+1 Vicious Shadows
+1 Wheel of Fortune
+1 Wild Research
+1 Windfall
+

@@ -1,0 +1,73 @@
+1 Arcane Signet
+1 Arcanis the Omnipotent
+1 Armorcraft Judge
+1 Beast Within
+1 Beguiler of Wills
+1 Biomancer's Familiar
+1 Birds of Paradise
+1 Birthing Pod
+1 Bloom Tender
+1 Breeding Pool
+1 Castle Vantress
+1 Counterspell
+1 Cytoplast Manipulator
+1 Disallow
+1 Disdainful Stroke
+1 Dispel
+1 Eel Umbra
+1 Experiment Kraj
+1 Finale of Devastation
+15 Forest
+1 Freed from the Real
+1 Genesis Wave
+1 Gilder Bairn
+1 Gyre Sage
+1 Hadana's Climb / Winged Temple of Orazca
+1 Hardened Scales
+1 Heartstone
+1 Heroic Intervention
+1 Hinterland Harbor
+1 Horseshoe Crab
+1 Illusionist's Bracers
+1 Ilysian Caryatid
+1 Incubation Druid
+1 Inspiring Call
+14 Island
+1 Jiang Yanggu, Wildcrafter
+1 Knacksaw Clique
+1 Ley Weaver
+1 Llanowar Reborn
+1 Master Biomancer
+1 Minamo, School at Water's Edge
+1 Momir Vig, Simic Visionary
+1 Morphling
+1 Negate
+1 Oko, Thief of Crowns
+1 Path of Ancestry
+1 Pili-Pala
+1 Plasm Capture
+1 Plaxcaster Frogling
+1 Prime Speaker Vannifar
+1 Rishkar, Peema Renegade
+1 Rishkar's Expertise
+1 Sage of Hours
+1 Seedborn Muse
+1 Simic Ascendancy
+1 Simic Growth Chamber
+1 Simic Signet
+1 Sol Ring
+1 Spell Swindle
+1 Star Compass
+1 The Ozolith
+1 Thornling
+1 Training Grounds
+1 Unified Will
+1 Veil of Summer
+1 Vines of Vastwood
+1 Viridian Joiner
+1 Vivien, Champion of the Wilds
+1 Vivien, Monsters' Advocate
+1 Walking Ballista
+1 Windswept Heath
+1 Worldly Tutor
+1 Yisan, the Wanderer Bard

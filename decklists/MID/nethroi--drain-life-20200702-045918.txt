@@ -1,0 +1,96 @@
+1 Altar of Dementia
+1 Arcane Signet
+1 Ashnod's Altar
+1 Assassin's Trophy
+1 Bastion of Remembrance
+1 Birds of Paradise
+1 Blood Artist
+1 Bloodstained Mire
+1 Bloom Tender
+1 Bojuka Bog
+1 Boneyard Lurker
+1 Boonweaver Giant
+1 Buried Alive
+1 Carrion Feeder
+1 Cavern of Souls
+1 Caves of Koilos
+1 Command Tower
+1 Corpse Knight
+1 Cruel Celebrant
+1 Dakmor Salvage
+1 Damnation
+1 Deathrite Shaman
+1 Death's Oasis
+1 Demonic Tutor
+1 Diabolic Intent
+1 Dictate of Erebos
+1 Drannith Magistrate
+1 Eerie Ultimatum
+1 Eladamri's Call
+1 Elenda, the Dusk Rose
+1 Elesh Norn, Grand Cenobite
+1 Entomb
+1 Erebos, Bleak-Hearted
+1 Eternal Witness
+1 Faeburrow Elder
+1 Fauna Shaman
+1 Fiend Artisan
+1 Flooded Strand
+3 Forest
+1 Gemrazer
+1 Godless Shrine
+1 Golgari Grave-Troll
+1 Golgari Thug
+1 Gray Merchant of Asphodel
+1 Greater Good
+1 Hermit Druid
+1 Heroic Intervention
+1 Hunting Grounds
+1 Indatha Triome
+1 Isolated Chapel
+1 Karmic Guide
+1 Knight of Autumn
+1 Life from the Loam
+1 Luminous Broodmoth
+1 Mausoleum Secrets
+1 Mox Diamond
+1 Mythos of Nethroi
+1 Necropanther
+1 Nethroi, Apex of Death
+1 Nurturing Peatland
+1 Overgrown Tomb
+1 Pattern of Rebirth
+2 Plains
+1 Poison-Tip Archer
+1 Polluted Delta
+1 Reflecting Pool
+1 Remorseful Cleric
+1 Reveillark
+1 Sakura-Tribe Elder
+1 Satyr Wayfinder
+1 Savannah
+1 Scrubland
+1 Skull Prophet
+1 Skullclamp
+1 Smothering Tithe
+1 Sol Ring
+1 Stinkweed Imp
+1 Stirring Wildwood
+1 Sunpetal Grove
+2 Swamp
+1 Swords to Plowshares
+1 Syr Konrad, the Grim
+1 Temple Garden
+1 Teysa Karlov
+1 Torment of Hailfire
+1 Toxic Deluge
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Viscera Seer
+1 Volrath's Stronghold
+1 Westvale Abbey / Ormendahl, Profane Prince
+1 Windswept Heath
+1 Wood Elves
+1 Wooded Foothills
+1 Woodland Cemetery
+1 World Shaper

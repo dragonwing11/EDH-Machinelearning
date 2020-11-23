@@ -1,0 +1,92 @@
+1 Akiri, Line-Slinger
+1 Aminatou, the Fateshifter
+1 Ancient Den
+1 Arcane Signet
+1 Azorius Signet
+1 Bident of Thassa
+1 Blinkmoth Urn
+1 Blood Crypt
+1 Brass's Bounty
+1 Burnout
+1 Chief of the Foundry
+1 Command Tower
+1 Cranial Plating
+1 Daretti, Scrap Savant
+1 Darksteel Citadel
+1 Darksteel Forge
+1 Deadeye Plunderers
+1 Dimir Signet
+1 Displace
+1 Efficient Construction
+1 Emry, Lurker of the Loch
+1 Epic Downfall
+1 Etherium Sculptor
+1 Executioner's Capsule
+1 Gainsay
+1 Galvanic Blast
+1 Grand Architect
+1 Great Furnace
+1 Hallowed Fountain
+1 Helm of the Host
+5 Island
+1 Izzet Signet
+1 Jhoira, Weatherlight Captain
+1 Karn, the Great Creator
+1 Loyal Apprentice
+1 Mechanized Production
+3 Mountain
+1 Mycosynth Lattice
+1 Myr Battlesphere
+1 Myr Turbine
+1 Nevinyrral's Disk
+1 Nihil Spellbomb
+1 Noxious Gearhulk
+1 One with the Machine
+1 Padeem, Consul of Innovation
+1 Parhelion II
+1 Phyrexia's Core
+1 Pili-Pala
+1 Plains
+1 Pyroblast
+1 Rakdos Signet
+1 Read the Bones
+1 Red Elemental Blast
+1 Retrofitter Foundry
+1 Saheeli, Sublime Artificer
+1 Sai, Master Thopterist
+1 Scuttlemutt
+1 Seat of the Synod
+1 Shadowblood Ridge
+1 Shivan Reef
+1 Silas Renn, Seeker Adept
+1 Smoldering Marsh
+1 Sol Ring
+1 Spire of Industry
+1 Steam Vents
+1 Steel Hellkite
+1 Sulfur Falls
+1 Sunken Hollow
+4 Swamp
+1 Tainted Field
+1 Temple of Silence
+1 Terminate
+1 Terramorphic Expanse
+1 Tezzeret, Master of the Bridge
+1 Thada Adel, Acquisitor
+1 Thopter Assembly
+1 Thopter Spy Network
+1 Time Sieve
+1 Tomb of the Spirit Dragon
+1 Traveler's Amulet
+1 Treasure Mage
+1 Trophy Mage
+1 Ugin, the Spirit Dragon
+1 Unwinding Clock
+1 Utter End
+1 Vault of Whispers
+1 Voltaic Servant
+1 Walking Ballista
+1 Watery Grave
+1 Welding Sparks
+1 Whirler Rogue
+

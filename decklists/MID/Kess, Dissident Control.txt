@@ -1,0 +1,95 @@
+1 Aetherflux Reservoir
+1 Ancient Excavation
+1 Anticipate
+1 Brainstorm
+1 Chain of Smog
+1 Chaos Warp
+1 Chromatic Lantern
+1 Command Tower
+1 Commander's Sphere
+1 Corrupted Grafstone
+1 Counterflux
+1 Counterspell
+1 Crosis's Charm
+1 Cruel Ultimatum
+1 Crumbling Necropolis
+1 Dark Petition
+1 Darkwater Catacombs
+1 Decree of Pain
+1 Diabolic Tutor
+1 Dimir Aqueduct
+1 Dimir Guildgate
+1 Disdainful Stroke
+1 Dismal Backwater
+1 Docent of Perfection // Final Iteration
+1 Dreadship Reef
+1 Evolving Wilds
+1 Faithless Looting
+1 Final Parting
+1 Frantic Search
+1 Go for the Throat
+1 Goblin Electromancer
+1 Gravebreaker Lamia
+1 Grixis Panorama
+1 Guttersnipe
+1 Increasing Ambition
+1 Into the Roil
+5 Island
+1 Izzet Boilerworks
+1 Izzet Charm
+1 Izzet Guildgate
+1 Izzet Signet
+1 Jace, Wielder of Mysteries
+1 Jwar Isle Refuge
+1 Kess, Dissident Mage
+1 Languish
+1 Lightning Greaves
+1 Mana Leak
+1 Metallurgic Summonings
+1 Monastery Siege
+2 Mountain
+1 Murmuring Mystic
+1 Negate
+1 Niv-Mizzet, Parun
+1 Opt
+1 Painful Truths
+1 Path of Ancestry
+1 Ponder
+1 Primal Amulet // Primal Wellspring
+1 Ral, Izzet Viceroy
+1 Ral, Storm Conduit
+1 Reality Shift
+1 Reforge the Soul
+1 Reliquary Tower
+1 Roast
+1 Ruinous Path
+1 Saheeli, Sublime Artificer
+1 See the Truth
+1 Sentinel Tower
+1 Shivan Reef
+1 Silumgar's Command
+1 Sol Ring
+1 Solemn Simulacrum
+1 Sunken Hollow
+2 Swamp
+1 Swarm Intelligence
+1 Swiftfoot Boots
+1 Swiftwater Cliffs
+1 Talrand, Sky Summoner
+1 Temple of Deceit
+1 Temple of Epiphany
+1 Temple of Malice
+1 Temple of the False God
+1 Terminate
+1 The Mirari Conjecture
+1 To the Slaughter
+1 Tolarian Winds
+1 Tormenting Voice
+1 Treasure Cruise
+1 Underground River
+1 Urborg, Tomb of Yawgmoth
+1 Vapor Snag
+1 Vivid Creek
+1 Vivid Marsh
+1 Windfall
+

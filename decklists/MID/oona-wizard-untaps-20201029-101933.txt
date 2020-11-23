@@ -1,0 +1,87 @@
+1 Academy Ruins
+1 Animate Dead
+1 Aphetto Alchemist
+1 Arcane Signet
+1 Arcanis the Omnipotent
+1 Archaeomancer
+1 Ashiok, Dream Render
+1 Azami, Lady of Scrolls
+1 Basalt Monolith
+1 Bloodline Keeper / Lord of Lineage
+1 Bloodline Necromancer
+1 Bloodstained Mire
+1 Cabal Coffers
+1 Castle Vantress
+1 Coldsteel Heart
+1 Command Tower
+1 Counterspell
+1 Cryptic Command
+1 Cyclonic Rift
+1 Damnation
+1 Dark Confidant
+1 Dark Petition
+1 Deadly Rollick
+1 Delay
+1 Demonic Tutor
+1 Dig Through Time
+1 Dimir Signet
+1 Dramatic Reversal
+1 Drowned Catacomb
+1 Everflowing Chalice
+1 Fabled Passage
+1 Fact or Fiction
+1 Fatestitcher
+1 Feed the Swarm
+1 Fellwar Stone
+1 Fetid Pools
+1 Freed from the Real
+1 Gadwick, the Wizened
+1 Galecaster Colossus
+1 Gilded Lotus
+1 Glen Elendra Archmage
+1 Grim Tutor
+1 Hagra Mauling / Hagra Broodpit
+1 Havengul Lich
+1 Intruder Alarm
+11 Island
+1 Jace, Vryn's Prodigy / Jace, Telepath Unbound
+1 Jace's Archivist
+1 Lightning Greaves
+1 Lim-Dûl's Vault
+1 Minamo, School at Water's Edge
+1 Muddle the Mixture
+1 Murderous Rider / Swift End
+1 Mystic Remora
+1 Oona, Queen of the Fae
+1 Pact of Negation
+1 Path of Ancestry
+1 Polluted Delta
+1 Pongify
+1 Pull from Tomorrow
+1 Reality Shift
+1 Rhystic Study
+1 Sigil Tracer
+1 Sky Diamond
+1 Snapcaster Mage
+1 Sol Ring
+1 Spellseeker
+1 Sunken Hollow
+4 Swamp
+1 Swan Song
+1 Swiftfoot Boots
+1 Talisman of Dominance
+1 Tectonic Edge
+1 Temple of Deceit
+1 Thieving Skydiver
+1 Thought Vessel
+1 Thousand-Year Elixir
+1 Thran Dynamo
+1 Tidewater Minion
+1 Tolaria West
+1 Tolarian Kraken
+1 Underground River
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Venser, Shaper Savant
+1 Vizier of Tumbling Sands
+1 Watery Grave

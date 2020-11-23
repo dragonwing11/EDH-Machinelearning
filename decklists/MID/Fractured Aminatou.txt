@@ -1,0 +1,101 @@
+1 Aminatou, the Fateshifter
+1 Abandon Hope
+1 Aethermage's Touch
+1 Ancient Tomb
+1 Arcane Signet
+1 Archaeomancer
+1 Arid Mesa
+1 Barren Moor
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Brainstorm
+1 Cabal Coffers
+1 Chromatic Lantern
+1 Command Tower
+1 Crystal Ball
+1 Dark Petition
+1 Demonic Pact
+1 Demonic Tutor
+1 Dig Through Time
+1 Disallow
+1 Drown in the Loch
+1 Drowned Catacomb
+1 Eater of Days
+1 Enlightened Tutor
+1 Entreat the Angels
+1 Felidar Guardian
+1 Fetid Pools
+1 Flooded Strand
+1 Forbidden Crypt
+1 Force of Will
+1 Fractured Identity
+1 Glacial Fortress
+1 Godless Shrine
+1 Halimar Depths
+1 Hallowed Fountain
+1 Immortal Coil
+1 Inverter of Truth
+1 Irrigated Farmland
+1 Island
+1 Isolated Chapel
+1 Jace Beleren
+1 Leveler
+1 Lonely Sandbar
+1 Mana Vault
+1 Marsh Flats
+1 Mission Briefing
+1 Misty Rainforest
+1 Mnemonic Wall
+1 Morphic Pool
+1 Mulldrifter
+1 Mystic Remora
+1 Mystical Tutor
+1 Opt
+1 Pact of Negation
+1 Panharmonicon
+1 Path to Exile
+1 Phage the Untouchable
+1 Plaguecrafter
+1 Plains
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Relic of Progenitus
+1 Reliquary Tower
+1 Rest in Peace
+1 Restoration Angel
+1 Reveillark
+1 Rhystic Study
+1 Rust Elemental
+1 Scalding Tarn
+1 Sea of Clouds
+1 Search for Azcanta // Azcanta, the Sunken Ruin
+1 Secluded Steppe
+1 Sensei's Divining Top
+1 Smothering Tithe
+1 Snapcaster Mage
+1 Sol Ring
+1 Spellseeker
+1 Stifle
+1 Strip Mine
+1 Sun Titan
+1 Supreme Verdict
+1 Swamp
+1 Swan Song
+1 Swords to Plowshares
+1 Telling Time
+1 Temple of the False God
+1 Temporal Mastery
+1 Terminus
+1 Thought Lash
+1 Thought Vessel
+1 Transcendence
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Venser, the Sojourner
+1 Verdant Catacombs
+1 Wall of Omens
+1 Wasteland
+1 Watery Grave
+1 Windswept Heath
+1 Yennett, Cryptic Sovereign

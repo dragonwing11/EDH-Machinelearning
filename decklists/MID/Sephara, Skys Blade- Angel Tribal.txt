@@ -1,0 +1,81 @@
+1 Aegis Angel
+1 Aetherflux Reservoir
+1 Ajani's Welcome
+1 Akroan Skyguard
+1 Angel of Jubilation
+1 Angel of Vitality
+1 Angelic Accord
+1 Angelic Skirmisher
+1 Archangel of Thune
+1 Archangel of Tithes
+1 Baneslayer Angel
+1 Basri Ket
+1 Bishop of Wings
+1 Bond of Discipline
+1 Boon Reflection
+1 Bruna, the Fading Light
+1 Dawn of Hope
+1 Disenchant
+1 Divine Reckoning
+1 Divine Visitation
+1 Eerie Interlude
+1 Endless Atlas
+1 Everflowing Chalice
+1 Evolving Wilds
+1 Explorer's Scope
+1 Faerie Guidemother // Gift of the Fae
+1 Field of Ruin
+1 Flutterfox
+1 Geist of the Lonely Vigil
+1 Gift of Estates
+1 Gilded Lotus
+1 Gisela, the Broken Blade
+1 Grateful Apparition
+1 Healer's Hawk
+1 Hedron Archive
+1 Helm of the Host
+1 Herald of War
+1 Herald's Horn
+1 Honor of the Pure
+1 Land Tax
+1 Light of Promise
+1 Luminarch Ascension
+1 Lyra Dawnbringer
+1 Mask of Memory
+1 Midnight Haunting
+1 Myriad Landscape
+1 Not Forgotten
+1 Nyx Lotus
+1 Oketra's Monument
+1 Pearl Medallion
+25 Plains
+1 Platinum Angel
+1 Radiant Fountain
+1 Rally of Wings
+1 Rebuff the Wicked
+1 Resplendent Angel
+1 Rhox Faithmender
+1 Rogue's Passage
+1 Secluded Steppe
+1 Segovian Angel
+1 Sephara, Sky's Blade
+1 Seraph Sanctuary
+1 Shatter the Sky
+1 Sol Ring
+1 Soul's Attendant
+1 Speaker of the Heavens
+1 Spectral Procession
+1 Spirit Bonds
+1 Sublime Archangel
+1 Sword of the Animist
+1 Swords to Plowshares
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Tomik, Distinguished Advokist
+1 Well of Lost Dreams
+1 Winds of Abandon
+
+Maybeboard
+1 Angelic Page
+1 Funeral Pyre
+

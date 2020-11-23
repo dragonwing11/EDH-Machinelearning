@@ -1,0 +1,84 @@
+1 Akroma's Memorial
+1 Animar, Soul of Elements
+1 Apostle of Purifying Light
+1 Arcane Denial
+1 Arcane Signet
+1 Blightbeetle
+1 Blood Baron of Vizkopa
+1 Bojuka Bog
+1 Chameleon Colossus
+1 City of Brass
+1 Command Tower
+1 Concerted Effort
+1 Counterspell
+1 Damnation
+1 Demonic Tutor
+1 Devout Lightcaster
+1 Dimir Signet
+1 Dockside Extortionist
+1 Eight-and-a-Half-Tails
+1 Eon Frolicker
+1 Etched Champion
+1 Eternal Witness
+1 Exotic Orchard
+1 Forbidden Orchard
+5 Forest
+1 Gemstone Caverns
+1 Gemstone Mine
+1 Ghostly Prison
+1 Gideon's Intervention
+1 Giver of Runes
+1 Godo, Bandit Warlord
+1 Godsend
+1 Grand Coliseum
+1 Gruul Signet
+1 Helm of the Host
+1 Hexdrinker
+5 Island
+1 Izzet Signet
+1 Kor Firewalker
+1 Lavinia of the Tenth
+1 Mana Confluence
+1 Mirran Crusader
+1 Mistcutter Hydra
+1 Mother of Runes
+2 Mountain
+1 Mystic Confluence
+1 Mystic Remora
+1 Opal Titan
+1 Orzhov Signet
+1 Path of Ancestry
+1 Phyrexian Crusader
+6 Plains
+1 Progenitus
+1 Propaganda
+1 Rakdos Signet
+1 Rayami, First of the Fallen
+1 Red Elemental Blast
+1 Rhystic Study
+1 Selesnya Signet
+1 Shifting Ceratops
+1 Simic Signet
+1 Smothering Tithe
+1 Spire of Industry
+1 Stoneforge Mystic
+4 Swamp
+1 Sword of Body and Mind
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of Light and Shadow
+1 Sword of Sinew and Steel
+1 Sword of Truth and Justice
+1 Sword of War and Peace
+1 Swords to Plowshares
+1 Tarnished Citadel
+1 True-Name Nemesis
+1 Vivid Crag
+1 Vivid Creek
+1 Vivid Grove
+1 Vivid Marsh
+1 Vivid Meadow
+1 Winds of Abandon
+1 Windswept Heath
+1 Wrath of God
+1 Yawgmoth, Thran Physician

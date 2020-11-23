@@ -1,0 +1,67 @@
+1 Aetherspouts
+1 Archmage's Charm
+1 Baral, Chief of Compliance
+1 Blue Sun's Zenith
+1 Borrowing 100,000 Arrows
+1 Brainstorm
+1 Caged Sun
+1 Capsize
+1 Clever Impersonator
+1 Commit // Memory
+1 Condescend
+1 Counterspell
+1 Cyclonic Rift
+1 Delay
+1 Disdainful Stroke
+1 Dissolve
+1 Enter the Infinite
+1 Expropriate
+1 Fierce Guardianship
+1 Finale of Revelation
+1 Foil
+1 Gauntlet of Power
+1 Grafdigger's Cage
+1 High Tide
+1 Illusionist's Gambit
+35 Island
+1 Jace Beleren
+1 Jace, Architect of Thought
+1 Jace, Memory Adept
+1 Jace, the Living Guildpact
+1 Jace, the Mind Sculptor
+1 Jin-Gitaxias, Core Augur
+1 Laboratory Maniac
+1 Last Word
+1 Leadership Vacuum
+1 Logic Knot
+1 Mana Leak
+1 Mind Spring
+1 Mind Stone
+1 Mission Briefing
+1 Mu Yanling, Sky Dancer
+1 Mystic Confluence
+1 Narset, Parter of Veils
+1 Negate
+1 Ominous Seas
+1 Opt
+1 Phyrexian Metamorph
+1 Ponder
+1 Preemptive Strike
+1 Propaganda
+1 Pull from the Deep
+1 Reality Shift
+1 Reins of Power
+1 Reliquary Tower
+1 Repeal
+1 Serum Visions
+1 Shark Typhoon
+1 Sol Ring
+1 Spell Burst
+1 Spelljack
+1 Supreme Will
+1 Swan Song
+1 Syncopate
+1 Thing in the Ice // Awoken Horror
+1 Treasure Cruise
+1 Twincast
+

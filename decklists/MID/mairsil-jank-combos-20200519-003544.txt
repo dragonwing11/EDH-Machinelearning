@@ -1,0 +1,95 @@
+1 Aetherling
+1 Anger
+1 Anthroplasm
+1 Arcane Denial
+1 Arcanis the Omnipotent
+1 Basalt Monolith
+1 Blood Crypt
+1 Bloodstained Mire
+1 Buried Alive
+1 By Force
+1 Cascade Bluffs
+1 Cathartic Reunion
+1 Cavern Harpy
+1 Cavern of Souls
+1 Choked Estuary
+1 Command Tower
+1 Commander's Sphere
+1 Conjurer's Closet
+1 Consecrated Sphinx
+1 Crosis's Charm
+1 Crumbling Necropolis
+1 Crystal Shard
+1 Cyclonic Rift
+1 Deadeye Navigator
+1 Diabolic Tutor
+1 Dimir Aqueduct
+1 Dimir Signet
+1 Dragonskull Summit
+1 Essence Flux
+1 Fabricate
+1 Fact or Fiction
+1 Faithless Looting
+1 Final Parting
+1 Frantic Search
+1 Ghostly Flicker
+1 Gilded Lotus
+1 Graven Cairns
+1 Hall of the Bandit Lord
+1 Hateflayer
+1 Horseshoe Crab
+1 Infernal Denizen
+3 Island
+1 Izzet Boilerworks
+1 Izzet Signet
+1 Jace, Vryn's Prodigy / Jace, Telepath Unbound
+1 Jwar Isle Refuge
+1 Killing Wave
+1 Luxury Suite
+1 Mairsil, the Pretender
+1 Mana Confluence
+1 Mercurial Chemister
+1 Minion of Leshrac
+1 Morphic Pool
+3 Mountain
+1 Mystic Confluence
+1 Mystical Tutor
+1 Necromantic Selection
+1 Nevinyrral's Disk
+1 Oona, Queen of the Fae
+1 Out of Bounds
+1 Ovinomancer
+1 Peregrine Drake
+1 Pili-Pala
+1 Polluted Delta
+1 Prismatic Geoscope
+1 Quicksilver Elemental
+1 Rakdos Carnarium
+1 Rakdos Signet
+1 Reliquary Tower
+1 Rhystic Study
+1 Sage of Hours
+1 Sensei's Divining Top
+1 Shauku, Endbringer
+1 Shivan Reef
+1 Sol Ring
+1 Staff of Nin
+1 Steam Vents
+1 Strip Mine
+1 Sunken Hollow
+2 Swamp
+1 Swiftfoot Boots
+1 Swiftwater Cliffs
+1 Temple of Deceit
+1 Temple of Malice
+1 Thopter Assembly
+1 Thought Vessel
+1 Thousand-Year Elixir
+1 Time Sieve
+1 Torment of Hailfire
+1 Tree of Perdition
+1 Trophy Mage
+1 Urborg, Tomb of Yawgmoth
+1 Wandering Fumarole
+1 Watery Grave
+1 Zoetic Cavern

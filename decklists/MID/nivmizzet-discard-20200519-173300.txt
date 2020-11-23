@@ -1,0 +1,77 @@
+1 Aether Gale
+1 Aetherize
+1 Astral Cornucopia
+1 Blink of an Eye
+1 Bloodstained Mire
+1 Blue Sun's Zenith
+1 Brainstorm
+1 Collective Defiance
+1 Corrupted Grafstone
+1 Credit Voucher
+1 Curiosity
+1 Diminishing Returns
+1 Dizzy Spell
+1 Evolving Wilds
+1 Faithless Looting
+1 Fateful Showdown
+1 Flux
+1 Forgotten Creation
+1 Frantic Search
+1 Game Plan
+1 Goblin Electromancer
+1 Gorgon Flail
+1 Gorgon's Head
+1 Grixis Panorama
+1 Guttersnipe
+1 Highland Lake
+1 Illusionist's Gambit
+1 Incendiary Command
+1 Insidious Will
+1 Into the Roil
+16 Island
+1 Izzet Boilerworks
+1 Izzet Cluestone
+1 Izzet Guildgate
+1 Izzet Keyrune
+1 Izzet Locket
+1 Izzet Signet
+1 Khorvath's Fury
+1 Laquatus's Creativity
+1 Mana Geyser
+1 Mizzium Skin
+1 Molten Psyche
+9 Mountain
+1 Murmuring Mystic
+1 Mystic Sanctuary
+1 Mystical Tutor
+1 Negate
+1 Neurok Stealthsuit
+1 Niv-Mizzet, Parun
+1 Niv-Mizzet, the Firemind
+1 Ophidian Eye
+1 Psychosis Crawler
+1 Pull from Tomorrow
+1 Reins of Power
+1 Rewind
+1 River's Rebuke
+1 Shattered Perception
+1 Silverclad Ferocidons
+1 Sphere of the Suns
+1 Star Compass
+1 Steam Vents
+1 Swarm Intelligence
+1 Swiftwater Cliffs
+1 Talrand, Sky Summoner
+1 Tandem Lookout
+1 Terramorphic Expanse
+1 The Mirari Conjecture
+1 Tolarian Winds
+1 Treasure Cruise
+1 Unwind
+1 Vessel of Endless Rest
+1 Warped Landscape
+1 Wayfarer's Bauble
+1 Whirlpool Drake
+1 Whirlpool Rider
+1 Whirlpool Warrior
+1 Windfall

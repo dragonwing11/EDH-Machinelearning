@@ -1,0 +1,89 @@
+1 Abrupt Decay
+1 Agent of Treachery
+1 Altar's Reap
+1 Archfiend of Depravity
+1 Ashiok, Nightmare Muse
+1 Bloodsoaked Altar
+1 Butcher of Malakir
+1 Cancel
+1 Carrion Feeder
+1 Casualties of War
+1 Cavalier of Thorns
+1 Chromatic Lantern
+1 Clackbridge Troll
+1 Counterspell
+1 Cultivate
+1 Deathrite Shaman
+1 Demon of Catastrophes
+1 Diabolic Tutor
+1 Dictate of Erebos
+1 Dismal Backwater
+1 Doom Blade
+1 Endrek Sahr, Master Breeder
+1 Evolving Wilds
+1 Fabled Passage
+1 Fact or Fiction
+1 Feldon's Cane
+1 Fetid Pools
+1 Field of the Dead
+1 Final Parting
+1 Force of Will
+3 Forest
+1 Golgari Signet
+1 Grave Betrayal
+1 Gravebreaker Lamia
+1 Gray Merchant of Asphodel
+1 Grim Tutor
+1 Growth Spiral
+1 Indulgent Tormentor
+3 Island
+1 Izoni, Thousand-Eyed
+1 Jarad, Golgari Lich Lord
+1 Jungle Hollow
+1 Kiora, Master of the Depths
+1 Leyline of Anticipation
+1 Liliana, Dreadhorde General
+1 Lotleth Troll
+1 Lotus Field
+1 Mastermind's Acquisition
+1 Mind Stone
+1 Moldervine Reclamation
+1 Mox Tantalite
+1 Muldrotha, the Gravetide
+1 Negate
+1 Neoform
+1 Noosegraf Mob
+1 Opulent Palace
+1 Plaguecrafter
+1 Polluted Delta
+1 Ransack the Lab
+1 Razaketh, the Foulblooded
+1 Rhystic Study
+1 Rune-Scarred Demon
+1 Sakura-Tribe Elder
+1 Sheoldred, Whispering One
+1 Simic Locket
+3 Snow-Covered Forest
+3 Snow-Covered Island
+3 Snow-Covered Swamp
+1 Sol Ring
+1 Spore Frog
+1 Sunken Hollow
+1 Sunken Ruins
+3 Swamp
+1 Swiftfoot Boots
+1 Syr Konrad, the Grim
+1 Talisman of Curiosity
+1 Talisman of Resilience
+1 Temple of Malady
+1 Temple of Mystery
+1 Thornwood Falls
+1 Thrashing Brontodon
+1 Torgaar, Famine Incarnate
+1 Twilight Mire
+1 Unwind
+1 Waterlogged Grove
+1 Wishclaw Talisman
+1 Yawgmoth, Thran Physician
+1 Zulaport Cutthroat
+

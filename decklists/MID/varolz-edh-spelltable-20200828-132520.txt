@@ -1,0 +1,80 @@
+1 Abrupt Decay
+1 Acidic Slime
+1 Altar of Dementia
+1 Bojuka Bog
+1 Brawn
+1 Buried Alive
+1 Command Tower
+1 Corpsejack Menace
+1 Deadbridge Chant
+1 Deathcap Cultivator
+1 Deathreap Ritual
+1 Deathrite Shaman
+1 Death's Presence
+1 Death's Shadow
+1 Elves of Deep Shadow
+1 Embalmer's Tools
+1 Eternal Witness
+1 Evolution Sage
+1 Evolving Wilds
+1 Fauna Shaman
+1 Fiend Artisan
+1 Final Parting
+1 Finale of Devastation
+1 Force of Savagery
+13 Forest
+1 Golgari Charm
+1 Golgari Guildgate
+1 Golgari Signet
+1 Golgari Thug
+1 Grapple with the Past
+1 Greater Good
+1 Green Sun's Zenith
+1 Grim Flowering
+1 Grisly Salvage
+1 Gyre Sage
+1 Hero's Downfall
+1 Hogaak, Arisen Necropolis
+1 Hunted Horror
+1 Jarad, Golgari Lich Lord
+1 Jarad's Orders
+1 Journey to Eternity / Atzal, Cave of Eternity
+1 Krosan Grip
+1 Life from the Loam
+1 Life's Legacy
+1 Lightning Greaves
+1 Llanowar Elves
+1 Mausoleum Secrets
+1 Momentous Fall
+1 Mulch
+1 Nurturing Peatland
+1 Nyx Weaver
+1 Nyxathid
+1 Overgrown Tomb
+1 Phyrexian Delver
+1 Phyrexian Dreadnought
+1 Phyrexian Soulgorger
+1 Putrefy
+1 Rampant Growth
+1 Ramunap Excavator
+1 Return of the Wildspeaker
+1 Reyhan, Last of the Abzan
+1 Riftsweeper
+1 Seedborn Muse
+1 Sol Ring
+1 Stinkweed Imp
+1 Storrev, Devkarin Lich
+9 Swamp
+1 Swiftfoot Boots
+1 Tainted Strike
+1 Temple of Malady
+1 The Ozolith
+1 Tragic Slip
+1 Twilight's Call
+1 Tymaret Calls the Dead
+1 Underrealm Lich
+1 Varolz, the Scar-Striped
+1 Vraska the Unseen
+1 Vraska, Relic Seeker
+1 Wayfarer's Bauble
+1 World Shaper

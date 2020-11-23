@@ -1,0 +1,81 @@
+1 Aetherflux Reservoir
+1 Ajani's Pridemate
+1 Altar of the Pantheon
+1 Angel of Vitality
+1 Angel of the Dire Hour
+1 Artisan of Kozilek
+1 Athreos, Shroud-Veiled
+1 Beacon of Immortality
+1 Burnished Hart
+1 Cartographer's Hawk
+1 Changeling Hero
+1 Cliffhaven Vampire
+1 Command Tower
+1 Commander's Sphere
+1 Crib Swap
+1 Culling Sun
+1 Dark Ritual
+1 Daxos, Blessed by the Sun
+1 Debt to the Deathless
+1 Demonic Tutor
+1 Despark
+1 Eldrazi Displacer
+1 Elesh Norn, Grand Cenobite
+1 Emergence Zone
+1 Erebos's Intervention
+1 Erebos, Bleak-Hearted
+1 Evolving Wilds
+1 Exquisite Blood
+1 Exsanguinate
+1 Fabled Passage
+1 Felidar Sovereign
+1 Forge of Heroes
+1 Ghost Quarter
+1 Gonti, Lord of Luxury
+1 Grave Titan
+1 Gray Merchant of Asphodel
+1 Heliod's Intervention
+1 Kambal, Consul of Allocation
+1 Kunoros, Hound of Athreos
+1 Labyrinth of Skophos
+1 Loxodon Lifechanter
+1 Mana Tithe
+1 Martyr's Cause
+1 Mask of Memory
+1 Mind Stone
+1 Mortify
+1 Mortuary Mire
+1 Netherborn Altar
+1 New Benalia
+1 Ob Nixilis, the Hate-Twisted
+1 Orzhov Basilica
+1 Orzhov Signet
+1 Path to Exile
+10 Plains
+1 Ravenous Chupacabra
+1 Read the Bones
+1 Return to Dust
+1 Revival // Revenge
+1 Rune-Scarred Demon
+1 Rune-Tail, Kitsune Ascendant // Rune-Tail's Essence
+1 Sanguine Bond
+1 Scoured Barrens
+1 Serra Avatar
+1 Shatter the Sky
+1 Sol Ring
+1 Solemn Simulacrum
+1 Sorin, Vengeful Bloodlord
+12 Swamp
+1 Swords to Plowshares
+1 Talisman of Hierarchy
+1 Temple of Silence
+1 Terminus
+1 Torment of Hailfire
+1 Tymaret, Chosen from Death
+1 Ugin, the Spirit Dragon
+1 Underworld Coinsmith
+1 Utter End
+1 Vito, Thorn of the Dusk Rose
+1 Vizkopa Guildmage
+1 Worn Powerstone
+

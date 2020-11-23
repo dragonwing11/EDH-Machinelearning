@@ -1,0 +1,82 @@
+1 Acidic Slime
+1 Aggravated Assault
+1 Ancient Tomb
+1 Atarka, World Render
+1 Balefire Dragon
+1 Bane of Progress
+1 Beast Within
+1 Birds of Paradise
+1 Carnage Tyrant
+1 Cavern of Souls
+1 Chaos Warp
+1 Cinder Glade
+1 Command Tower
+1 Cultivate
+1 Defense of the Heart
+1 Dragonlord Atarka
+1 Edge of Autumn
+1 Elvish Mystic
+1 Etali, Primal Storm
+1 Fauna Shaman
+1 Finale of Devastation
+14 Forest
+1 Fyndhorn Elves
+1 Gamble
+1 Game Trail
+1 Genesis
+1 Greater Good
+1 Green Sun's Zenith
+1 Grothama, All-Devouring
+1 Harmonize
+1 Heroic Intervention
+1 Homeward Path
+1 Ilharg, the Raze-Boar
+1 Joraga Treespeaker
+1 Karplusan Forest
+1 Kessig Wolf Run
+1 Kodama's Reach
+1 Kogla, the Titan Ape
+1 Krosan Grip
+1 Krosan Tusker
+1 Lead the Stampede
+1 Llanowar Elves
+1 Malignus
+1 Moldgraf Monstrosity
+1 Momentous Fall
+8 Mountain
+1 Natural Order
+1 Nature's Lore
+1 Pathbreaker Ibex
+1 Quartzwood Crasher
+1 Rampant Growth
+1 Rogue's Passage
+1 Rootbound Crag
+1 Ruric Thar, the Unbowed
+1 Sakura-Tribe Elder
+1 Savage Ventmaw
+1 Scavenger Grounds
+1 Scourge of the Throne
+1 Sensei's Divining Top
+1 Siege Behemoth
+1 Skarrg, the Rage Pits
+1 Sneak Attack
+1 Song of the Dryads
+1 Spire Garden
+1 Steel Hellkite
+1 Stomping Ground
+1 Strionic Resonator
+1 Summoner's Pact
+1 Sylvan Library
+1 Taiga
+1 Temple of the False God
+1 Three Visits
+1 Thunderfoot Baloth
+1 Tireless Tracker
+1 Verdurous Gearhulk
+1 Wheel of Fortune
+1 Worldly Tutor
+1 Wurmcoil Engine
+1 Xenagos, God of Revels
+1 Zilortha, Strength Incarnate
+
+

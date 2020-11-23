@@ -1,0 +1,78 @@
+1 Arbor Elf
+1 Ashaya, Soul of the Wild
+1 Autumn's Veil
+1 Bala Ged Recovery // Bala Ged Sanctuary
+1 Beast Whisperer
+1 Birds of Paradise
+1 Blossoming Defense
+1 Boreal Druid
+1 Brutalizer Exarch
+1 Chord of Calling
+1 Collector Ouphe
+1 Destiny Spinner
+1 Dryad Arbor
+1 Duskwatch Recruiter // Krallenhorde Howler
+1 Eldritch Evolution
+1 Elvish Mystic
+1 Emerald Medallion
+1 Eternal Witness
+1 Fierce Empath
+1 Finale of Devastation
+1 Force of Vigor
+29 Forest
+1 Fyndhorn Elves
+1 Gemrazer
+1 Generous Patron
+1 Glademuse
+1 Great Oak Guardian
+1 Green Sun's Zenith
+1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
+1 Halana, Kessig Ranger
+1 Heroic Intervention
+1 Hyrax Tower Scout
+1 Kamahl's Will
+1 Karametra's Acolyte
+1 Kenrith's Transformation
+1 Khalni Ambush // Khalni Territory
+1 Kodama of the East Tree
+1 Kogla, the Titan Ape
+1 Llanowar Elves
+1 Loaming Shaman
+1 Magus of the Order
+1 Manglehorn
+1 Marwyn, the Nurturer
+1 Natural Order
+1 Nature's Claim
+1 Nylea, Keen-Eyed
+1 Priest of Titania
+1 Ram Through
+1 Reclamation Sage
+1 Regal Force
+1 Return of the Wildspeaker
+1 Scryb Ranger
+1 Seedborn Muse
+1 Selvala, Heart of the Wilds
+1 Shaman of Forgotten Ways
+1 Shared Summons
+1 Sol Ring
+1 Song of the Dryads
+1 Summoner's Pact
+1 Sylvan Library
+1 Temur Sabertooth
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Utopia Sprawl
+1 Veil of Summer
+1 Vigor
+1 Vines of Vastwood
+1 Voice of Many
+1 Wild Growth
+1 Wirewood Symbiote
+1 Woodland Bellower
+1 Yeva, Nature's Herald
+1 Yisan, the Wanderer Bard
+
+Maybeboard
+1 Cloudstone Curio
+1 Jeweled Lotus
+1 Thousand-Year Elixir
+

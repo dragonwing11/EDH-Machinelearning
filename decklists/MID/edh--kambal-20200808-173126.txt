@@ -1,0 +1,79 @@
+1 Ancient Tomb
+1 Anguished Unmaking
+1 Arcane Signet
+1 Athreos, God of Passage
+1 Aura of Silence
+1 Authority of the Consuls
+1 Blind Obedience
+1 Blood Artist
+1 Blood Seeker
+1 Bloodchief Ascension
+1 Bojuka Bog
+1 Bolas's Citadel
+1 Burnished Hart
+1 Cabal Coffers
+1 Cliffhaven Vampire
+1 Command Tower
+1 Concealed Courtyard
+1 Crypt Ghast
+1 Demonic Tutor
+1 Diabolic Tutor
+1 Doomwake Giant
+1 Enlightened Tutor
+1 Epicure of Blood
+1 Erebos, God of the Dead
+1 Exotic Orchard
+1 Exquisite Blood
+1 Fate Unraveler
+1 Fellwar Stone
+1 Ghostly Prison
+1 Gilded Lotus
+1 Godless Shrine
+1 Grand Abolisher
+1 Grasp of Fate
+1 Greed
+1 Grim Guardian
+1 Hall of Heliod's Generosity
+1 Idyllic Tutor
+1 Isolated Chapel
+1 Isolation Cell
+1 Kambal, Consul of Allocation
+1 Karlov of the Ghost Council
+1 Karmic Justice
+1 Massacre Girl
+1 Merciless Eviction
+1 Mesa Enchantress
+1 Moonlight Bargain
+1 Mortify
+1 Necropotence
+1 Norn's Annex
+1 Open the Vaults
+1 Orzhov Signet
+1 Painful Quandary
+1 Path to Exile
+1 Phyrexian Arena
+1 Phyrexian Reclamation
+10 Plains
+1 Polluted Bonds
+1 Reliquary Tower
+1 Sanguine Bond
+1 Sigil of the Empty Throne
+1 Smothering Tithe
+1 Sol Ring
+1 Sphere of Safety
+1 Sun Titan
+1 Suture Priest
+13 Swamp
+1 Swords to Plowshares
+1 Tainted Field
+1 Temple of Silence
+1 Treasury Thrull
+1 Twilight Prophet
+1 Underworld Coinsmith
+1 Underworld Connections
+1 Underworld Dreams
+1 Urborg, Tomb of Yawgmoth
+1 Vizkopa Guildmage
+1 Well of Lost Dreams
+1 Wound Reflection
+1 Wrath of God

@@ -1,0 +1,84 @@
+1 Acidic Slime
+1 Arasta of the Endless Web
+1 Arbor Elf
+1 Asceticism
+1 Ashaya, Soul of the Wild
+1 Avenger of Zendikar
+1 Beast Whisperer
+1 Beast Within
+1 Castle Garenbrig
+1 Collector Ouphe
+1 Concordant Crossroads
+1 Craterhoof Behemoth
+1 Cultivate
+1 Elder Gargaroth
+1 Elvish Mystic
+1 Finale of Devastation
+30 Forest
+1 Fyndhorn Elves
+1 Genesis Wave
+1 Ghalta, Primal Hunger
+1 God-Eternal Rhonas
+1 Greater Good
+1 Growing Rites of Itlimoc / Itlimoc, Cradle of the Sun
+1 Heroic Intervention
+1 Hurricane
+1 Jolrael, Mwonvuli Recluse
+1 Karametra's Acolyte
+1 Kodama of the East Tree
+1 Kogla, the Titan Ape
+1 Lifecrafter's Bestiary
+1 Lightning Greaves
+1 Llanowar Elves
+1 Lurking Predators
+1 Mobilize
+1 Nature's Claim
+1 Nissa, Vastwood Seer / Nissa, Sage Animist
+1 Nykthos, Shrine to Nyx
+1 Nylea, Keen-Eyed
+1 Oran-Rief, the Vastwood
+1 Overwhelming Stampede
+1 Quirion Ranger
+1 Rampant Growth
+1 Reclamation Sage
+1 Reki, the History of Kamigawa
+1 Renata, Called to the Hunt
+1 Return to Nature
+1 Rhonas's Monument
+1 Rishkar's Expertise
+1 Rogue's Passage
+1 Sakura-Tribe Scout
+1 Scavenging Ooze
+1 Seedborn Muse
+1 Selvala, Heart of the Wilds
+1 Shared Summons
+1 Shifting Ceratops
+1 Skyshroud Claim
+1 Sol Ring
+1 Sylvan Library
+1 The Great Henge
+1 Towering Titan
+1 Ulvenwald Tracker
+1 Umbral Mantle
+1 Veil of Summer
+1 Vigor
+1 Walking Ballista
+1 War Room
+1 Wirewood Symbiote
+1 Wood Elves
+1 Worldly Tutor
+1 Yeva, Nature's Herald
+1 Zendikar Resurgent
+
+SIDEBOARD:
+1 Allosaurus Shepherd
+1 Forgotten Ancient
+1 Guardian Project
+1 Jedit Ojanen of Efrava
+1 Nissa's Pilgrimage
+1 Once Upon a Time
+1 Priest of Titania
+1 Rhonas the Indomitable
+1 The Ozolith
+1 Tireless Tracker
+1 Verdant Force

@@ -1,0 +1,99 @@
+1 Ancient Tomb
+1 Arbor Elf
+1 Arid Mesa
+1 Armageddon
+1 Avacyn's Pilgrim
+1 Aven Mindcensor
+1 Azusa, Lost but Seeking
+1 Beast Within
+1 Birds of Paradise
+1 Bloom Tender
+1 Boreal Druid
+1 Bow of Nylea
+1 Captain Sisay
+1 Carpet of Flowers
+1 Cavern of Souls
+1 Chord of Calling
+1 Chrome Mox
+1 Command Tower
+1 Crop Rotation
+1 Dosan the Falling Leaf
+1 Dryad Arbor
+1 Eidolon of Rhetoric
+1 Eiganjo Castle
+1 Eladamri's Call
+1 Elesh Norn, Grand Cenobite
+1 Elvish Mystic
+1 Enlightened Tutor
+1 Ethersworn Canonist
+1 Fiend Hunter
+1 Flagstones of Trokair
+1 Flooded Strand
+3 Forest
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Grafdigger's Cage
+1 Green Sun's Zenith
+1 Hokori, Dust Drinker
+1 Horizon Canopy
+1 Hushwing Gryff
+1 Inventors' Fair
+1 Kamahl, Fist of Krosa
+1 Kataki, War's Wage
+1 Land Grant
+1 Lightning Greaves
+1 Linvala, Keeper of Silence
+1 Llanowar Elves
+1 Mana Crypt
+1 Mana Vault
+1 Manglehorn
+1 Marsh Flats
+1 Mistveil Plains
+1 Misty Rainforest
+1 Mother of Runes
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Nature's Claim
+1 Noxious Revival
+1 Null Rod
+1 Okina, Temple to the Grandfathers
+1 Paradox Engine
+1 Path to Exile
+1 Pendelhaven
+1 Phyrexian Revoker
+2 Plains
+1 Priest of Titania
+1 Qasali Pridemage
+1 Quirion Ranger
+1 Ravages of War
+1 Rishkar, Peema Renegade
+1 Savannah
+1 Selvala, Explorer Returned
+1 Sol Ring
+1 Sphere of Resistance
+1 Spirit of the Labyrinth
+1 Static Orb
+1 Stony Silence
+1 Strip Mine
+1 Survival of the Fittest
+1 Swords to Plowshares
+1 Sylvan Library
+1 Sylvan Safekeeper
+1 Temple Garden
+1 Thalia, Guardian of Thraben
+1 Thorn of Amethyst
+1 Thousand-Year Elixir
+1 Trinisphere
+1 Urza's Ruinous Blast
+1 Verdant Catacombs
+1 Windswept Heath
+1 Winter Orb
+1 Wooded Bastion
+1 Wooded Foothills
+1 Worldly Tutor
+1 Yavimaya Hollow
+1 Yisan, the Wanderer Bard
+
+

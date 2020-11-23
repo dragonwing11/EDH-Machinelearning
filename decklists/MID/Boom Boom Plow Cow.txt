@@ -1,0 +1,89 @@
+1 Abundance
+1 Archetype of Endurance
+1 Avacyn, Angel of Hope
+1 Beast Within
+1 Blasphemous Act
+1 Bloodfire Colossus
+1 Bountiful Promenade
+1 Chromatic Lantern
+1 Clifftop Retreat
+1 Congregation at Dawn
+1 Cultivate
+1 Day of Judgment
+1 Defense of the Heart
+1 Eladamri's Call
+1 Elder Gargaroth
+1 Eternal Witness
+1 Evolving Wilds
+1 Fabled Passage
+1 Fire-Lit Thicket
+6 Forest
+1 Garruk, Caller of Beasts
+1 Gisela, Blade of Goldnight
+1 God-Eternal Rhonas
+1 Greenwarden of Murasa
+1 Harrow
+1 Hellkite Tyrant
+1 Hull Breach
+1 Hunting Grounds
+1 Ilharg, the Raze-Boar
+1 Iroas, God of Victory
+1 Jungle Shrine
+1 Kessig Wolf Run
+1 Kodama's Reach
+1 Krosan Grip
+1 Lightning Greaves
+1 Lurking Predators
+1 Mayael the Anima
+1 Mirari's Wake
+1 Mirri's Guile
+1 Moraug, Fury of Akoum
+4 Mountain
+1 Mycoid Shepherd
+1 Nylea, God of the Hunt
+1 Nylea, Keen-Eyed
+1 Oath of Druids
+1 Omnath, Locus of Rage
+1 Path to Exile
+5 Plains
+1 Qasali Pridemage
+1 Quicksilver Amulet
+1 Reflecting Pool
+1 Reliquary Tower
+1 Return to Dust
+1 Rishkar's Expertise
+1 Rootbound Crag
+1 Rugged Prairie
+1 Sacred Foundry
+1 Sakura-Tribe Elder
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Sheltered Thicket
+1 Sigarda, Host of Herons
+1 Skyshroud Claim
+1 Sol Ring
+1 Spearbreaker Behemoth
+1 Steel Hellkite
+1 Stomping Ground
+1 Sun Titan
+1 Sunhome, Fortress of the Legion
+1 Swords to Plowshares
+1 Sylvan Library
+1 Sylvan Tutor
+1 Temple Garden
+1 Temple of Abandon
+1 Temple of Plenty
+1 Temple of Triumph
+1 Terramorphic Expanse
+1 Terror of the Peaks
+1 Tooth and Nail
+1 Vagrant Plowbeasts
+1 Vivien's Arkbow
+1 Warstorm Surge
+1 Windswept Heath
+1 Wooded Bastion
+1 Wooded Foothills
+1 Woodfall Primus
+1 Worldly Tutor
+1 Wrath of God
+

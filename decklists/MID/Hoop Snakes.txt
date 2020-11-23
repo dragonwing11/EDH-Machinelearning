@@ -1,0 +1,86 @@
+1 Altar of Dementia
+1 Arcane Denial
+1 Arcane Signet
+1 Beastmaster Ascension
+1 Bident of Thassa
+1 Blasphemous Act
+1 Bow of Nylea
+1 Breeding Pool
+1 Cavern of Souls
+1 Chaos Warp
+1 Coat of Arms
+1 Command Tower
+1 Craterhoof Behemoth
+1 Cryptolith Rite
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Dictate of Kruphix
+1 Ebony Owl Netsuke
+1 Edric, Spymaster of Trest
+1 Farseek
+1 Fierce Guardianship
+1 Font of Mythos
+1 Forced Fruition
+6 Forest
+1 Frilled Mystic
+1 Goblin Bombardment
+1 Gruul Signet
+1 Heroic Intervention
+1 Howling Mine
+1 Impact Tremors
+1 Imprisoned in the Moon
+6 Island
+1 Izzet Signet
+1 Jace Beleren
+1 Jace's Archivist
+1 Kami of the Crescent Moon
+1 Kaseto, Orochi Archmage
+1 Kessig Wolf Run
+1 Ketria Triome
+1 Kozilek, Butcher of Truth
+1 Krosan Grip
+1 Lightning Greaves
+1 Magus of the Wheel
+1 Misty Rainforest
+1 Mosswort Bridge
+6 Mountain
+1 Mystic Snake
+1 Nature's Lore
+1 Ohran Frostfang
+1 Oko, Thief of Crowns
+1 Pongify
+1 Purphoros, God of the Forge
+1 Rampant Growth
+1 Reforge the Soul
+1 Reliquary Tower
+1 Rhystic Study
+1 Rites of Flourishing
+1 Rogue's Passage
+1 Scalding Tarn
+1 Shelldock Isle
+1 Simic Signet
+1 Sol Ring
+1 Song of the Dryads
+1 Spinerock Knoll
+1 Steam Vents
+1 Steely Resolve
+1 Stomping Ground
+1 Stoneforge Masterwork
+1 Swiftfoot Boots
+1 Teferi's Puzzle Box
+1 Tempt with Discovery
+1 Thassa, God of the Sea
+1 Thunderfoot Baloth
+1 Ulamog, the Infinite Gyre
+1 Vicious Shadows
+1 Voidslime
+1 Wheel and Deal
+1 Wheel of Fate
+1 Whelming Wave
+1 Whirlpool Warrior
+1 Whispersilk Cloak
+1 Windfall
+1 Winds of Change
+1 Wooded Foothills
+1 Xyris, the Writhing Storm
+

@@ -1,0 +1,80 @@
+1 Aetherflux Reservoir
+1 Alhammarret's Archive
+1 Arcane Signet
+1 Aria of Flame
+1 Aurelia's Fury
+1 Banefire
+1 Battlefield Forge
+1 Bonfire of the Damned
+1 Boros Charm
+1 Boros Garrison
+1 Boros Reckoner
+1 Boros Signet
+1 Browbeat
+1 Burnished Hart
+1 Burst Lightning
+1 Chandra Ablaze
+1 Chandra's Incinerator
+1 Chandra, Bold Pyromancer
+1 Chandra, Heart of Fire
+1 Citadel of Pain
+1 Clifftop Retreat
+1 Coalition Relic
+1 Collective Defiance
+1 Defiant Strike
+1 Double Vision
+1 Earthquake
+1 Eerie Interlude
+1 Evolving Wilds
+1 Faithless Looting
+1 Fiery Emancipation
+1 Flame Rift
+1 Gisela, Blade of Goldnight
+1 Grapeshot
+1 Guttersnipe
+1 Heartless Hidetsugu
+1 Increasing Vengeance
+1 Jaya Ballard
+1 Jaya's Immolating Inferno
+1 Lightning Blow
+1 Lightning Bolt
+1 Lightning Helix
+1 Lightning Javelin
+1 Lightning Strike
+1 Magma Jet
+1 Manabarbs
+1 Mark of Asylum
+14 Mountain
+1 Myriad Landscape
+1 Neheb, the Eternal
+1 Outpost Siege
+12 Plains
+1 Rain of Embers
+1 Repercussion
+1 Return to Dust
+1 Reverberate
+1 Rhystic Lightning
+1 Risk Factor
+1 Sacred Foundry
+1 Scabland
+1 Scorching Dragonfire
+1 Shelter
+1 Skewer the Critics
+1 Slagstorm
+1 Sol Ring
+1 Stun
+1 Swords to Plowshares
+1 Talisman of Conviction
+1 Temple of Triumph
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Thrill of Possibility
+1 Torbran, Thane of Red Fell
+1 Ur-Golem's Eye
+1 Vandalblast
+1 Wear // Tear
+1 Worn Powerstone
+
+Maybeboard
+1 Deafening Clarion
+

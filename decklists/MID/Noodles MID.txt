@@ -1,0 +1,96 @@
+1 Ancient Tomb
+1 Arcane Signet
+1 Arid Mesa
+1 Artisan of Kozilek
+1 Badlands
+1 Bedevil
+1 Blightsteel Colossus
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Brimstone Trebuchet
+1 Chandra, Torch of Defiance
+1 Chaos Warp
+1 Charcoal Diamond
+1 Chromatic Lantern
+1 City of Brass
+1 Coldsteel Heart
+1 Combustible Gearhulk
+1 Command Tower
+1 Conduit of Ruin
+1 Cryptolith Fragment // Aurora of Emrakul
+1 Demonic Tutor
+1 Dockside Extortionist
+1 Dragonskull Summit
+1 Dread Cacodemon
+1 Dreadbore
+1 Emrakul, the Promised End
+1 Eye of Ugin
+1 Fellwar Stone
+1 Fire Diamond
+1 Gamble
+1 Graven Cairns
+1 Heartless Hidetsugu
+1 Imperial Seal
+1 It That Betrays
+1 Kaervek the Merciless
+1 Kozilek, Butcher of Truth
+1 Lightning Greaves
+1 Lobber Crew
+1 Luxury Suite
+1 Magus of the Wheel
+1 Mana Confluence
+1 Marsh Flats
+1 Meteor Golem
+1 Murderous Rider // Swift End
+1 Necropotence
+1 Neheb, the Eternal
+1 Nettle Drone
+1 Phyrexian Arena
+1 Piranha Marsh
+1 Plague Spitter
+1 Polluted Delta
+1 Prismatic Vista
+1 Pyroblast
+1 Rakdos Charm
+1 Rakdos Signet
+1 Rakdos, Lord of Riots
+1 Read the Bones
+1 Red Elemental Blast
+1 Reflecting Pool
+1 Rune-Scarred Demon
+1 Sanctum of Ugin
+1 Sarkhan's Unsealing
+1 Scalding Tarn
+1 Sensei's Divining Top
+1 Shepherd of Rot
+1 Shizo, Death's Storehouse
+1 Sidisi, Undead Vizier
+1 Sire of Insanity
+1 Sneak Attack
+3 Snow-Covered Mountain
+4 Snow-Covered Swamp
+1 Sol Ring
+1 Spawn of Mayhem
+1 Spear Spewer
+1 Spinerock Knoll
+1 Steel Hellkite
+1 Stormfist Crusader
+1 Stranglehold
+1 Strip Mine
+1 Sulfurous Springs
+1 Swiftfoot Boots
+1 Talisman of Indulgence
+1 Terminate
+1 Thermo-Alchemist
+1 Toxic Deluge
+1 Ulamog, the Ceaseless Hunger
+1 Ulamog, the Infinite Gyre
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Vandalblast
+1 Verdant Catacombs
+1 Void Winnower
+1 Wheel of Fortune
+1 Wooded Foothills
+

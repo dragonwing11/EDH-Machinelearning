@@ -1,0 +1,85 @@
+1 Abyssal Persecutor
+1 Adarkar Valkyrie
+1 Ambition's Cost
+1 Angel of Condemnation
+1 Angel of Despair
+1 Angel of Salvation
+1 Angel of Sanctions
+1 Angelic Guardian
+1 Arch of Orazca
+1 Authority of the Consuls
+1 Balefire Dragon
+1 Bladewing the Risen
+1 Blood Crypt
+1 Boros Garrison
+1 Boros Locket
+1 Boros Signet
+1 Brave the Sands
+1 Bruna, the Fading Light
+1 Command Tower
+1 Commander's Sphere
+1 Condemn
+1 Crackling Doom
+1 Damnable Pact
+1 Deathbringer Regent
+1 Deathpact Angel
+1 Desecration Demon
+1 Disrupt Decorum
+1 Dragon Tempest
+1 Dragonskull Summit
+1 Firemane Angel
+1 Firemane Avenger
+1 Gisela, the Broken Blade
+1 Graven Cairns
+1 Heartwarming Redemption
+1 Hellkite Charger
+1 Helm of the Host
+1 Hour of Revelation
+1 Indulgent Tormentor
+1 Inspiring Vantage
+1 Kaalia, Zenith Seeker
+1 Kolaghan, the Storm's Fury
+1 Land Tax
+1 Lightning Greaves
+1 Lightning Helix
+1 Luxury Suite
+1 Lyra Dawnbringer
+1 Mardu Banner
+1 Mastermind's Acquisition
+1 Mindwrack Demon
+5 Mountain
+1 Murder
+1 Nomad Outpost
+1 Orzhov Basilica
+1 Orzhov Locket
+1 Orzhov Signet
+1 Palace Siege
+1 Pestilence Demon
+9 Plains
+1 Rakdos Carnarium
+1 Rakdos Locket
+1 Rakdos Signet
+1 Read the Bones
+1 Rout
+1 Ryusei, the Falling Star
+1 Sacred Foundry
+1 Scalelord Reckoner
+1 Sigil of the New Dawn
+1 Snow-Covered Plains
+3 Snow-Covered Swamp
+1 Sol Ring
+1 Sower of Discord
+1 Succumb to Temptation
+1 Sunbird's Invocation
+1 Sunscorch Regent
+3 Swamp
+1 Syphon Mind
+1 Temple of the False God
+1 Terminate
+1 Territorial Hellkite
+1 The Immortal Sun
+1 Thundermaw Hellkite
+1 Tyrant's Familiar
+1 Unbreakable Formation
+1 Utvara Hellkite
+

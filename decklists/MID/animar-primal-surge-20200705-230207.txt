@@ -1,0 +1,88 @@
+1 Acidic Slime
+1 Ancestral Statue
+1 Ancient Ziggurat
+1 Anger
+1 Animar, Soul of Elements
+1 Archetype of Imagination
+1 Artisan of Kozilek
+1 Auspicious Starrix
+1 Avatar of Growth
+1 Beanstalk Giant / Fertile Footsteps
+1 Beast Whisperer
+1 Beastmaster Ascension
+1 Birds of Paradise
+1 Bonders' Enclave
+1 Brazen Borrower / Petty Theft
+1 Breeding Pool
+1 Carnage Tyrant
+1 Carpet of Flowers
+1 Castle Garenbrig
+1 Chromatic Lantern
+1 Courser of Kruphix
+1 Crystalline Giant
+1 Elvish Visionary
+1 Evolution Sage
+1 Fabled Passage
+1 Fauna Shaman
+1 Fertilid
+7 Forest
+1 Garruk's Packleader
+1 Gemrazer
+1 Ghalta, Primal Hunger
+1 Grumgully, the Generous
+1 Gruul Guildgate
+1 Gruul Turf
+1 Guardian Project
+5 Island
+1 Karn's Bastion
+1 Keruga, the Macrosage
+1 Klothys, God of Destiny
+1 Kogla, the Titan Ape
+1 Krosan Tusker
+1 Llanowar Visionary
+1 Lukka, Coppercoat Outcast
+1 Migratory Greathorn
+3 Mountain
+1 Mycoloth
+1 Nylea, Keen-Eyed
+1 Nyxbloom Ancient
+1 Parcelbeast
+1 Phyrexian Ingester
+1 Pouncing Shoreshark
+1 Pridemalkin
+1 Primal Empathy
+1 Primal Surge
+1 Protean Raider
+1 Purphoros, God of the Forge
+1 Reclamation Sage
+1 Reconnaissance Mission
+1 Regal Behemoth
+1 Rugged Highlands
+1 Ruric Thar, the Unbowed
+1 Sakura-Tribe Elder
+1 Scute Mob
+1 Sea-Dasher Octopus
+1 Shadowspear
+1 Simic Ascendancy
+1 Simic Guildgate
+1 Skatewing Spy
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spark Double
+1 Steam Vents
+1 Stomping Ground
+1 Stonecoil Serpent
+1 Tectonic Giant
+1 Temple of Abandon
+1 Temple of Epiphany
+1 Temple of Mystery
+1 Terramorphic Expanse
+1 Thassa, Deep-Dwelling
+1 Thassa's Oracle
+1 Thryx, the Sudden Storm
+1 Trollbred Guardian
+1 Verdant Sun's Avatar
+1 Vigor
+1 Voracious Greatshark
+1 Waterlogged Grove
+1 Wildwood Scourge

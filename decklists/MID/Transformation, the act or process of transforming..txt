@@ -1,0 +1,97 @@
+1 Aggravated Assault
+1 Anguished Unmaking
+1 Animate Dead
+1 Arcane Signet
+1 Atarka, World Render
+1 Bear Umbra
+1 Beseech the Queen
+1 Bladewing the Risen
+1 Blood Crypt
+1 Bojuka Bog
+1 Bountiful Promenade
+1 Bring to Light
+1 Cairn Wanderer
+1 Chromatic Lantern
+1 Chromium, the Mutable
+1 Clifftop Retreat
+1 Command Tower
+1 Counterspell
+1 Crux of Fate
+1 Cultivate
+1 Curiosity
+1 Dragon Tempest
+1 Dragon's Hoard
+1 Dragonlord Dromoka
+1 Dragonlord Kolaghan
+1 Dragonlord Ojutai
+1 Drakuseth, Maw of Flames
+1 Exotic Orchard
+1 Farseek
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Forest
+1 Gaea's Blessing
+1 Godless Shrine
+1 Hallowed Fountain
+1 Haven of the Spirit Dragon
+1 Hellkite Charger
+1 Hellkite Tyrant
+1 Hinterland Harbor
+3 Island
+1 Isolated Chapel
+1 Journey to Eternity // Atzal, Cave of Eternity
+1 Kodama's Reach
+1 Krosan Grip
+1 Lightning Greaves
+1 Living Death
+1 Luxury Suite
+1 Mausoleum Secrets
+1 Moltensteel Dragon
+1 Morphic Pool
+3 Mountain
+1 Nature's Lore
+1 Negate
+1 Niv-Mizzet, Dracogenius
+1 Niv-Mizzet, the Firemind
+1 Open the Armory
+1 Overgrown Tomb
+1 Path of Ancestry
+1 Plains
+1 Rakdos Signet
+1 Rishkar's Expertise
+1 Rite of Replication
+1 Runehorn Hellkite
+1 Sacred Foundry
+1 Sarkhan Unbroken
+1 Savage Ventmaw
+1 Scion of the Ur-Dragon
+1 Scourge of Valkas
+1 Smothering Tithe
+1 Sol Ring
+1 Spire Garden
+1 Steam Vents
+1 Stitch Together
+1 Stomping Ground
+1 Stubborn Denial
+1 Sulfur Falls
+1 Swamp
+1 Swords to Plowshares
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Curiosity
+1 Talisman of Resilience
+1 Temple Garden
+1 Teneb, the Harvester
+1 Terror of Mount Velus
+1 The Ur-Dragon
+1 Time Wipe
+1 Unburial Rites
+1 Unclaimed Territory
+1 Vorosh, the Hunter
+1 Wasitora, Nekoru Queen
+1 Watery Grave
+1 Windfall
+1 Woodland Cemetery
+1 Worldgorger Dragon
+1 Yavimaya Coast
+

@@ -1,0 +1,77 @@
+1 Aetherflux Reservoir
+1 Alhammarret's Archive
+1 Amass the Components
+1 Blood Moon
+1 Braid of Fire
+1 Brimstone Volley
+1 Cancel
+1 Chaos Warp
+1 Clear the Mind
+1 Command Tower
+1 Consecrated Sphinx
+1 Counterspell
+1 Curiosity
+1 Darksteel Ingot
+1 Darksteel Plate
+1 Day's Undoing
+1 Devious Cover-Up
+1 Diamond Mare
+1 Dictate of Kruphix
+1 Dominus of Fealty
+1 Dramatic Reversal
+1 Electrostatic Field
+1 Elixir of Immortality
+1 Evolving Wilds
+1 Expansion // Explosion
+1 Fiery Emancipation
+1 Fiery Intervention
+1 Finale of Revelation
+1 Firebrand Archer
+1 Folio of Fancies
+1 Gilded Lotus
+1 Goblin Electromancer
+1 Guttersnipe
+1 Howling Mine
+13 Island
+1 Isochron Scepter
+1 Jace's Sanctum
+1 Jace, Wielder of Mysteries
+1 Jaya Ballard
+1 Keranos, God of Storms
+1 Laboratory Maniac
+1 Leyline of Anticipation
+1 Lightning Greaves
+1 Lightning Strike
+1 Midnight Clock
+1 Mirrormade
+13 Mountain
+1 Niv-Mizzet, Parun
+1 Niv-Mizzet, the Firemind
+1 Nykthos, Shrine to Nyx
+1 Nyx Lotus
+1 Ominous Seas
+1 Omniscience
+1 Oneirophage
+1 Part the Waterveil
+1 Pirate's Pillage
+1 Quietus Spike
+1 Ral, Caller of Storms
+1 Ral, Izzet Viceroy
+1 Reliquary Tower
+1 Repulse
+1 Rhystic Study
+1 Risk Factor
+1 Scalding Tarn
+1 Shock
+1 Sol Ring
+1 Spellbook
+1 Spirebluff Canal
+1 Steam Vents
+1 Sulfur Falls
+1 Teferi's Puzzle Box
+1 The Magic Mirror
+1 Unsummon
+1 Volcanic Island
+1 Whir of Invention
+1 Young Pyromancer
+

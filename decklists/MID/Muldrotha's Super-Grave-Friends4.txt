@@ -1,0 +1,110 @@
+1 Animate Dead
+1 Arcane Signet
+1 As Foretold
+1 Ashiok, Dream Render
+1 Astral Cornucopia
+1 Attunement
+1 Beast Within
+1 Bojuka Bog
+1 Breeding Pool
+1 Caustic Caterpillar
+1 Cephalid Coliseum
+1 Command Tower
+1 Command the Dreadhorde
+1 Crystal Vein
+1 Crystalline Crawler
+1 Cyclonic Rift
+1 Deepglow Skate
+1 Defense of the Heart
+1 Dimir Signet
+1 Doubling Season
+1 Drowned Catacomb
+1 Dryad of the Ilysian Grove
+1 Echoing Truth
+1 Eel Umbra
+1 Emergence Zone
+1 Evolution Sage
+1 Fetid Pools
+1 Field of the Dead
+1 Flooded Grove
+1 Flux Channeler
+3 Forest
+1 Glen Elendra Archmage
+1 Gravebreaker Lamia
+1 Greater Good
+1 Heart of Kiran
+1 Hinterland Harbor
+3 Island
+1 Jace, Memory Adept
+1 Karn's Bastion
+1 Kaya's Ghostform
+1 Kiora, Master of the Depths
+1 Krosan Grip
+1 Life from the Loam
+1 Liliana, Death's Majesty
+1 Liliana, Dreadhorde General
+1 Lotus Petal
+1 Massacre Girl
+1 Morphic Pool
+1 Muldrotha, the Gravetide
+1 Mystic Remora
+1 Negate
+1 Nesting Grounds
+1 Nevinyrral's Disk
+1 Nurturing Peatland
+1 Nyxbloom Ancient
+1 Oath of Jace
+1 Oath of Nissa
+1 Oko, Thief of Crowns
+1 Overgrown Tomb
+1 Pernicious Deed
+1 Perpetual Timepiece
+1 Phyrexian Scriptures
+1 Phyrexian Tower
+1 Pir, Imaginative Rascal
+1 Polluted Delta
+1 Rapid Hybridization
+1 Rings of Brighthearth
+1 Roalesk, Apex Hybrid
+1 Sakura-Tribe Elder
+1 Satyr Wayfinder
+1 Seal of Primordium
+1 Sol Ring
+1 Spark Double
+1 Spellskite
+1 Spore Frog
+1 Stinkweed Imp
+1 Sunken Ruins
+1 Swamp
+2 Swamp
+1 Tamiyo, Collector of Tales
+1 Teferi, Master of Time
+1 Teferi, Temporal Archmage
+1 Thrummingbird
+1 Twilight Mire
+1 Ugin, the Spirit Dragon
+1 Underrealm Lich
+1 Unsubstantiate
+1 Uro, Titan of Nature's Wrath
+1 Verdant Catacombs
+1 Vraska, Relic Seeker
+1 Waterlogged Grove
+1 Watery Grave
+1 Winds of Rebuke
+1 Woodland Cemetery
+1 Zagoth Triome
+
+Sideboard
+1 Garruk, Apex Predator
+1 Gemstone Mine
+1 Jace, Architect of Thought
+1 Kasmina, Enigmatic Mentor
+1 Kiora, Behemoth Beckoner
+1 Kiora, the Crashing Wave
+1 Liliana Vess
+1 Liliana, Heretical Healer // Liliana, Defiant Necromancer
+1 Liliana, Waker of the Dead
+1 Nissa, Steward of Elements
+1 Underground River
+1 Vraska, Golgari Queen
+

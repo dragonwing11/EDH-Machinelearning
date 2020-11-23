@@ -1,0 +1,77 @@
+1 Bow of Nylea
+1 Caged Sun
+1 Castle Garenbrig
+1 Circuitous Route
+1 Command Tower
+1 Evolution Sage
+1 Explosive Vegetation
+1 Feral Hydra
+1 Force of Vigor
+25 Forest
+1 Gargos, Vicious Watcher
+1 Genesis Hydra
+1 Gilded Lotus
+1 Gyre Sage
+1 Hardened Scales
+1 Heroes' Bane
+1 Heroic Intervention
+1 Hooded Hydra
+1 Hungering Hydra
+1 Hydra Broodmaster
+1 Hydra Omnivore
+1 Hydra's Growth
+1 Incubation Druid
+1 Inspiring Call
+1 Ironscale Hydra
+1 Kalonian Hydra
+1 Karametra's Acolyte
+1 Karn's Bastion
+1 Krosan Grip
+1 Lifeblood Hydra
+1 Llanowar Elves
+1 Llanowar Tribe
+1 Managorger Hydra
+1 Mistcutter Hydra
+1 Momentous Fall
+1 Mosswort Bridge
+1 Myriad Landscape
+1 Naturalize
+1 Nature's Claim
+1 Nissa, Who Shakes the World
+1 Nylea's Intervention
+1 Nylea, God of the Hunt
+1 Nyx Lotus
+1 Nyxbloom Ancient
+1 Omnath, Locus of Mana
+1 Oran-Rief Hydra
+1 Overwhelming Stampede
+1 Path of Ancestry
+1 Polukranos, World Eater
+1 Praetor's Counsel
+1 Primal Vigor
+1 Primordial Hydra
+1 Protean Hydra
+1 Reliquary Tower
+1 Return of the Wildspeaker
+1 Rhonas's Monument
+1 Road of Return
+1 Rogue's Passage
+1 Sakura-Tribe Elder
+1 Selvala, Heart of the Wilds
+1 Shamanic Revelation
+1 Sol Ring
+1 Solidarity of Heroes
+1 Steelbane Hydra
+1 Swiftfoot Boots
+1 The Great Henge
+1 Tranquil Thicket
+1 Ulvenwald Hydra
+1 Unbound Flourishing
+1 Vastwood Hydra
+1 Vigor
+1 Vivien, Champion of the Wilds
+1 Voracious Hydra
+1 Whiptongue Hydra
+1 Wildest Dreams
+1 Zendikar Resurgent
+

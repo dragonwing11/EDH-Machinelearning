@@ -1,0 +1,100 @@
+1 Aggravated Assault
+1 Ancient Tomb
+1 Archangel of Thune
+1 Arid Mesa
+1 Aurelia, the Warleader
+1 Avacyn, Angel of Hope
+1 Aven Mindcensor
+1 Bear Umbra
+1 Burgeoning
+1 Captain Sisay
+1 Carpet of Flowers
+1 Cinder Glade
+1 City of Brass
+1 Command Tower
+1 Cultivate
+1 Defense of the Heart
+1 Emeria Shepherd
+1 Enlightened Tutor
+1 Eternal Witness
+1 Exotic Orchard
+1 Explore
+1 Explosive Vegetation
+1 Faith's Reward
+1 Farseek
+1 Fellwar Stone
+1 Fire-Lit Thicket
+1 Forest
+1 Fortified Village
+1 Gaea's Cradle
+1 Gisela, Blade of Goldnight
+1 Grafted Exoskeleton
+1 Greater Good
+1 Jungle Shrine
+1 Karplusan Forest
+1 Kozilek, Butcher of Truth
+1 Linvala, Keeper of Silence
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Vault
+1 Mirari's Wake
+1 Momentous Fall
+1 Mountain
+1 Nature's Lore
+1 Nature's Will
+1 Naya Panorama
+1 Nykthos, Shrine to Nyx
+1 Nyxbloom Ancient
+1 Odric, Lunarch Marshal
+1 Okina, Temple to the Grandfathers
+1 Oracle of Mul Daya
+1 Plains
+1 Plateau
+1 Privileged Position
+1 Rampant Growth
+1 Ramunap Excavator
+1 Reflecting Pool
+1 Rishkar's Expertise
+1 Rith's Grove
+1 Rugged Prairie
+1 Sacred Foundry
+1 Sakura-Tribe Elder
+1 Samut, Voice of Dissent
+1 Saskia the Unyielding
+1 Savage Ventmaw
+1 Savannah
+1 Selesnya Signet
+1 Selvala, Heart of the Wilds
+1 Selvala's Stampede
+1 Serra Ascendant
+1 Shinka, the Bloodsoaked Keep
+1 Sigarda, Host of Herons
+1 Silverblade Paladin
+1 Skyshroud Claim
+1 Sol Ring
+1 Solemn Simulacrum
+1 Somberwald Sage
+1 Stomping Ground
+1 Strip Mine
+1 Sunpetal Grove
+1 Survival of the Fittest
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of Light and Shadow
+1 Sylvan Library
+1 Taiga
+1 Talisman of Impulse
+1 Temple Garden
+1 Thornscape Familiar
+1 Triumph of the Hordes
+1 Vedalken Orrery
+1 Vizier of the Menagerie
+1 Vorinclex, Voice of Hunger
+1 Willow Satyr
+1 Winding Canyons
+1 Windswept Heath
+1 Wooded Bastion
+1 Wooded Foothills
+1 Yavimaya Hollow
+1 Zacama, Primal Calamity
+1 Zendikar Resurgent

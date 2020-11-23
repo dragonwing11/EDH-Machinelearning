@@ -1,0 +1,93 @@
+1 All Is Dust
+1 Ancient Excavation
+1 Anger
+1 Animate Dead
+1 Arcane Signet
+1 Bedevil
+1 Blast Zone
+1 Blood Crypt
+1 Bloodstained Mire
+1 Body Double
+1 Boseiju, Who Shelters All
+1 Buried Alive
+1 Careful Study
+1 Cascade Bluffs
+1 Command Tower
+1 Consecrated Sphinx
+1 Counterspell
+1 Crumbling Necropolis
+1 Cyclonic Rift
+1 Damnation
+1 Dance of the Dead
+1 Dark Deal
+1 Demonic Tutor
+1 Diluvian Primordial
+1 Dimir Signet
+1 Disallow
+1 Doomed Necromancer
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Entomb
+1 Exhume
+1 Exotic Orchard
+1 Faithless Looting
+1 Feed the Swarm
+1 Feldon of the Third Path
+1 Frantic Search
+1 Gilded Lotus
+1 Graven Cairns
+1 Hero's Downfall
+1 Insidious Dreams
+5 Island
+1 It That Betrays
+1 Izzet Signet
+1 Jace's Archivist
+1 Jin-Gitaxias, Core Augur
+1 Kederekt Leviathan
+1 Kess, Dissident Mage
+1 Living Death
+2 Mountain
+1 Mystical Tutor
+1 Narset's Reversal
+1 Necromancy
+1 Nezahal, Primal Tide
+1 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen
+1 Obsessive Stitcher
+1 Phyrexian Tower
+1 Polluted Delta
+1 Rakdos Signet
+1 Read the Runes
+1 Reanimate
+1 Reforge the Soul
+1 Rune-Scarred Demon
+1 Scalding Tarn
+1 Sepulchral Primordial
+1 Sheoldred, Whispering One
+1 Shivan Reef
+1 Smoldering Marsh
+1 Sol Ring
+1 Stitch Together
+1 Sulfur Falls
+1 Sulfurous Springs
+1 Sunken Hollow
+1 Sunken Ruins
+4 Swamp
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Teferi, Master of Time
+1 Temple of Deceit
+1 Temple of Epiphany
+1 Temple of Malice
+1 Thirst for Knowledge
+1 Thirst for Meaning
+1 Thought Vessel
+1 Thran Dynamo
+1 Underground River
+1 Unfulfilled Desires
+1 Victimize
+1 Vilis, Broker of Blood
+1 Void Winnower
+1 Watery Grave
+1 Windfall
+

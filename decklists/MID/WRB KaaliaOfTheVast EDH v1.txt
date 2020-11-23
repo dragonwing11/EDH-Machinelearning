@@ -1,0 +1,81 @@
+1 Aegis Angel
+1 Akoum Refuge
+1 Akroma's Vengeance
+1 Akroma, Angel of Fury
+1 Akroma, Angel of Wrath
+1 Ancient Hellkite
+1 Angel of Despair
+1 Angelic Arbiter
+1 Archangel of Strife
+1 Armillary Sphere
+1 Avacyn, Angel of Hope
+1 Barren Moor
+1 Basandra, Battle Seraph
+1 Bathe in Light
+1 Blackcleave Cliffs
+1 Bojuka Bog
+1 Boros Garrison
+1 Boros Signet
+1 Cleansing Beam
+1 Comet Storm
+1 Command Tower
+1 Darksteel Ingot
+1 Day of Judgment
+1 Diabolic Tutor
+1 Dolmen Gate
+1 Dread Cacodemon
+1 Earthquake
+1 Evincar's Justice
+1 Evolving Wilds
+1 Forgotten Cave
+1 Gisela, Blade of Goldnight
+1 Guardian Seraph
+1 Hellkite Charger
+1 Kaalia of the Vast
+1 Lightning Greaves
+1 Linvala, Keeper of Silence
+1 Mana-Charged Dragon
+1 Mark of Asylum
+1 Mask of Avacyn
+1 Molten Slagheap
+1 Mortify
+1 Mother of Runes
+8 Mountain
+1 Oni of Wild Places
+1 Orim's Thunder
+1 Oros, the Avenger
+1 Orzhov Basilica
+1 Orzhov Signet
+1 Path to Exile
+1 Pestilence Demon
+8 Plains
+1 Pyrohemia
+1 Rakdos Carnarium
+1 Rakdos Signet
+1 Rakdos the Defiler
+1 Red Sun's Zenith
+1 Remember the Fallen
+1 Return to Dust
+1 Rune-Scarred Demon
+1 Rupture Spire
+1 Ryusei, the Falling Star
+1 Secluded Steppe
+1 Serra Avenger
+1 Sol Ring
+1 Spirit Mantle
+1 Steel Hellkite
+1 Sulfurous Blast
+7 Swamp
+1 Swiftfoot Boots
+1 Sword of Vengeance
+1 Syphon Mind
+1 Tariel, Reckoner of Souls
+1 Terminate
+1 Terramorphic Expanse
+1 True Conviction
+1 Twilight Shepherd
+1 Vivid Meadow
+1 Vow of Lightning
+1 Whispersilk Cloak
+1 Wrecking Ball
+

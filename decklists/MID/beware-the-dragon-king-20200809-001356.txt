@@ -1,0 +1,91 @@
+1 Arcane Signet
+1 Ashnod's Altar
+1 Avenger of Zendikar
+1 Awakening Zone
+1 Azusa, Lost but Seeking
+1 Bedevil
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Bolas's Citadel
+1 Brass's Bounty
+1 Burnished Hart
+1 Cabal Coffers
+1 Command Tower
+1 Commander's Sphere
+1 Crop Rotation
+1 Crucible of Worlds
+1 Deathsprout
+1 Demonic Tutor
+1 Diabolic Intent
+1 Dockside Extortionist
+1 Doubling Season
+1 Endrek Sahr, Master Breeder
+1 Eternal Witness
+1 Evolving Wilds
+1 Expedition Map
+1 Fabled Passage
+1 Fangren Marauder
+1 Field of the Dead
+1 Fleshbag Marauder
+5 Forest
+1 Garruk, Cursed Huntsman
+1 Golgari Signet
+1 Grave Pact
+1 Grim Tutor
+1 Gruul Signet
+1 Haunted Cloak
+1 Heroic Intervention
+1 Korvold, Fae-Cursed King
+1 Kroxa, Titan of Death's Hunger
+1 Lightning Greaves
+1 Liliana Vess
+1 Liliana, Dreadhorde General
+1 Lotus Field
+1 Lotus Petal
+1 Mayhem Devil
+4 Mountain
+1 Mox Opal
+1 Myriad Landscape
+1 Nyxbloom Ancient
+1 Overwhelming Stampede
+1 Pitiless Plunderer
+1 Plaguecrafter
+1 Prossh, Skyraider of Kher
+1 Rakdos Signet
+1 Reliquary Tower
+1 Rhythm of the Wild
+1 Rogue's Passage
+1 Sakura-Tribe Elder
+1 Second Harvest
+1 Seedborn Muse
+1 Shadowspear
+1 Shriekmaw
+1 Sol Ring
+1 Solemn Simulacrum
+1 Stomping Ground
+3 Swamp
+1 Swiftfoot Boots
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sylvan Safekeeper
+1 Temple of Malady
+1 Temple of the False God
+1 Terramorphic Expanse
+1 The Ozolith
+1 Thrashing Brontodon
+1 Tireless Tracker
+1 Tormod's Crypt
+1 Traverse the Outlands
+1 Ugin, the Ineffable
+1 Ugin, the Spirit Dragon
+1 Urborg, Tomb of Yawgmoth
+1 Vedalken Orrery
+1 Victimize
+1 Village Rites
+1 Viscera Seer
+1 Wasteland
+1 Windswept Heath
+1 Witch's Cottage
+1 Wooded Foothills
+1 Woodland Cemetery

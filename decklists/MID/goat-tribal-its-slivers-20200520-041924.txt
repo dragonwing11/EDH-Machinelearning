@@ -1,0 +1,100 @@
+1 Aether Vial
+1 Ancient Ziggurat
+1 Animate Dead
+1 Arcane Signet
+1 Arid Mesa
+1 Aura Shards
+1 Badlands
+1 Basal Sliver
+1 Bayou
+1 Belligerent Sliver
+1 Blood Crypt
+1 Bloodstained Mire
+1 Breeding Pool
+1 Captain Sisay
+1 Cavern of Souls
+1 Chromatic Lantern
+1 Cloudshredder Sliver
+1 Command Tower
+1 Constricting Sliver
+1 Counterspell
+1 Crypt Sliver
+1 Crystalline Sliver
+1 Cyclonic Rift
+1 Darkheart Sliver
+1 Demonic Tutor
+1 Diffusion Sliver
+1 Dormant Sliver
+1 Echo of Eons
+1 Exotic Orchard
+1 Fellwar Stone
+1 Flooded Strand
+1 Galerider Sliver
+1 Gemhide Sliver
+1 Glimmervoid
+1 Godless Shrine
+1 Hallowed Fountain
+1 Harmonic Sliver
+1 Heart Sliver
+1 Herald's Horn
+1 Hibernation Sliver
+1 Homing Sliver
+1 Kindred Discovery
+1 Kolaghan's Command
+1 Leeching Sliver
+1 Living Death
+1 Mana Drain
+1 Manaweft Sliver
+1 Marsh Flats
+1 Mirari's Wake
+1 Mirror Entity
+1 Misty Rainforest
+1 Mnemonic Sliver
+1 Morophon, the Boundless
+1 Mortify
+1 Necrotic Sliver
+1 Overgrown Tomb
+1 Painful Truths
+1 Paradoxical Outcome
+1 Path of Ancestry
+1 Plateau
+1 Polluted Delta
+1 Quick Sliver
+1 Reanimate
+1 Reflecting Pool
+1 Savannah
+1 Scalding Tarn
+1 Scrubland
+1 Shadow Sliver
+1 Sliver Hive
+1 Sliver Hivelord
+1 Sliver Legion
+1 Sliver Overlord
+1 Sliver Queen
+1 Sol Ring
+1 Steam Vents
+1 Stomping Ground
+1 Striking Sliver
+1 Swords to Plowshares
+1 Syphon Sliver
+1 Taiga
+1 Talisman of Creativity
+1 Talisman of Curiosity
+1 Talisman of Resilience
+1 Temple Garden
+1 The First Sliver
+1 Time Spiral
+1 Tropical Island
+1 Tundra
+1 Unclaimed Territory
+1 Underground Sea
+1 Urza's Incubator
+1 Utter End
+1 Verdant Catacombs
+1 Victual Sliver
+1 Virulent Sliver
+1 Volcanic Island
+1 Watery Grave
+1 Windswept Heath
+1 Winged Sliver
+1 Wooded Foothills

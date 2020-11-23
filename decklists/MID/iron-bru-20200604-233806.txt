@@ -1,0 +1,84 @@
+1 Ancient Stone Idol
+1 Arcane Artisan
+1 Blasphemous Act
+1 Blinkmoth Urn
+1 Bloodforged Battle-Axe
+1 Brass's Bounty
+1 Brudiclad, Telchor Engineer
+1 Buried Ruin
+1 Captain Lannery Storm
+1 Chain Reaction
+1 Chaos Warp
+1 Chief Engineer
+1 Command Tower
+1 Commander's Sphere
+1 Confirm Suspicions
+1 Curse of Opulence
+1 Cyclonic Rift
+1 Darksteel Colossus
+1 Desolate Lighthouse
+1 Dockside Extortionist
+1 Evacuation
+1 Faerie Artisans
+1 Feldon of the Third Path
+1 Fiery Islet
+1 Foundry of the Consuls
+1 Glyph Keeper
+1 Great Furnace
+1 Hangarback Walker
+1 Hate Mirage
+1 Heat Shimmer
+1 Hellkite Tyrant
+1 Hellrider
+1 Helm of the Host
+1 Hero of Oxid Ridge
+1 Idol of Oblivion
+9 Island
+1 Izzet Boilerworks
+1 Izzet Signet
+1 Karn, Scion of Urza
+1 Kher Keep
+1 Loyal Apprentice
+1 Mechanized Production
+1 Mimic Vat
+1 Mirrorpool
+1 Mirrorworks
+9 Mountain
+1 Myr Battlesphere
+1 Myriad Landscape
+1 Nesting Dragon
+1 Padeem, Consul of Innovation
+1 Phyrexian Altar
+1 Phyrexian Processor
+1 Pia and Kiran Nalaar
+1 Quasiduplicate
+1 Reef Worm
+1 Release the Gremlins
+1 Rite of Replication
+1 Saheeli Rai
+1 Saheeli, the Gifted
+1 Saheeli's Artistry
+1 Sai, Master Thopterist
+1 Seat of the Synod
+1 Sharding Sphinx
+1 Shared Animosity
+1 Shivan Reef
+1 Skullclamp
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spell Swindle
+1 Spirebluff Canal
+1 Steam Vents
+1 Storm the Vault / Vault of Catlacan
+1 Tamiyo's Journal
+1 Temple of Epiphany
+1 Temple of the False God
+1 Thopter Spy Network
+1 Treasure Map / Treasure Cove
+1 Utvara Hellkite
+1 Vivid Crag
+1 Vivid Creek
+1 Vizier of Many Faces
+1 Wayfarer's Bauble
+1 Whirler Rogue
+1 Wurmcoil Engine

@@ -1,0 +1,114 @@
+1 Asceticism
+1 Assault Formation
+1 Bar the Door
+1 Bayou
+1 Behind the Scenes
+1 Birds of Paradise
+1 Birthing Pod
+1 Black Poplar Shaman
+1 Bosk Banneret
+1 Brave the Sands
+1 Canopy Vista
+1 Command Tower
+1 Dauntless Dourbark
+1 Deadwood Treefolk
+1 Descendants' Path
+1 Diamond Valley
+1 Doran, the Siege Tower
+1 Dryad Arbor
+1 Dungrove Elder
+1 Everbark Shaman
+1 Faeburrow Elder
+1 Forbidding Watchtower
+8 Forest
+1 Fracturing Gust
+1 Fruit of the First Tree
+1 Gingerbread Cabin
+1 Godless Shrine
+1 Great Oak Guardian
+1 Harsh Mercy
+1 Heartwood Storyteller
+1 Herald's Horn
+1 Ikra Shidiqi, the Usurper
+1 Indatha Triome
+1 Indomitable Ancients
+1 Kalonian Twingrove
+1 Kodama's Reach
+1 Krosan Verge
+1 Leaf-Crowned Elder
+1 Lifecrafter's Bestiary
+1 Lightning Greaves
+1 Lignify
+1 Marsh Flats
+1 Mirari's Wake
+1 Murmuring Bosk
+1 Nature's Lore
+1 Nemata, Grove Guardian
+1 Orchard Warden
+1 Overgrown Tomb
+1 Path of Ancestry
+1 Phyrexian Arena
+1 Plains
+1 Proper Burial
+1 Ready // Willing
+1 Rootgrapple
+1 Sapling of Colfenor
+1 Savannah
+1 Scrubland
+1 Seedguide Ash
+1 Shizo, Death's Storehouse
+1 Silklash Spider
+1 Skeleton Key
+1 Slagwurm Armor
+1 Slaughter the Strong
+1 Song of the Dryads
+1 Spidersilk Armor
+1 Steely Resolve
+1 Swamp
+1 Sylvan Caryatid
+1 Sylvan Library
+1 Temple Garden
+1 Temple of the False God
+1 Tempt with Discovery
+1 Thorntooth Witch
+1 Thran Dynamo
+1 Timber Protector
+1 Tower Defense
+1 Toxic Deluge
+1 Tree of Perdition
+1 Treefolk Harbinger
+1 Ulvenwald Observer
+1 Unstoppable Ash
+1 Urza's Incubator
+1 Vault of the Archangel
+1 Verdant Catacombs
+1 Verdant Sun's Avatar
+1 Verdeloth the Ancient
+1 Volrath's Stronghold
+1 Wave of Reckoning
+1 Wickerbough Elder
+1 Windswept Heath
+1 Woodfall Primus
+1 Yavimaya Hollow
+1 Zendikar Resurgent
+
+Maybeboard
+1 Belligerent Brontodon
+1 Bountiful Promenade
+1 Crib Swap
+1 Dusk // Dawn
+1 Fendeep Summoner
+1 Gravity Well
+1 Hidden Ancients
+1 Huatli, the Sun's Heart
+1 Nurturing Peatland
+1 Nyxbloom Ancient
+1 Old Ghastbark
+1 Reach of Branches
+1 Retribution of the Meek
+1 Sapseep Forest
+1 Silent Clearing
+1 Tuinvale Treefolk // Oaken Boon
+1 Urborg, Tomb of Yawgmoth
+1 Warden of the Woods
+

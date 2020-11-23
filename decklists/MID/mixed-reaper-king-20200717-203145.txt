@@ -1,0 +1,83 @@
+1 Acidic Slime
+1 Animate Dead
+1 Antler Skulkin
+1 Arbor Elf
+1 Arcane Adaptation
+1 Arcane Signet
+1 Avacyn's Pilgrim
+1 Avenger of Zendikar
+1 Bant Panorama
+1 Beast Whisperer
+1 Breeding Pool
+1 Chameleon Colossus
+1 Command Tower
+1 Counterspell
+1 Diabolic Intent
+1 Dockside Extortionist
+1 Dryad of the Ilysian Grove
+1 Eladamri's Call
+1 Eldritch Evolution
+1 Elves of Deep Shadow
+1 Esper Panorama
+1 Evolving Wilds
+1 Exotic Orchard
+1 Farseek
+14 Forest
+1 Grixis Panorama
+1 Guardian Project
+1 Heap Doll
+1 Helm of the Host
+1 Hostage Taker
+1 Hunter's Insight
+1 Idyllic Tutor
+2 Island
+1 Jund Panorama
+1 Kindred Summons
+1 Leyline of Anticipation
+1 Lightning Greaves
+1 Llanowar Elves
+1 Metallic Mimic
+1 Mirror Entity
+1 Mirrormade
+2 Mountain
+1 Nature's Lore
+1 Naya Panorama
+1 Nurturing Peatland
+1 One with the Machine
+1 Overgrown Tomb
+1 Padeem, Consul of Innovation
+1 Phyrexian Metamorph
+2 Plains
+1 Prime Speaker Vannifar
+1 Prowling Serpopard
+1 Rattleblaze Scarecrow
+1 Reaper King
+1 Return of the Wildspeaker
+1 Rhythm of the Wild
+1 Rite of Replication
+1 Scaretiller
+1 Scheming Symmetry
+1 Scuttlemutt
+1 Smothering Tithe
+1 Sol Ring
+1 Soulherder
+1 Spark Double
+1 Stomping Ground
+1 Stunt Double
+2 Swamp
+1 Swiftfoot Boots
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Hierarchy
+1 Talisman of Indulgence
+1 Tatyova, Benthic Druid
+1 Taurean Mauler
+1 Temple Garden
+1 Terramorphic Expanse
+1 Utopia Sprawl
+1 Venomous Changeling
+1 Whirlwind Denial
+1 Wild Growth
+1 Wingrattle Scarecrow
+1 Xenograft
+1 Yavimaya Coast

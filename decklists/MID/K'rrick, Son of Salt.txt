@@ -1,0 +1,82 @@
+1 Banehound
+1 Black Sun's Zenith
+1 Blood Celebrant
+1 Bloodghast
+1 Bolas's Citadel
+1 Cabal Coffers
+1 Castle Locthwain
+1 Cavalier of Night
+1 Child of Night
+1 Crypt Ghast
+1 Crypt of Agadeem
+1 Daggerdrome Imp
+1 Dark Ritual
+1 Darkness
+1 Darksteel Citadel
+1 Dauthi Embrace
+1 Deadly Rollick
+1 Demonlord Belzenlok
+1 Detection Tower
+1 Disciple of Griselbrand
+1 Dread Shade
+1 Endling
+1 Erebos, Bleak-Hearted
+1 Erebos, God of the Dead
+1 Filth
+1 Final Parting
+1 Font of Agonies
+1 Gifted Aetherborn
+1 Glacial Chasm
+1 Go for the Throat
+1 Grafted Exoskeleton
+1 Gray Merchant of Asphodel
+1 Grim Monolith
+1 Grim Tutor
+1 Helldozer
+1 Infernal Reckoning
+1 K'rrik, Son of Yawgmoth
+1 Knight of the Ebon Legion
+1 Kokusho, the Evening Star
+1 Malicious Affliction
+1 Mana Vault
+1 Mastermind's Acquisition
+1 Maze of Shadows
+1 Murder
+1 Myriad Landscape
+1 Necropotence
+1 Nether Traitor
+1 Netherborn Altar
+1 Pestilence Demon
+1 Phage the Untouchable
+1 Phylactery Lich
+1 Phyrexian Obliterator
+1 Phyrexian Reclamation
+1 Phyrexian Tower
+1 Prismatic Vista
+1 Razaketh, the Foulblooded
+1 Rune-Scarred Demon
+1 Sanctum of Eternity
+1 Sheoldred, Whispering One
+1 Slaughter Pact
+1 Snow-Covered Swamp
+1 Snuff Out
+1 Sol Ring
+1 Sorin Markov
+1 Soul Conduit
+1 Sower of Discord
+1 Stronghold Overseer
+1 Sudden Spoiling
+20 Swamp
+1 Temporal Extortion
+1 Torment of Hailfire
+1 Tortured Existence
+1 Toxic Deluge
+1 Umbra Stalker
+1 Urborg, Tomb of Yawgmoth
+1 Vampire of the Dire Moon
+1 Vampiric Link
+1 Vilis, Broker of Blood
+1 Vito, Thorn of the Dusk Rose
+1 Whip of Erebos
+1 Zombie Infestation
+

@@ -1,0 +1,98 @@
+1 Aetherflux Reservoir
+1 Animate Dead
+1 Ankh of Mishra
+1 Bedevil
+1 Blasphemous Act
+1 Blast Zone
+1 Blood Crypt
+1 Blood Moon
+1 Bloodchief Ascension
+1 Bojuka Bog
+1 Bolas's Citadel
+1 Bottomless Pit
+1 Braid of Fire
+1 Burning Inquiry
+1 Cabal Coffers
+1 Canyon Slough
+1 Cathartic Reunion
+1 Chaos Warp
+1 Citadel of Pain
+1 Coldsteel Heart
+1 Command Tower
+1 Damnation
+1 Dance of the Dead
+1 Demonic Tutor
+1 Dragonskull Summit
+1 Everflowing Chalice
+1 Faithless Looting
+1 Fellwar Stone
+1 Final Parting
+1 Foreboding Ruins
+1 Geier Reach Sanitarium
+1 Gilded Lotus
+1 Glacial Chasm
+1 Graven Cairns
+1 Heartstone
+1 Leyline of the Void
+1 Luxury Suite
+1 Mana Geyser
+1 Mana Vault
+1 Manabarbs
+1 Maze of Ith
+9 Mountain
+1 Necropotence
+1 Night's Whisper
+1 Oppression
+1 Painful Quandary
+1 Phyrexian Arena
+1 Price of Glory
+1 Rakdos Charm
+1 Rakdos Signet
+1 Reanimate
+1 Reverberate
+1 Rocky Tar Pit
+1 Rogue's Passage
+1 Scheming Symmetry
+1 Sensei's Divining Top
+1 Shadowblood Ridge
+1 Sign in Blood
+1 Sire of Insanity
+1 Smoldering Marsh
+1 Sol Ring
+1 Star Compass
+1 Stranglehold
+1 Sulfurous Springs
+8 Swamp
+1 Syphon Mind
+1 Tainted Peak
+1 Talisman of Indulgence
+1 Terminate
+1 Thran Dynamo
+1 Throne of the High City
+1 Torment of Hailfire
+1 Tormenting Voice
+1 Toxic Deluge
+1 Urborg, Tomb of Yawgmoth
+1 Victory Chimes
+1 Vilis, Broker of Blood
+1 War's Toll
+1 Waste Not
+1 Wheel of Fortune
+1 Worldgorger Dragon
+1 Worn Powerstone
+1 Xantcha, Sleeper Agent
+1 Yawgmoth's Will
+1 Zo-Zu the Punisher
+
+Maybeboard
+1 Arcane Signet
+1 Fire Covenant
+1 Fires of Invention
+1 Kederekt Parasite
+1 Mana Crypt
+1 Mox Opal
+1 Necromancy
+1 Neheb, the Eternal
+1 Thrill of Possibility
+1 Zurzoth, Chaos Rider
+

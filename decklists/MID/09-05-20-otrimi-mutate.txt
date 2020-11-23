@@ -1,0 +1,89 @@
+1 Alchemist's Refuge
+1 Archipelagore
+1 Assassin's Trophy
+1 Auspicious Starrix
+1 Beast Within
+1 Birds of Paradise
+1 Blooming Marsh
+1 Boneyard Lurker
+1 Botanical Sanctum
+1 Breeding Pool
+1 Brokkos, Apex of Forever
+1 Cavern Whisperer
+1 Chain of Vapor
+1 Chittering Harvester
+1 Cold-Eyed Selkie
+1 Command Beacon
+1 Command Tower
+1 Consecrated Sphinx
+1 Cultivate
+1 Cyclonic Rift
+1 Damnation
+1 Darkslick Shores
+1 Demonic Tutor
+1 Dirge Bat
+1 Dreamtail Heron
+1 Edge of Autumn
+1 Essence Symbiote
+1 Exotic Orchard
+1 Fauna Shaman
+1 Find / Finality
+1 Forbidden Orchard
+10 Forest
+1 Gemrazer
+1 Ghost Quarter
+1 Gilded Goose
+1 Gladecover Scout
+1 Glowstone Recluse
+1 Homeward Path
+1 Ilysian Caryatid
+1 Insatiable Hemophage
+3 Island
+1 Jarad's Orders
+1 Kodama's Reach
+1 Llanowar Wastes
+1 Migratory Greathorn
+1 Mindleecher
+1 Mulldrifter
+1 Mythos of Brokkos
+1 Nature's Lore
+1 Night's Whisper
+1 Opulent Palace
+1 Otrimi, the Ever-Playful
+1 Overgrown Tomb
+1 Painful Truths
+1 Paradise Druid
+1 Parcelbeast
+1 Pollywog Symbiote
+1 Pongify
+1 Pouncing Shoreshark
+1 Rampant Growth
+1 Rapid Hybridization
+1 Recurring Insight
+1 Regrowth
+1 Reliquary Tower
+1 Return from Extinction
+1 Sacred Wolf
+1 Sakura-Tribe Elder
+1 Sawtusk Demolisher
+1 Scavenger Grounds
+1 Sea-Dasher Octopus
+1 Silhana Ledgewalker
+1 Slippery Bogle
+1 Souvenir Snatcher
+3 Swamp
+1 Tectonic Edge
+1 Treasured Find
+1 Troll Ascetic
+1 Trumpeting Gnarr
+1 Underground River
+1 Utopia Tree
+1 Vampiric Tutor
+1 Watery Grave
+1 Winding Canyons
+1 Witchstalker
+1 Worldly Tutor
+1 Yavimaya Coast
+1 Zagoth Triome
+
+

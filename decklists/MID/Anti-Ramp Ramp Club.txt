@@ -1,0 +1,114 @@
+1 Ancient Greenwarden
+1 Arcane Signet
+1 Assassin's Trophy
+1 Azusa, Lost but Seeking
+1 Beast Within
+1 Blood Crypt
+1 Bojuka Bog
+1 Boseiju, Who Shelters All
+1 Cabal Coffers
+1 Carpet of Flowers
+1 Cinder Glade
+1 Command Tower
+1 Constant Mists
+1 Courser of Kruphix
+1 Crop Rotation
+1 Crucible of Worlds
+1 Cultivate
+1 Dakmor Salvage
+1 Dark Depths
+1 Demonic Tutor
+1 Dockside Extortionist
+1 Dread Presence
+1 Dryad of the Ilysian Grove
+1 Elvish Reclaimer
+1 Emergence Zone
+1 Evolution Sage
+1 Exploration
+1 Fabled Passage
+1 Field of the Dead
+8 Forest
+1 Glacial Chasm
+1 Golgari Rot Farm
+1 Grisly Salvage
+1 Harrow
+1 Heroic Intervention
+1 Hour of Promise
+1 Kessig Wolf Run
+1 Kodama of the East Tree
+1 Kodama's Reach
+1 Korvold, Fae-Cursed King
+1 Life from the Loam
+1 Lord Windgrace
+1 Lotus Cobra
+1 Lotus Field
+1 Mana Confluence
+1 Memorial to Folly
+1 Mina and Denn, Wildborn
+2 Mountain
+1 Nature's Claim
+1 Nissa of Shadowed Boughs
+1 Nissa, Vital Force
+1 Nurturing Peatland
+1 Oracle of Mul Daya
+1 Oubliette
+1 Overgrown Tomb
+1 Perpetual Timepiece
+1 Pir's Whim
+1 Prismatic Omen
+1 Prismatic Vista
+1 Radha, Heart of Keld
+1 Ramunap Excavator
+1 Realms Uncharted
+1 Red Elemental Blast
+1 Scapeshift
+1 Skullwinder
+1 Skyshroud Claim
+1 Sol Ring
+1 Spire Garden
+1 Splendid Reclamation
+1 Squandered Resources
+1 Stomping Ground
+2 Swamp
+1 Sylvan Library
+1 Sylvan Safekeeper
+1 Thaumatic Compass // Spires of Orazca
+1 The Gitrog Monster
+1 The Mending of Dominaria
+1 Thespian's Stage
+1 Three Visits
+1 Titania, Protector of Argoth
+1 Undergrowth Stadium
+1 Underrealm Lich
+1 Urborg, Tomb of Yawgmoth
+1 Valakut Exploration
+1 Valakut, the Molten Pinnacle
+1 Vandalblast
+1 Veil of Summer
+1 Wasteland
+1 Wave of Vitriol
+1 Windgrace's Judgment
+1 Wooded Foothills
+
+Bench
+1 Borborygmos Enraged
+1 Deathsprout
+1 Eat to Extinction
+1 Golgari Grave-Troll
+1 Mesmeric Orb
+1 Multani, Yavimaya's Avatar
+1 Omnath, Locus of Rage
+1 Petrified Field
+1 Phyrexian Tower
+1 Roiling Regrowth
+1 Ruination
+1 Seismic Assault
+1 Tempt with Discovery
+1 Torment of Hailfire
+1 Turntimber Sower
+1 Ulvenwald Hydra
+1 Wayward Swordtooth
+1 Wildfire
+1 World Shaper
+1 Wrenn and Six
+

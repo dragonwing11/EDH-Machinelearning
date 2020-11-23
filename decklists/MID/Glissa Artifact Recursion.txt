@@ -1,0 +1,82 @@
+1 Aetherflux Reservoir
+1 Ancient Stone Idol
+1 Ash Barrens
+1 Assassin's Trophy
+1 Barter in Blood
+1 Bonehoard
+1 Buried Ruin
+1 Castle Garenbrig
+1 Clock of Omens
+1 Command Tower
+1 Commander's Sphere
+1 Crux of Fate
+1 Darksteel Citadel
+1 Darksteel Juggernaut
+1 Deathbringer Regent
+1 Deathreap Ritual
+1 Deathsprout
+1 Duplicant
+1 Evolving Wilds
+1 Executioner's Capsule
+1 Fabled Passage
+1 Finale of Eternity
+9 Forest
+1 Foundry Inspector
+1 Foundry of the Consuls
+1 Glissa, the Traitor
+1 Glowspore Shaman
+1 Golem Foundry
+1 Golgari Findbroker
+1 Golgari Thug
+1 Grim Backwoods
+1 Hangarback Walker
+1 Hedron Archive
+1 Jhoira's Familiar
+1 Jund Panorama
+1 Kessig Cagebreakers
+1 Lotus Petal
+1 Marionette Master
+1 Mind Stone
+1 Mirrorworks
+1 Moonlight Bargain
+1 Myr Retriever
+1 Mystic Forge
+1 Oblivion Stone
+1 Overseer of the Damned
+1 Phyrexian Scriptures
+1 Plague Boiler
+1 Putrefy
+1 Rampant Growth
+1 Read the Bones
+1 Reassembling Skeleton
+1 Reliquary Tower
+1 Sakura-Tribe Elder
+1 Salvager of Ruin
+1 Semblance Anvil
+12 Snow-Covered Swamp
+1 Sol Ring
+1 Solemn Simulacrum
+1 Soul of New Phyrexia
+1 Soul-Guide Lantern
+1 Steel Hellkite
+1 Sylvok Replica
+1 Tainted Wood
+1 Temple of Malady
+1 Terramorphic Expanse
+1 The Eldest Reborn
+1 The Gitrog Monster
+1 The Great Henge
+1 Tranquility
+1 Ugin, the Ineffable
+1 Underrealm Lich
+1 Unravel the Aether
+1 Unwinding Clock
+1 Urza's Bauble
+1 Verdant Force
+1 Vial of Poison
+1 Vivid Grove
+1 Vona's Hunger
+1 Vulturous Zombie
+1 Wayfarer's Bauble
+1 Whispersilk Cloak
+

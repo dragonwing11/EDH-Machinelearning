@@ -1,0 +1,108 @@
+1 Abrupt Decay
+1 Ad Nauseam
+1 Arbor Elf
+1 Arid Mesa
+1 Ashiok, Dream Render
+1 Assassin's Trophy
+1 Autumn's Veil
+1 Badlands
+1 Bayou
+1 Birds of Paradise
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bloom Tender
+1 Brainstorm
+1 Breeding Pool
+1 Buried Alive
+1 Carpet of Flowers
+1 Chain of Vapor
+1 Chrome Mox
+1 Command Tower
+1 Copy Artifact
+1 Curiosity
+1 Cyclonic Rift
+1 Dark Confidant
+1 Deathrite Shaman
+1 Deceiver Exarch
+1 Demonic Tutor
+1 Diabolic Intent
+1 Dramatic Reversal
+1 Eldritch Evolution
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Exotic Orchard
+1 Fire Covenant
+1 Flooded Strand
+1 Flusterstorm
+1 Forbidden Orchard
+1 Force of Will
+2 Forest
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Imperial Recruiter
+1 Impulse
+3 Island
+1 Isochron Scepter
+1 Kiki-Jiki, Mirror Breaker
+1 Leyline of the Void
+1 Llanowar Elves
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Marsh Flats
+1 Mental Misstep
+1 Misty Rainforest
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mystical Tutor
+1 Narset's Reversal
+1 Nature's Claim
+1 Necromancy
+1 Neoform
+1 Noxious Revival
+1 Overgrown Tomb
+1 Pact of Negation
+1 Pestermite
+1 Phyrexian Delver
+1 Polluted Delta
+1 Ponder
+1 Praetor's Grasp
+1 Preordain
+1 Pyroblast
+1 Reality Shift
+1 Reanimate
+1 Reclamation Sage
+1 Scalding Tarn
+1 Sensei's Divining Top
+1 Sol Ring
+1 Stomping Ground
+1 Swamp
+1 Swan Song
+1 Sylvan Library
+1 Taiga
+1 Thrasios, Triton Hero
+1 Toxic Deluge
+1 Tropical Island
+1 Underground Sea
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Vial Smasher the Fierce
+1 Volcanic Island
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Worldly Tutor
+1 Zealous Conscripts
+
+Sideboard:
+1 Animate Dead
+1 Bolas's Citadel
+1 Cursed Totem
+1 Glen Elendra Archmage
+1 Karn, the Great Creator
+1 Null Rod
+1 Riftsweeper
+1 Sneak Attack
+

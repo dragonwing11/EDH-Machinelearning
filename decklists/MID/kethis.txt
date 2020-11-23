@@ -1,0 +1,86 @@
+1 Akroma, Angel of Wrath
+1 Altar of Dementia
+1 Anafenza, Kin-Tree Spirit
+1 Arasta of the Endless Web
+1 Arcane Signet
+1 Arvad the Cursed
+1 Blackblade Reforged
+1 Bojuka Bog
+1 Captain Sisay
+1 City of Brass
+1 Command Tower
+1 Deathrite Shaman
+1 Demonic Tutor
+1 Dragonlord Dromoka
+1 Eight-and-a-Half-Tails
+1 Entomb
+1 Eternal Witness
+1 Evolving Wilds
+1 Exotic Orchard
+1 Flawless Maneuver
+8 Forest
+1 Gideon Jura
+1 Hashep Oasis
+1 Heliod, God of the Sun
+1 Heroes' Podium
+1 Hogaak, Arisen Necropolis
+1 Hope of Ghirapur
+1 Kamahl's Druidic Vow
+1 Kambal, Consul of Allocation
+1 Karametra, God of Harvests
+1 Kethis, the Hidden Hand
+1 Knight of the White Orchid
+1 Land Tax
+1 Life from the Loam
+1 Liliana, Death's Majesty
+1 Mangara of Corondor
+1 Mikaeus, the Unhallowed
+1 Mox Amber
+1 Mox Opal
+1 Nature's Claim
+1 Nylea, God of the Hunt
+1 Odric, Master Tactician
+1 Oketra the True
+1 Okina, Temple to the Grandfathers
+1 Orzhov Signet
+1 Path to Exile
+1 Pendelhaven
+1 Pharika, God of Affliction
+6 Plains
+1 Planar Bridge
+1 Polukranos, World Eater
+1 Razorverge Thicket
+1 Reki, the History of Kamigawa
+1 Sakura-Tribe Elder
+1 Satyr Wayfinder
+1 Scattered Groves
+1 Shadowspear
+1 Shizo, Death's Storehouse
+1 Smothering Tithe
+4 Snow-Covered Swamp
+1 Sol Ring
+1 Star Compass
+1 Stirring Wildwood
+1 Swords to Plowshares
+1 Syr Alin, the Lion's Claw
+1 Talisman of Hierarchy
+1 Temple of Plenty
+1 Thalia, Heretic Cathar
+1 The Cauldron of Eternity
+1 The Gitrog Monster
+1 Tomb of Urami
+1 Triskelion
+1 Trynn, Champion of Freedom
+1 Umezawa's Jitte
+1 Untaidake, the Cloud Keeper
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Ruinous Blast
+1 Vivid Grove
+1 Vivien, Arkbow Ranger
+1 Vivien, Champion of the Wilds
+1 Vraska, Relic Seeker
+1 Whisper, Blood Liturgist
+1 Winding Way
+1 Windswept Heath
+1 Wrath of God
+

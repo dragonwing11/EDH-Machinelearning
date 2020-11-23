@@ -1,0 +1,90 @@
+1 Arcane Signet
+1 Assault Strobe
+1 Aurelia, the Warleader
+1 Aven Mindcensor
+1 Battlefield Forge
+1 Boil
+1 Boros Charm
+1 Boros Garrison
+1 Boros Signet
+1 Brute Force
+1 Burnished Hart
+1 Burnout
+1 Cleansing Nova
+1 Clifftop Retreat
+1 Cloudshift
+1 Command Tower
+1 Commander's Sphere
+1 Crimson Wisps
+1 Darksteel Ingot
+1 Darksteel Mutation
+1 Defiant Strike
+1 Dualcaster Mage
+1 Duergar Hedge-Mage
+1 Eerie Interlude
+1 Evolving Wilds
+1 Exotic Orchard
+1 Expedite
+1 Faithless Looting
+1 Feather, the Redeemed
+1 Fellwar Stone
+1 Fists of Flame
+1 Flagstones of Trokair
+1 Flood Plain
+1 Forgotten Cave
+1 Gamble
+1 Generous Gift
+1 Ghost Quarter
+1 Goblin Matron
+1 Grasslands
+1 Guided Strike
+1 Insult // Injury
+1 Invigorated Rampage
+1 Lapse of Certainty
+1 Launch the Fleet
+1 Mana Geode
+1 Mangara, the Diplomat
+1 Mistveil Plains
+1 Molten Influence
+8 Mountain
+1 Mountain Valley
+1 Oblation
+1 Opal Palace
+1 Open the Armory
+1 Path to Exile
+5 Plains
+1 Psychotic Fury
+1 Pyroblast
+1 Reckless Charge
+1 Reconnaissance
+1 Red Elemental Blast
+1 Renegade Tactics
+1 Rile
+1 Rocky Tar Pit
+1 Rogue's Passage
+1 Rugged Prairie
+1 Sacred Foundry
+1 Samut's Sprint
+1 Secluded Steppe
+1 Sentinel Tower
+1 Sheltering Light
+1 Smothering Tithe
+1 Sol Ring
+1 Solemn Simulacrum
+1 Star Compass
+1 Steelshaper's Gift
+1 Sun Titan
+1 Sunforger
+1 Swift Justice
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Talisman of Conviction
+1 Temple of Triumph
+1 Temur Battle Rage
+1 Terramorphic Expanse
+1 Titan's Strength
+1 Treasonous Ogre
+1 Twinflame
+1 Wall of Omens
+1 Zada, Hedron Grinder
+

@@ -1,0 +1,87 @@
+1 Academy Ruins
+1 Ancient Tomb
+1 Back to Basics
+1 Basalt Monolith
+1 Blast Zone
+1 Brainstorm
+1 Buried Ruin
+1 Chain of Vapor
+1 Chrome Mox
+1 Codex Shredder
+1 Counterspell
+1 Cyclonic Rift
+1 Dispel
+1 Dramatic Reversal
+1 Emergence Zone
+1 Empowered Autogenerator
+1 Expedition Map
+1 Fabricate
+1 Flood of Recollection
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gitaxian Probe
+1 Grafdigger's Cage
+1 Grim Monolith
+1 Into the Roil
+1 Inventors' Fair
+16 Island
+1 Isochron Scepter
+1 Jace, Wielder of Mysteries
+1 Laboratory Maniac
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Manifold Key
+1 Mental Misstep
+1 Merchant Scroll
+1 Mirrormade
+1 Mishra's Bauble
+1 Misty Rainforest
+1 Mox Diamond
+1 Mox Opal
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Mystical Tutor
+1 Narset's Reversal
+1 Narset, Parter of Veils
+1 Negate
+1 Opt
+1 Pact of Negation
+1 Pithing Needle
+1 Polluted Delta
+1 Ponder
+1 Pongify
+1 Power Artifact
+1 Preordain
+1 Prismatic Vista
+1 Rapid Hybridization
+1 Reality Shift
+1 Rings of Brighthearth
+1 Scalding Tarn
+1 Seat of the Synod
+1 Sensei's Divining Top
+1 Shimmer Myr
+1 Sol Ring
+1 Sorcerous Spyglass
+1 Soul-Guide Lantern
+1 Static Orb
+1 Stifle
+1 Swan Song
+1 Tale's End
+1 Thassa's Oracle
+1 Tormod's Crypt
+1 Transmute Artifact
+1 Trickbind
+1 Urza, Lord High Artificer
+1 Walking Ballista
+1 Whir of Invention
+1 Whirlwind Denial
+1 Winds of Rebuke
+1 Winter Orb
+1 Witching Well
+
+

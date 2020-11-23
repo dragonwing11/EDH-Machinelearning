@@ -1,0 +1,86 @@
+1 Aetherflux Reservoir
+1 Alela, Artful Provocateur
+1 Alhammarret's Archive
+1 Anguished Unmaking
+1 Arcane Sanctum
+1 Arcane Signet
+1 Aura of Silence
+1 Authority of the Consuls
+1 Azorius Signet
+1 Beacon of Immortality
+1 Blind Obedience
+1 Blood Artist
+1 Bolas's Citadel
+1 Brainstorm
+1 Chromatic Lantern
+1 Command Tower
+1 Copy Enchantment
+1 Counterspell
+1 Countersquall
+1 Crawlspace
+1 Cyclonic Rift
+1 Demonic Tutor
+1 Dimir Signet
+1 Dovin's Veto
+1 Drowned Catacomb
+1 Enlightened Tutor
+1 Estrid's Invocation
+1 Evolving Wilds
+1 Exotic Orchard
+1 Exquisite Blood
+1 Exsanguinate
+1 Fabled Passage
+1 Fabricate
+1 Field of the Dead
+1 Fumigate
+1 Ghostly Prison
+1 Glacial Fortress
+1 Godless Shrine
+1 Grasp of Fate
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Heliod, Sun-Crowned
+1 Idyllic Tutor
+2 Island
+1 Isolated Chapel
+1 Kambal, Consul of Allocation
+1 Karmic Justice
+1 Luminarch Ascension
+1 Mana Vault
+1 Merciless Eviction
+1 Mirrormade
+1 Mortify
+1 Necropotence
+1 Negate
+1 No Mercy
+1 Oloro, Ageless Ascetic
+1 Orzhov Signet
+1 Overburden
+1 Path to Exile
+1 Phyrexian Arena
+5 Plains
+1 Propaganda
+1 Rest in Peace
+1 Rhystic Study
+1 Sanguine Bond
+1 Smothering Tithe
+2 Snow-Covered Island
+5 Snow-Covered Plains
+3 Snow-Covered Swamp
+1 Sol Ring
+1 Soul Warden
+1 Sphere of Safety
+1 Supreme Verdict
+3 Swamp
+1 Swan Song
+1 Swords to Plowshares
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Terramorphic Expanse
+1 Utter End
+1 Vito, Thorn of the Dusk Rose
+1 Walking Ballista
+1 Watery Grave
+1 Well of Lost Dreams
+1 Zur the Enchanter

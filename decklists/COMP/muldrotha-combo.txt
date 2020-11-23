@@ -1,0 +1,102 @@
+1 Abrupt Decay
+1 Ad Nauseam
+1 Ancient Tomb
+1 Animate Dead
+1 Arbor Elf
+1 Bayou
+1 Bazaar of Baghdad
+1 Birds of Paradise
+1 Blood Artist
+1 Bloodstained Mire
+1 Blooming Marsh
+1 Boreal Druid
+1 Brainstorm
+1 Breeding Pool
+1 Buried Alive
+1 Carpet of Flowers
+1 Cephalid Coliseum
+1 Chain of Vapor
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Cyclonic Rift
+1 Dance of the Dead
+1 Dark Ritual
+1 Deathrite Shaman
+1 Deep Analysis
+1 Demonic Tutor
+1 Dispel
+1 Dread Return
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Entomb
+1 Exotic Orchard
+1 Fellwar Stone
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Will
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Hapless Researcher
+1 Hermit Druid
+1 Imperial Seal
+1 Intuition
+1 Laboratory Maniac
+1 Life / Death
+1 Lim-Dul's Vault
+1 Lion's Eye Diamond
+1 Llanowar Elves
+1 Llanowar Wastes
+1 Lotus Petal
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Vault
+1 Marsh Flats
+1 Memory's Journey
+1 Mental Misstep
+1 Misty Rainforest
+1 Mox Diamond
+1 Muldrotha, the Gravetide
+1 Mystic Remora
+1 Mystical Tutor
+1 Narcomoeba
+1 Nature's Claim
+1 Necromancy
+1 Notion Thief
+1 Noxious Revival
+1 Overgrown Tomb
+1 Pact of Negation
+1 Phantasmal Image
+1 Phyrexian Delver
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Priest of Titania
+1 Razaketh, the Foulblooded
+1 Reality Shift
+1 Reanimate
+1 Regrowth
+1 Scalding Tarn
+1 Snapcaster Mage
+1 Sol Ring
+1 Survival of the Fittest
+1 Swan Song
+1 Sylvan Library
+1 Talisman of Dominance
+1 Tarnished Citadel
+1 Toxic Deluge
+1 Tropical Island
+1 Underground River
+1 Underground Sea
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Walking Ballista
+1 Watery Grave
+1 Windfall
+1 Windswept Heath
+1 Wooded Foothills
+1 Worldly Tutor
+1 Yavimaya Coast
+
+

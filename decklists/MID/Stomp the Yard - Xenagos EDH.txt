@@ -1,0 +1,101 @@
+1 Ancient Tomb
+1 Arbor Elf
+1 Atarka, World Render
+1 Balefire Dragon
+1 Bane of Progress
+1 Beast Within
+1 Berserk
+1 Birds of Paradise
+1 Blasphemous Act
+1 Blossoming Defense
+1 Bonders' Enclave
+1 Castle Garenbrig
+1 Chandra's Ignition
+1 Cinder Glade
+1 Command Tower
+1 Cultivate
+1 Deflecting Swat
+1 Elder Gargaroth
+1 Elvish Mystic
+1 Embercleave
+1 Etali, Primal Storm
+1 Farseek
+1 Fire-Lit Thicket
+1 Fling
+1 Force of Vigor
+13 Forest
+1 Game Trail
+1 Ghalta, Primal Hunger
+1 God-Eternal Rhonas
+1 Godo, Bandit Warlord
+1 Goreclaw, Terror of Qal Sisma
+1 Greater Good
+1 Grove of the Burnwillows
+1 Heroic Intervention
+1 Hunter's Insight
+1 Ilharg, the Raze-Boar
+1 Joraga Treespeaker
+1 Kessig Wolf Run
+1 Kodama's Reach
+1 Kogla, the Titan Ape
+1 Life's Legacy
+1 Llanowar Elves
+1 Malignus
+1 Momentous Fall
+1 Moraug, Fury of Akoum
+1 Mosswort Bridge
+6 Mountain
+1 Natural Order
+1 Nature's Claim
+1 Nature's Lore
+1 Nykthos, Shrine to Nyx
+1 Pathbreaker Ibex
+1 Quartzwood Crasher
+1 Ram Through
+1 Reliquary Tower
+1 Rhonas the Indomitable
+1 Rishkar's Expertise
+1 Rootbound Crag
+1 Sakura-Tribe Elder
+1 Savage Ventmaw
+1 Scourge of the Throne
+1 Seize the Day
+1 Selvala's Stampede
+1 Selvala, Heart of the Wilds
+1 Sneak Attack
+1 Sol Ring
+1 Somberwald Sage
+1 Spire Garden
+1 Stomping Ground
+1 Survival of the Fittest
+1 Sylvan Library
+1 Terror of the Peaks
+1 The Great Henge
+1 Thud
+1 Traverse the Outlands
+1 Vandalblast
+1 Veil of Summer
+1 Vines of Vastwood
+1 Wild Growth
+1 Wooded Foothills
+1 Worldspine Wurm
+1 Xenagos, God of Revels
+1 Yavimaya Hollow
+
+Maybeboard
+1 Apex Altisaur
+1 Bolt Bend
+1 Carnage Tyrant
+1 Defense of the Heart
+1 Garruk's Uprising
+1 Kalonian Hydra
+1 Kenrith's Transformation
+1 Lure
+1 Neheb, Dreadhorde Champion
+1 Neheb, the Eternal
+1 Relentless Assault
+1 Setessan Tactics
+1 Siege Behemoth
+1 Thorn Mammoth
+1 Unleash Fury
+

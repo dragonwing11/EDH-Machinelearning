@@ -1,0 +1,97 @@
+1 Acidic Slime
+1 Ancestral Statue
+1 Ancient Ziggurat
+1 Animar, Soul of Elements
+1 Artisan of Kozilek
+1 Beast Whisperer
+1 Beastcaller Savant
+1 Birds of Paradise
+1 Bloom Tender
+1 Breaker of Armies
+1 Breeding Pool
+1 Cascade Bluffs
+1 Chromatic Lantern
+1 Cloudstone Curio
+1 Command Tower
+1 Conduit of Ruin
+1 Consecrated Sphinx
+1 Cultivate
+1 Decimator of the Provinces
+1 Deepglow Skate
+1 Dosan the Falling Leaf
+1 Duplicant
+1 Elvish Mystic
+1 Elvish Visionary
+1 Etali, Primal Storm
+1 Exploration
+1 Explosive Vegetation
+1 Fierce Empath
+1 Fiery Islet
+4 Forest
+1 Frontier Bivouac
+1 Gaea's Cradle
+1 Glen Elendra Archmage
+1 Goreclaw, Terror of Qal Sisma
+1 Grove of the Burnwillows
+1 Growing Rites of Itlimoc
+1 Guardian Project
+1 Hinterland Harbor
+3 Island
+1 It That Betrays
+1 Kodama's Reach
+1 Kozilek, Butcher of Truth
+1 Krosan Grip
+1 Llanowar Elves
+1 Lotus Cobra
+1 Maelstrom Wanderer
+1 Misty Rainforest
+1 Mockery of Nature
+1 Momir Vig, Simic Visionary
+1 Mountain
+1 Opal Palace
+1 Palinchron
+1 Pathrazer of Ulamog
+1 Phyrexian Metamorph
+1 Pir, Imaginative Rascal
+1 Primordial Sage
+1 Prismatic Vista
+1 Prowling Serpopard
+1 Purphoros, God of the Forge
+1 Rashmi, Eternities Crafter
+1 Reflecting Pool
+1 Rootbound Crag
+1 Scalding Tarn
+1 Selvala, Heart of the Wilds
+1 Shaman of Forgotten Ways
+1 Shivan Reef
+1 Shrieking Drake
+1 Solemn Simulacrum
+1 Somberwald Sage
+1 Soul of the Harvest
+1 Spark Double
+1 Spirebluff Canal
+1 Steam Vents
+1 Stomping Ground
+1 Sulfur Falls
+1 Surrak Dragonclaw
+1 Swan Song
+1 Swiftfoot Boots
+1 Taiga
+1 Temur Ascendancy
+1 Thran Quarry
+1 Toothy, Imaginary Friend
+1 Tropical Island
+1 Ulamog's Crusher
+1 Ulamog, the Ceaseless Hunger
+1 Ulamog, the Infinite Gyre
+1 Urabrask the Hidden
+1 Vizier of the Menagerie
+1 Void Winnower
+1 Volcanic Island
+1 Vorinclex, Voice of Hunger
+1 Waterlogged Grove
+1 Wooded Foothills
+1 World Breaker
+1 Wurmcoil Engine
+
+

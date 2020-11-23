@@ -1,0 +1,102 @@
+1 Abrupt Decay
+1 Adarkar Wastes
+1 Animate Dead
+1 Aqueous Form
+1 Arid Mesa
+1 Assassin's Trophy
+1 Austere Command
+1 Avacyn's Pilgrim
+1 Baleful Strix
+1 Bayou
+1 Birds of Paradise
+1 Bloodstained Mire
+1 Brainstorm
+1 Breeding Pool
+1 Command Tower
+1 Consecrated Sphinx
+1 Counterspell
+1 Cyclonic Rift
+1 Delay
+1 Demonic Tutor
+1 Derevi, Empyrial Tactician
+1 Dovin's Veto
+1 Dream Eater
+1 Dream Trawler
+1 Elesh Norn, Grand Cenobite
+1 Elvish Mystic
+1 Enlightened Tutor
+1 Eternal Witness
+1 Expropriate
+1 Fact or Fiction
+1 Farseek
+1 Flooded Grove
+1 Flooded Strand
+1 Force of Will
+1 Forest
+1 Gilded Drake
+1 Glacial Fortress
+1 Godless Shrine
+1 Hallowed Fountain
+1 Hinterland Harbor
+1 Into the North
+1 Island
+1 Jace, the Mind Sculptor
+1 Kozilek, Butcher of Truth
+1 Kydele, Chosen of Kruphix
+1 Llanowar Elves
+1 Loyal Drake
+1 Mana Confluence
+1 Mana Drain
+1 Marsh Flats
+1 Misty Rainforest
+1 Morphic Pool
+1 Muldrotha, the Gravetide
+1 Mystic Gate
+1 Mystic Remora
+1 Mystical Tutor
+1 Nature's Claim
+1 Nature's Lore
+1 Oko, Thief of Crowns
+1 Overgrown Tomb
+1 Path to Exile
+1 Plaguecrafter
+1 Plains
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Rhystic Study
+1 Sakashima the Impostor
+1 Sakura-Tribe Elder
+1 Savannah
+1 Scalding Tarn
+1 Scrubland
+1 Sea of Clouds
+1 Sol Ring
+1 Spellseeker
+1 Sultai Charm
+1 Sun Titan
+1 Supreme Verdict
+1 Swamp
+1 Swords to Plowshares
+1 Tamiyo, Field Researcher
+1 Teferi, Hero of Dominaria
+1 Teferi, Master of Time
+1 Teferi, Time Raveler
+1 Temple Garden
+1 Temporal Manipulation
+1 Time Warp
+1 Tropical Island
+1 Tundra
+1 Tymna the Weaver
+1 Ulamog, the Ceaseless Hunger
+1 Underground River
+1 Underground Sea
+1 Uro, Titan of Nature's Wrath
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya Coast
+1 Zur the Enchanter
+

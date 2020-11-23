@@ -1,0 +1,85 @@
+1 Agitator Ant
+1 Altar's Reap
+1 Anya, Merciless Angel
+1 Archon of Justice
+1 Ash Barrens
+1 Ashen Rider
+1 Athreos, God of Passage
+1 Azra Oddsmaker
+1 Badlands
+1 Benevolent Offering
+1 Blood Crypt
+1 Bloodthirsty Blade
+1 Boros Garrison
+1 Boros Reckoner
+1 Boros Signet
+1 Brutal Hordechief
+1 Captivating Crew
+1 Caves of Koilos
+1 Cleansing
+1 Command Tower
+1 Crackling Doom
+1 Dawnbreak Reclaimer
+1 Diabolic Intent
+1 Disrupt Decorum
+1 Dockside Extortionist
+1 Dragonskull Summit
+1 Duelist's Heritage
+1 Emeria Shepherd
+1 Exotic Orchard
+1 Faithless Looting
+1 Fellwar Stone
+1 Ghostly Prison
+1 Gift of Estates
+1 Gisela, Blade of Goldnight
+1 Goblin Spymaster
+1 Grave Upheaval
+1 Havoc Festival
+1 Helm of Possession
+1 Infernal Offering
+1 Kambal, Consul of Allocation
+1 Key to the City
+1 Killing Wave
+1 Magus of the Wheel
+1 Martial Coup
+1 Merciless Eviction
+2 Mountain
+1 Night's Whisper
+1 No Mercy
+1 Ophiomancer
+1 Orzhov Advokist
+1 Orzhov Basilica
+1 Orzhov Signet
+7 Plains
+1 Plateau
+1 Queen Marchesa
+1 Rakdos Carnarium
+1 Rakdos Charm
+1 Rakdos Signet
+1 Reflecting Pool
+1 Ritual of the Machine
+1 Sacred Foundry
+1 Scrubland
+1 Season of the Witch
+1 Selfless Squire
+1 Sengir Autocrat
+1 Smoldering Marsh
+1 Sower of Discord
+1 Spitemare
+1 Spontaneous Combustion
+1 Sun Titan
+9 Swamp
+1 Tainted Field
+1 Temple of Malice
+1 Temple of Silence
+1 Temple of the False God
+1 Temple of Triumph
+1 Thrill of Possibility
+1 Tormenting Voice
+1 Vial Smasher the Fierce
+1 Volcanic Offering
+1 Wake the Dead
+1 Wall of Omens
+1 Wall of Souls
+1 Windborn Muse
+1 Xantcha, Sleeper Agent

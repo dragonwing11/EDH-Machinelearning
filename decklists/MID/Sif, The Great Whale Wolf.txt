@@ -1,0 +1,93 @@
+1 Aetherize
+1 Arbor Elf
+1 Arcane Signet
+1 Asceticism
+1 Beast Within
+1 Birds of Paradise
+1 Blackblade Reforged
+1 Bojuka Bog
+1 Branching Evolution
+1 Breeding Pool
+1 Castle Vantress
+1 Cazur, Ruthless Stalker
+1 Choked Estuary
+1 Cold-Eyed Selkie
+1 Command Tower
+1 Corpsejack Menace
+1 Counterspell
+1 Cryptic Command
+1 Cultivate
+1 Cyclonic Rift
+1 Dark Petition
+1 Deadeye Navigator
+1 Disallow
+1 Displace
+1 Dowsing Dagger // Lost Vale
+1 Drana, Liberator of Malakir
+1 Drowned Catacomb
+1 Eternal Witness
+1 Evolution Sage
+1 Exotic Orchard
+1 Exploration
+1 Ezuri, Claw of Progress
+1 Fallen Shinobi
+1 Farseek
+1 Fathom Mage
+1 Fertilid
+1 Field of Ruin
+1 Fierce Guardianship
+1 Flooded Grove
+6 Forest
+1 Ghostly Flicker
+1 Gyre Sage
+1 Hadana's Climb // Winged Temple of Orazca
+1 Hardened Scales
+1 Hero's Blade
+1 Heroic Intervention
+1 In Garruk's Wake
+5 Island
+1 Karn's Bastion
+1 Krosan Grip
+1 Master Biomancer
+1 Mosswort Bridge
+1 Murderous Rider // Swift End
+1 Naru Meha, Master Wizard
+1 Nissa, Voice of Zendikar
+1 Notion Thief
+1 Opulent Palace
+1 Overgrown Tomb
+1 Pir, Imaginative Rascal
+1 Polluted Delta
+1 Prismatic Omen
+1 Rampant Growth
+1 Ravenous Chupacabra
+1 Reconnaissance Mission
+1 Reliquary Tower
+1 Return of the Wildspeaker
+1 Rishkar's Expertise
+1 Rogue's Passage
+1 Scavenging Ooze
+1 Seasons Past
+1 Seedborn Muse
+1 Skyshroud Claim
+1 Sol Ring
+1 Springbloom Druid
+3 Swamp
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of the Animist
+1 Thassa, Deep-Dwelling
+1 The Ozolith
+1 Toothy, Imaginary Friend
+1 Trygon Predator
+1 Twilight Mire
+1 Ukkima, Stalking Shadow
+1 Veil of Summer
+1 Watery Grave
+1 Woodland Cemetery
+1 Yavimaya Coast
+1 Zagoth Triome
+
+Maybeboard
+1 Inspiring Call
+

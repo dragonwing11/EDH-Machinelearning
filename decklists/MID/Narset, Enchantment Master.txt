@@ -1,0 +1,96 @@
+1 Aether Tunnel
+1 All That Glitters
+1 Approach of the Second Sun
+1 Arcane Denial
+1 Aura of Silence
+1 Auramancer's Guise
+1 Azorius Chancery
+1 Azorius Signet
+1 Bant Panorama
+1 Battle Mastery
+1 Battlefield Forge
+1 Beacon of Tomorrows
+1 Blind Obedience
+1 Boros Garrison
+1 Clifftop Retreat
+1 Command Tower
+1 Commander's Sphere
+1 Corrupted Conscience
+1 Counterspell
+1 Curse of Exhaustion
+1 Dictate of Kruphix
+1 Dispel
+1 Dissolve
+1 Dolmen Gate
+1 Double Vision
+1 Eldrazi Conscription
+1 Esper Panorama
+1 Exotic Orchard
+1 Flickerform
+1 Flood Plain
+1 Fractured Identity
+1 Ghostly Prison
+1 Glacial Fortress
+1 Grand Arbiter Augustin IV
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Helm of the Host
+1 Holy Mantle
+1 Hope Against Hope
+1 Irrigated Farmland
+4 Island
+1 Izzet Boilerworks
+1 Izzet Signet
+1 Karmic Justice
+1 Karn's Temporal Sundering
+1 Kasmina, Enigmatic Mentor
+1 Leyline of Anticipation
+1 Leyline of Combustion
+1 Leyline of Sanctity
+1 Long-Term Plans
+1 Monastery Siege
+3 Mountain
+1 Myriad Landscape
+1 Narset Transcendent
+1 Narset of the Ancient Way
+1 Narset, Enlightened Master
+1 Naya Panorama
+1 Negate
+1 Nimbus Maze
+1 Opt
+1 Pacifism
+1 Pearl Medallion
+4 Plains
+1 Port Town
+1 Prairie Stream
+1 Propaganda
+1 Relentless Assault
+1 Rhystic Study
+1 Righteous Authority
+1 Ruby Medallion
+1 Sacred Foundry
+1 Sapphire Medallion
+1 Seize the Day
+1 Shivan Reef
+1 Sigil of the Empty Throne
+1 Smothering Tithe
+1 Sol Ring
+1 Sphere of Safety
+1 Sphinx's Tutelage
+1 Steam Vents
+1 Steel of the Godhead
+1 Storm Herd
+1 Sulfur Falls
+1 Teferi's Ageless Insight
+1 Teferi, Time Raveler
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Temporal Mastery
+1 Thassa's Rebuff
+1 The Wanderer
+1 Time Warp
+1 World at War
+
+Maybeboard
+1 Sigarda's Aid
+

@@ -1,0 +1,93 @@
+1 Absorb
+1 Academy Ruins
+1 All Is Dust
+1 Ancient Den
+1 Azorius Signet
+1 Beacon of Unrest
+1 Bident of Thassa
+1 Bomat Bazaar Barge
+1 Choked Estuary
+1 Chromatic Lantern
+1 Coldsteel Heart
+1 Command Tower
+1 Conqueror's Galleon // Conqueror's Foothold
+1 Counterspell
+1 Countersquall
+1 Courier's Capsule
+1 Cultivator's Caravan
+1 Darksteel Citadel
+1 Darksteel Forge
+1 Darkwater Catacombs
+1 Dawn of Hope
+1 Decree of Pain
+1 Delay
+1 Demonic Tutor
+1 Devious Cover-Up
+1 Dimir Signet
+1 Drowned Catacomb
+1 Elixir of Immortality
+1 Elspeth, Knight-Errant
+1 Fabricate
+1 Guardian Idol
+1 Hallowed Fountain
+1 Heliod's Intervention
+1 Inventors' Fair
+5 Island
+1 Kaya's Wrath
+1 Merciless Eviction
+1 Mind Stone
+1 Mind's Eye
+1 Mobilized District
+1 Mystic Forge
+1 Negate
+1 Orzhov Signet
+1 Parhelion II
+1 Path to Exile
+1 Peacewalker Colossus
+1 Phyrexian Scriptures
+5 Plains
+1 Prairie Stream
+1 Pull from Tomorrow
+1 Reliquary Tower
+1 Render Silent
+1 Reverse Engineer
+1 River of Tears
+1 Scourglass
+1 Seachrome Coast
+1 Search for Azcanta // Azcanta, the Sunken Ruin
+1 Seat of the Synod
+1 Shadowspear
+1 Shatter the Sky
+1 Shrine of the Forsaken Gods
+1 Silent Submersible
+1 Skysovereign, Consul Flagship
+1 Smuggler's Copter
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+1 Sol Ring
+1 Solemn Simulacrum
+1 Soul-Guide Lantern
+1 Sphinx's Revelation
+1 Sunken Hollow
+1 Swamp
+1 Sydri, Galvanic Genius
+1 Temple of Silence
+1 Terminus
+1 Thaumatic Compass // Spires of Orazca
+1 The Birth of Meletis
+1 The Eldest Reborn
+1 The Immortal Sun
+1 Thopter Spy Network
+1 Thoughtcast
+1 Thran Temporal Gateway
+1 Time Wipe
+1 Ugin, the Ineffable
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Vault of Whispers
+1 Watery Grave
+1 Weatherlight
+1 Whelming Wave
+1 Whir of Invention
+

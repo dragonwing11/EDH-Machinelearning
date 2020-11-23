@@ -1,0 +1,90 @@
+1 Abrade
+1 Ad Nauseam
+1 Ancient Tomb
+1 Animate Dead
+1 Arid Mesa
+1 Azra Oddsmaker
+1 Badlands
+1 Blood Crypt
+1 Blood Moon
+1 Bloodstained Mire
+1 Burning Inquiry
+1 By Force
+1 Cabal Ritual
+1 Cathartic Reunion
+1 Chaos Warp
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Dance of the Dead
+1 Dark Confidant
+1 Dark Petition
+1 Dark Ritual
+1 Demonic Tutor
+1 Desperate Ritual
+1 Dragonskull Summit
+1 Dualcaster Mage
+1 Entomb
+1 Everflowing Chalice
+1 Faithless Looting
+1 Fellwar Stone
+1 Fire Covenant
+1 Gamble
+1 Gemstone Caverns
+1 Graven Cairns
+1 Grim Monolith
+1 Heat Shimmer
+1 Imperial Seal
+1 Kozilek's Return
+1 Leyline of the Void
+1 Lightning Bolt
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Luxury Suite
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Vault
+1 Marsh Flats
+1 Mindblade Render
+5 Mountain
+1 Mox Diamond
+1 Mox Opal
+1 Necromancy
+1 Necropotence
+1 Polluted Delta
+1 Praetor's Grasp
+1 Pyretic Ritual
+1 Pyroblast
+1 Pyroclasm
+1 Rakdos Charm
+1 Rakdos Signet
+1 Reanimate
+1 Red Elemental Blast
+1 Reverberate
+1 Rite of Flame
+1 Rolling Earthquake
+1 Scalding Tarn
+1 Sensei's Divining Top
+1 Shattering Spree
+1 Sire of Insanity
+1 Sol Ring
+1 Stranglehold
+1 Sulfurous Springs
+8 Swamp
+1 Sweltering Suns
+1 Talisman of Indulgence
+1 Thoughtseize
+1 Toxic Deluge
+1 Twinflame
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Volcanic Fallout
+1 Waste Not
+1 Wheel of Fortune
+1 Whipflare
+1 Wooded Foothills
+1 Worldgorger Dragon
+1 Xantcha, Sleeper Agent
+1 Yawgmoth's Will
+

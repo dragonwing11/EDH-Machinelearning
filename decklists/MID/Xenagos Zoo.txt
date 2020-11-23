@@ -1,0 +1,88 @@
+1 Acidic Slime
+1 Arcane Signet
+1 Asceticism
+1 Balefire Dragon
+1 Beast Whisperer
+1 Beast Within
+1 Birds of Paradise
+1 Blasphemous Act
+1 Chandra's Ignition
+1 Chaos Warp
+1 Chord of Calling
+1 Cinder Glade
+1 Command Tower
+1 Copperline Gorge
+1 Cultivate
+1 Drakuseth, Maw of Flames
+1 Elvish Piper
+1 Etali, Primal Storm
+1 Evolving Wilds
+1 Farseek
+1 Fierce Empath
+1 Fire-Lit Thicket
+8 Forest
+1 Ghalta, Primal Hunger
+1 Giant Adephage
+1 God-Eternal Rhonas
+1 Goreclaw, Terror of Qal Sisma
+1 Green Sun's Zenith
+1 Gruul Signet
+1 Gruul Turf
+1 Harmonize
+1 Heroic Intervention
+1 Hull Breach
+1 Hydra Omnivore
+1 Ilharg, the Raze-Boar
+1 Karplusan Forest
+1 Kessig Wolf Run
+1 Kodama's Reach
+1 Kogla, the Titan Ape
+1 Krosan Grip
+1 Lifecrafter's Bestiary
+1 Lightning Greaves
+1 Lurking Predators
+1 Malignus
+1 Mana Confluence
+1 Mossfire Valley
+7 Mountain
+1 Myriad Landscape
+1 Nykthos, Shrine to Nyx
+1 Nylea, God of the Hunt
+1 Nyxbloom Ancient
+1 Pathbreaker Ibex
+1 Quartzwood Crasher
+1 Quicksilver Amulet
+1 Ram Through
+1 Rampant Growth
+1 Reclamation Sage
+1 Reflecting Pool
+1 Reliquary Tower
+1 Return of the Wildspeaker
+1 Rhythm of the Wild
+1 Rishkar's Expertise
+1 Rogue's Passage
+1 Rootbound Crag
+1 Sakura-Tribe Elder
+1 Scourge of the Throne
+1 Selvala's Stampede
+1 Selvala, Heart of the Wilds
+1 Shared Summons
+1 Siege Behemoth
+1 Sol Ring
+1 Somberwald Sage
+1 Soul of the Harvest
+1 Stomping Ground
+1 Strionic Resonator
+1 Sylvan Library
+1 Talisman of Impulse
+1 Temple of Abandon
+1 Terastodon
+1 Terramorphic Expanse
+1 The Great Henge
+1 Thunderfoot Baloth
+1 Vandalblast
+1 Vivien, Monsters' Advocate
+1 Worldspine Wurm
+1 Xenagos, God of Revels
+1 Zilortha, Strength Incarnate
+

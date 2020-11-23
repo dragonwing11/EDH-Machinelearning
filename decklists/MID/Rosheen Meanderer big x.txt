@@ -1,0 +1,104 @@
+1 Apocalypse Hydra
+1 Arcane Signet
+1 Asceticism
+1 Autumn's Veil
+1 Banefire
+1 Beast Within
+1 Birds of Paradise
+1 Blood Moon
+1 Bonders' Enclave
+1 Colossal Majesty
+1 Domri, Anarch of Bolas
+1 Electrodominance
+1 Elemental Bond
+1 Feral Hydra
+1 Finale of Devastation
+23 Forest
+1 Fyndhorn Elves
+1 Garruk's Uprising
+1 Gelatinous Genesis
+1 Genesis Hydra
+1 Ghalta, Primal Hunger
+1 Green Sun's Zenith
+1 Gruul Signet
+1 Heroic Intervention
+1 Hooded Hydra
+1 Hungering Hydra
+1 Hurricane
+1 Hydra Broodmaster
+1 Hydra Omnivore
+1 Kalonian Hydra
+1 Kessig Wolf Run
+1 Krosan Grip
+1 Lifeblood Hydra
+1 Lifecrafter's Bestiary
+1 Llanowar Elves
+1 Mage Slayer
+1 Mistcutter Hydra
+8 Mountain
+1 Nature's Lore
+1 Nylea, God of the Hunt
+1 Pathbreaker Ibex
+1 Primordial Hydra
+1 Protean Hydra
+1 Pyroblast
+1 Rampant Growth
+1 Red Elemental Blast
+1 Return to Nature
+1 Rhythm of the Wild
+1 Rosheen Meanderer
+1 Ruination
+1 Sakura-Tribe Elder
+1 Savageborn Hydra
+1 Selvala, Heart of the Wilds
+1 Skarrg, the Rage Pits
+1 Skyshroud Claim
+1 Sol Ring
+1 Steelbane Hydra
+1 Stonecoil Serpent
+1 Swiftfoot Boots
+1 The Great Henge
+1 The Ozolith
+1 Tranquil Thicket
+1 Triumph of the Hordes
+1 Ulvenwald Hydra
+1 Unbound Flourishing
+1 Vandalblast
+1 Vastwood Hydra
+1 Veil of Summer
+1 Vexing Shusher
+1 Voracious Hydra
+1 Xenagos, God of Revels
+
+Maybeboard
+1 Animist's Awakening
+1 Berserk
+1 Branching Evolution
+1 By Force
+1 Chandra's Ignition
+1 Comet Storm
+1 Cultivate
+1 Decimate
+1 Deflecting Swat
+1 Domesticated Hydra
+1 Endless One
+1 Explosive Vegetation
+1 Fiery Emancipation
+1 Gargos, Vicious Watcher
+1 Harmonize
+1 Jaya's Immolating Inferno
+1 Kodama's Reach
+1 Mana Reflection
+1 Migration Path
+1 Nature's Claim
+1 Nissa's Pilgrimage
+1 Nyxbloom Ancient
+1 Price of Glory
+1 Raking Canopy
+1 Rishkar's Expertise
+1 Stranglehold
+1 Summer Bloom
+1 Traverse the Outlands
+1 Warstorm Surge
+1 Zendikar Resurgent
+

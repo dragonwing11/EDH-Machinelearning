@@ -1,0 +1,101 @@
+1 Arbor Elf
+1 Bane of Progress
+1 Birds of Paradise
+1 Bloodstained Mire
+1 Bloom Tender
+1 Brainstorm
+1 Breeding Pool
+1 Carpet of Flowers
+1 Chain of Vapor
+1 Chord of Calling
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Compost
+1 Consecrated Sphinx
+1 Counterspell
+1 Cyclonic Rift
+1 Delay
+1 Dispel
+1 Drift of Phantasms
+1 Dualcaster Mage
+1 Eldritch Evolution
+1 Elvish Mystic
+1 Eternal Scourge
+1 Exotic Orchard
+1 Extract
+1 Eyes of the Wisent
+1 Fiery Islet
+1 Finale of Devastation
+1 Flooded Strand
+1 Flusterstorm
+1 Food Chain
+1 Forbidden Orchard
+1 Force of Will
+1 Foresight
+2 Forest
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Gamble
+1 Ghostly Flicker
+1 Gilded Drake
+1 Imperial Recruiter
+1 Ingot Chewer
+1 Intuition
+1 Island
+1 Llanowar Elves
+1 Lotus Petal
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Drain
+1 Manipulate Fate
+1 Mental Misstep
+1 Merchant Scroll
+1 Misthollow Griffin
+1 Misty Rainforest
+1 Mox Diamond
+1 Mystic Remora
+1 Mystical Tutor
+1 Nature's Claim
+1 Neoform
+1 Noxious Revival
+1 Omnath, Locus of the Roil
+1 Pact of Negation
+1 Polluted Delta
+1 Ponder
+1 Pongify
+1 Preordain
+1 Priest of Titania
+1 Pyroblast
+1 Reflecting Pool
+1 Regrowth
+1 Rhystic Study
+1 Runic Armasaur
+1 Scalding Tarn
+1 Shivan Reef
+1 Sol Ring
+1 Spellseeker
+1 Squee, the Immortal
+1 Steam Vents
+1 Stomping Ground
+1 Survival of the Fittest
+1 Swan Song
+1 Sylvan Library
+1 Taiga
+1 Tarnished Citadel
+1 Tropical Island
+1 Twinflame
+1 Utopia Sprawl
+1 Veil of Summer
+1 Verdant Catacombs
+1 Vexing Shusher
+1 Volcanic Island
+1 Waterlogged Grove
+1 Wheel of Fortune
+1 Wild Growth
+1 Windswept Heath
+1 Wooded Foothills
+1 Worldly Tutor
+1 Yavimaya Coast
+
+

@@ -1,0 +1,77 @@
+1 Aetherize
+1 Aetherspouts
+1 Arm with Aether
+1 Bident of Thassa
+1 Blinkmoth Nexus
+1 Bloodforged Battle-Axe
+1 Captain's Claws
+1 Cephalid Constable
+1 Chasm Skulker
+1 Coastal Piracy
+1 Consecrated Sphinx
+1 Counterspell
+1 Deadeye Quartermaster
+1 Eternal of Harsh Truths
+1 Exclude
+1 Faerie Conclave
+1 Fierce Guardianship
+1 Fireshrieker
+1 Force of Negation
+1 Force of Will
+1 Gateway Sneak
+1 Illusory Ambusher
+27 Island
+1 Knowledge Exploitation
+1 Lazotep Plating
+1 Lightning Greaves
+1 Lu Xun, Scholar General
+1 Mana Drain
+1 Mask of Memory
+1 Master of Waves
+1 Mechanized Production
+1 Minamo, School at Water's Edge
+1 Mindshrieker
+1 Mistblade Shinobi
+1 Mist-Syndicate Naga
+1 Myriad Landscape
+1 Mystic Sanctuary
+1 Nadir Kraken
+1 Negate
+1 Neurok Commando
+1 Neurok Stealthsuit
+1 Notorious Throng
+1 Ominous Seas
+1 Ovalchase Dragster
+1 Parallel Thoughts
+1 Phyrexian Revoker
+1 Propaganda
+1 Psychosis Crawler
+1 Quietus Spike
+1 Reconnaissance Mission
+1 Reliquary Tower
+1 Rhystic Study
+1 Riptide Entrancer
+1 Rogue's Passage
+1 Scroll Thief
+1 Sharding Sphinx
+1 Siren Stormtamer
+1 Sol Ring
+1 Spectral Sailor
+1 Spellbook
+1 Stolen Identity
+1 Surrakar Spellblade
+1 Swan Song
+1 Swiftfoot Boots
+1 Tale's End
+1 Tandem Lookout
+1 Tetsuko Umezawa, Fugitive
+1 Thieves' Fortune
+1 Thopter Spy Network
+1 Trepanation Blade
+1 True-Name Nemesis
+1 Umezawa's Jitte
+1 Unwind
+1 Vendilion Clique
+
+SIDEBOARD:
+1 Latchkey Faerie

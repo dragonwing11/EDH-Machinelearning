@@ -1,0 +1,85 @@
+1 Ancient Tomb
+1 Armorcraft Judge
+1 Aura Shards
+1 Austere Command
+1 Avenger of Zendikar
+1 Beast Within
+1 Bountiful Promenade
+1 Brood Monitor
+1 Brushland
+1 Brutalizer Exarch
+1 Canopy Vista
+1 Castle Garenbrig
+1 Cathars' Crusade
+1 Champion of Lambholt
+1 Charming Prince
+1 Command Beacon
+1 Command Tower
+1 Craterhoof Behemoth
+1 Doubling Season
+1 Earthcraft
+1 Eerie Interlude
+1 Eladamri's Call
+1 Elvish Visionary
+1 Emiel the Blessed
+1 Enlightened Tutor
+1 Eternal Witness
+1 Farhaven Elf
+1 Farseek
+1 Felidar Guardian
+1 Fierce Empath
+1 Finale of Devastation
+1 Flawless Maneuver
+1 Flickerwisp
+9 Forest
+1 Fortified Village
+1 Gavony Township
+1 Generous Gift
+1 Good-Fortune Unicorn
+1 Guardian Project
+1 Hardened Scales
+1 Heartstone
+1 Heroic Intervention
+1 Horizon Canopy
+1 Illusionist's Bracers
+1 Incubation Druid
+1 Karmic Guide
+1 Karn's Bastion
+1 Knight of Autumn
+1 Kodama's Reach
+1 Krosan Verge
+1 Lightning Greaves
+1 Llanowar Visionary
+1 Luminous Broodmoth
+1 Nature's Lore
+1 Nykthos, Shrine to Nyx
+1 Panharmonicon
+1 Path of Discovery
+8 Plains
+1 Restoration Angel
+1 Rishkar, Peema Renegade
+1 Scattered Groves
+1 Scroll of Fate
+1 Seedborn Muse
+1 Slippery Bogbonder
+1 Smothering Tithe
+1 Sol Ring
+1 Soul of the Harvest
+1 Springbloom Druid
+1 Sun Titan
+1 Sunpetal Grove
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Temple Garden
+1 Temple of Plenty
+1 The Great Henge
+1 Unbreakable Formation
+1 Veil of Summer
+1 Wall of Blossoms
+1 Wall of Omens
+1 Wilderness Reclamation
+1 Winds of Abandon
+1 Windswept Heath
+1 Wood Elves
+1 Wooded Bastion
+1 Workhorse

@@ -1,0 +1,107 @@
+1 Aether Gale
+1 Arch of Orazca
+1 Bane of Bala Ged
+1 Blasphemous Act
+1 Brass's Bounty
+1 Broodbirth Viper
+1 Brudiclad, Telchor Engineer
+1 Buried Ruin
+1 Cackling Counterpart
+1 Cascade Bluffs
+1 Chaos Warp
+1 Codex Shredder
+1 Combat Celebrant
+1 Command Tower
+1 Commander's Sphere
+1 Confirm Suspicions
+1 Counterspell
+1 Curse of Opulence
+1 Dance of Many
+1 Darksteel Citadel
+1 Disdainful Stroke
+1 Dockside Extortionist
+1 Gilded Lotus
+1 Goblin Engineer
+1 Goblin Welder
+1 Great Furnace
+1 Hedron Archive
+1 Helm of the Host
+1 Hieroglyphic Illumination
+1 Inferno Titan
+1 Into the Story
+13 Island
+1 Izzet Boilerworks
+1 Izzet Signet
+1 Kher Keep
+1 Magmaquake
+1 Magnifying Glass
+1 Master of Etherium
+1 Mechanized Production
+1 Mimic Vat
+1 Mind Stone
+10 Mountain
+1 Myr Battlesphere
+1 Nevermaker
+1 Prismatic Lens
+1 Quasiduplicate
+1 Reef Worm
+1 Retrofitter Foundry
+1 Reverse Engineer
+1 Saheeli's Artistry
+1 Saheeli, Sublime Artificer
+1 Saheeli, the Gifted
+1 Salvaging Station
+1 Seat of the Synod
+1 Secrets of the Golden City
+1 Sharding Sphinx
+1 Shivan Reef
+1 Sinister Sabotage
+1 Skullclamp
+1 Sol Ring
+1 Spell Swindle
+1 Spire of Industry
+1 Steel Hellkite
+1 Stolen Identity
+1 Storm the Vault // Vault of Catlacan
+1 Sulfur Falls
+1 Swiftwater Cliffs
+1 Temple of Epiphany
+1 Thirst for Knowledge
+1 Thopter Spy Network
+1 Tidings
+1 Tormod's Crypt
+1 Trading Post
+1 Treasure Map // Treasure Cove
+1 Trinket Mage
+1 Turn into a Pumpkin
+1 Wayfarer's Bauble
+1 Witching Well
+1 Worn Powerstone
+
+In
+1 Abrade
+1 Chasm Skulker
+1 Deep Analysis
+1 Faithless Looting
+1 Frantic Search
+1 Impulsive Pilferer
+1 Izzet Charm
+1 Midnight Clock
+1 Nadir Kraken
+1 Opt
+1 Preordain
+1 Sakashima's Will
+1 Sublime Epiphany
+1 The Locust God
+1 Treasure Cruise
+1 Valakut Awakening // Valakut Stoneforge
+
+Maybeboard
+1 Leadership Vacuum
+1 Lightning Bolt
+1 Metamorphic Alteration
+1 Red Elemental Blast
+1 Rite of Replication
+1 Shenanigans
+1 Victory Chimes
+

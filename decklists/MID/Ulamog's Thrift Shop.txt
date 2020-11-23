@@ -1,0 +1,101 @@
+1 All Is Dust
+1 Ancient Tomb
+1 Basalt Monolith
+1 Blast Zone
+1 Blightsteel Colossus
+1 Buried Ruin
+1 City of Traitors
+1 Clock of Omens
+1 Cloudpost
+1 Codex Shredder
+1 Crawlspace
+1 Crucible of Worlds
+1 Crystal Vein
+1 Darksteel Forge
+1 Defense Grid
+1 Detection Tower
+1 Eldrazi Temple
+1 Emergence Zone
+1 Encroaching Wastes
+1 Ensnaring Bridge
+1 Farsight Mask
+1 Font of Mythos
+1 Forcefield
+1 Forge of Heroes
+1 Geier Reach Sanitarium
+1 Ghost Quarter
+1 Gilded Lotus
+1 Glimmerpost
+1 Gods' Eye, Gate to the Reikai
+1 Grim Monolith
+1 Hall of the Bandit Lord
+1 Howling Mine
+1 Inventors' Fair
+1 Jester's Cap
+1 Karn Liberated
+1 Kozilek, Butcher of Truth
+1 Krark-Clan Ironworks
+1 Kuldotha Forgemaster
+1 Labyrinth of Skophos
+1 Mage-Ring Network
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
+1 Memory Jar
+1 Metalworker
+1 Mikokoro, Center of the Sea
+1 Mind's Eye
+1 Mindslaver
+1 Myr Retriever
+1 Mystic Forge
+1 Nevinyrral's Disk
+1 Null Brooch
+1 Oblivion Stone
+1 Perilous Vault
+1 Planar Bridge
+1 Planar Portal
+1 Platinum Angel
+1 Platinum Emperion
+1 Portcullis
+1 Relic of Progenitus
+1 Reliquary Tower
+1 Ring of Three Wishes
+1 Rogue's Passage
+1 Sanctum of Ugin
+1 Scarecrone
+1 Scavenger Grounds
+1 Scrap Trawler
+1 Scroll Rack
+1 Sculpting Steel
+1 Sensei's Divining Top
+1 Sequestered Stash
+1 Shimmer Myr
+1 Shrine of the Forsaken Gods
+1 Silent Gravestone
+1 Sol Ring
+1 Soul of New Phyrexia
+1 Steel Hellkite
+1 Strip Mine
+1 Tectonic Edge
+1 Temple of the False God
+1 Thespian's Stage
+1 Thran Dynamo
+1 Thran Temporal Gateway
+1 Torpor Orb
+1 Trading Post
+1 Ugin, the Ineffable
+1 Ugin, the Spirit Dragon
+1 Ulamog, the Infinite Gyre
+1 Unwinding Clock
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Venser's Journal
+1 Voltaic Key
+1 Warping Wail
+1 Wasteland
+1 Wastes
+1 Witchbane Orb
+1 Workshop Assistant
+1 Worn Powerstone
+

@@ -1,0 +1,98 @@
+1 Ancestral Mask
+1 Ancient Tomb
+1 Arbor Elf
+1 Argothian Enchantress
+1 Arid Mesa
+1 Armadillo Cloak
+1 Armageddon
+1 Aura of Silence
+1 Avacyn's Pilgrim
+1 Bastion Protector
+1 Battle Mastery
+1 Bear Umbra
+1 Beast Within
+1 Birds of Paradise
+1 Bountiful Promenade
+1 Brushland
+1 Carpet of Flowers
+1 Cavern of Souls
+1 Collector Ouphe
+1 Command Tower
+1 Crop Rotation
+1 Darksteel Mutation
+1 Daybreak Coronet
+1 Dryad Arbor
+1 Duelist's Heritage
+1 Eidolon of Blossoms
+1 Eladamri's Call
+1 Elvish Mystic
+1 Enchantress's Presence
+1 Enlightened Tutor
+1 Ethereal Armor
+1 Fertile Ground
+1 Flagstones of Trokair
+1 Flickerform
+1 Flooded Strand
+1 Fyndhorn Elves
+1 Generous Gift
+1 Grasp of Fate
+1 Hall of Heliod's Generosity
+1 Heliod's Pilgrim
+1 Heroic Intervention
+1 Horizon Canopy
+1 Idyllic Tutor
+1 Jeweled Lotus
+1 Kor Spiritdancer
+1 Llanowar Elves
+1 Marsh Flats
+1 Mesa Enchantress
+1 Misty Rainforest
+1 Nature's Claim
+1 Null Rod
+1 Open the Armory
+1 Overgrowth
+1 Prismatic Vista
+1 Rancor
+1 Ravages of War
+1 Reliquary Tower
+1 Replenish
+1 Rest in Peace
+1 Sage's Reverie
+1 Satyr Enchanter
+1 Savannah
+1 Seal of Cleansing
+1 Seal of Primordium
+1 Serra's Sanctum
+1 Setessan Champion
+1 Shield of the Oversoul
+1 Shielded by Faith
+1 Sigarda, Host of Herons
+1 Siona, Captain of the Pyleas
+4 Snow-Covered Forest
+5 Snow-Covered Plains
+1 Sol Ring
+1 Song of the Dryads
+1 Sram, Senior Edificer
+1 Sterling Grove
+1 Stony Silence
+1 Sunpetal Grove
+1 Swords to Plowshares
+1 Sylvan Library
+1 Teferi's Protection
+1 Temple Garden
+1 Unflinching Courage
+1 Unquestioned Authority
+1 Utopia Sprawl
+1 Verdant Catacombs
+1 Verduran Enchantress
+1 Wild Growth
+1 Winds of Rath
+1 Windswept Heath
+1 Wooded Bastion
+1 Wooded Foothills
+1 Worldly Tutor
+
+Maybeboard
+1 Indestructibility
+1 Strip Mine
+

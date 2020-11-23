@@ -1,0 +1,83 @@
+1 Arcane Signet
+1 Blasphemous Act
+1 Brainstorm
+1 Cinder Glade
+1 Cindervines
+1 Command Tower
+1 Counterspell
+1 Curse of Opulence
+1 Divergent Transformations
+1 Dwarven Mine
+1 Electrolyze
+1 Exotic Orchard
+1 Expedition Map
+1 Explore
+1 Farseek
+1 Field of the Dead
+2 Forest
+1 Growth Spiral
+1 Gruul Signet
+1 Haldan, Avid Arcanist
+1 Into the North
+1 Island
+1 Izzet Signet
+1 Ketria Triome
+1 Legacy's Allure
+1 Leveler
+1 Lightning Bolt
+1 Long-Term Plans
+1 Mana Leak
+1 Mental Misstep
+1 Misdirection
+1 Mission Briefing
+1 Mogg Salvage
+8 Mountain
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystic Retrieval
+1 Mystical Tutor
+1 Narset's Reversal
+1 Natural State
+1 Nature's Claim
+1 Nature's Lore
+1 Negate
+1 Noxious Revival
+1 Opt
+1 Pako, Arcane Retriever
+1 Pir's Whim
+1 Ponder
+1 Pyroclasm
+1 Rampant Growth
+1 Reclaim
+1 Regrowth
+1 Remand
+1 Rending Vines
+1 Restore
+1 Serum Visions
+1 Sheltered Thicket
+1 Simic Signet
+1 Smash
+3 Snow-Covered Forest
+2 Snow-Covered Island
+8 Snow-Covered Mountain
+1 Sol Ring
+1 Spell Pierce
+1 Splendid Reclamation
+1 Starstorm
+1 Steam Vents
+1 Stolen Strategy
+1 Stomping Ground
+1 Submerge
+1 Sweltering Suns
+1 Sylvan Scrying
+1 Talisman of Curiosity
+1 Tectonic Reformation
+1 Thassa's Oracle
+1 Thespian's Stage
+1 Threads of Disloyalty
+1 Utopia Sprawl
+1 Valakut, the Molten Pinnacle
+1 Volcanic Fallout
+1 Wayfarer's Bauble
+1 Wild Growth
+

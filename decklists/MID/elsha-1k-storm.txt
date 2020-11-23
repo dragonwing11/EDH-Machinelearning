@@ -1,0 +1,96 @@
+1 Adarkar Wastes
+1 Ancient Tomb
+1 Arcane Denial
+1 Arcane Signet
+1 Austere Command
+1 Azorius Signet
+1 Battlefield Forge
+1 Blasphemous Act
+1 Boros Signet
+1 Brainstorm
+1 Brass's Bounty
+1 Cascade Bluffs
+1 Chromatic Lantern
+1 Comet Storm
+1 Command Tower
+1 Commander's Sphere
+1 Counterspell
+1 Darksteel Ingot
+1 Deep Analysis
+1 Desperate Ritual
+1 Disenchant
+1 Dizzy Spell
+1 Dovin's Veto
+1 Dramatic Reversal
+1 Drawn from Dreams
+1 Elsha of the Infinite
+1 Enlightened Tutor
+1 Ethereal Usher
+1 Exotic Orchard
+1 Fabled Passage
+1 Fact or Fiction
+1 Fellwar Stone
+1 Fiery Islet
+1 Finale of Promise
+1 Flooded Strand
+1 Frantic Search
+1 Generous Gift
+1 Gilded Lotus
+1 Gitaxian Probe
+1 Halimar Depths
+1 Hall of Heliod's Generosity
+1 Idyllic Tutor
+1 Irrigated Farmland
+2 Island
+1 Izzet Boilerworks
+1 Izzet Charm
+1 Izzet Signet
+1 Jace's Sanctum
+1 Leyline of Anticipation
+1 Long-Term Plans
+1 Mission Briefing
+2 Mountain
+1 Muddle the Mixture
+1 Mystic Confluence
+1 Mystic Monastery
+1 Mystic Retrieval
+1 Mystical Tutor
+1 Negate
+1 Pact of Negation
+1 Path of Ancestry
+1 Path to Exile
+1 Pirate's Pillage
+2 Plains
+1 Port Town
+1 Prairie Stream
+1 Preordain
+1 Pyretic Ritual
+1 Pyroblast
+1 Reverberate
+1 Rugged Prairie
+1 Sacred Foundry
+1 Scavenger Grounds
+1 Search for Azcanta
+1 Seething Song
+1 Serum Visions
+1 Shivan Reef
+1 Silence
+1 Skycloud Expanse
+1 Smothering Tithe
+1 Sol Ring
+1 Steam Vents
+1 Storm's Wrath
+1 Sulfur Falls
+1 Sunbaked Canyon
+1 Supreme Verdict
+1 Swan Song
+1 Swords to Plowshares
+1 Tectonic Edge
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Thousand-Year Storm
+1 Tolaria West
+1 Turnabout
+1 Underworld Breach
+
+

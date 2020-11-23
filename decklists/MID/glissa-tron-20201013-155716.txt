@@ -1,0 +1,77 @@
+1 Abrupt Decay
+1 Ash Barrens
+1 Barrier Breach
+1 Basilisk Collar
+1 Batterskull
+1 Beacon of Unrest
+1 Blackblade Reforged
+1 Blightsteel Colossus
+1 Bottle Gnomes
+1 Buried Ruin
+1 Cast Down
+1 Claws of Gix
+1 Conjurer's Bauble
+1 Cranial Plating
+1 Cultivate
+1 Darksteel Forge
+1 Deathreap Ritual
+1 Diabolic Tutor
+1 Elder Gargaroth
+1 Eternal Witness
+1 Evolving Wilds
+1 Executioner's Capsule
+1 Expedition Map
+1 Exploration
+1 Explosive Vegetation
+1 Fireshrieker
+12 Forest
+1 Foundry Inspector
+1 Genesis
+1 Glissa, the Traitor
+1 Glistening Oil
+1 Go for the Throat
+1 Grave Pact
+1 Hex
+1 Jhoira's Familiar
+1 Jungle Hollow
+1 Kodama's Reach
+1 Kuldotha Forgemaster
+1 Lightning Greaves
+1 Liliana of the Veil
+1 Lotus Petal
+1 Loxodon Warhammer
+1 Maelstrom Pulse
+1 Migration Path
+1 Mishra's Bauble
+1 Mox Opal
+1 Myr Retriever
+1 Nevinyrral's Disk
+1 Night's Whisper
+1 Oubliette
+1 Overgrown Tomb
+1 Phyrexian Tower
+1 Polluted Delta
+1 Portcullis
+1 Return to Nature
+1 Sakura-Tribe Elder
+1 Sculpting Steel
+1 Shadowspear
+1 Skithiryx, the Blight Dragon
+1 Sol Ring
+1 Soul-Guide Lantern
+13 Swamp
+1 Sword of Body and Mind
+1 Sword of Feast and Famine
+1 Sword of Light and Shadow
+1 Sword of Sinew and Steel
+1 Sword of Truth and Justice
+1 Sword of War and Peace
+1 Sylvok Replica
+1 Terramorphic Expanse
+1 Treasure Keeper
+1 Twilight Mire
+1 Welding Jar
+1 Whispersilk Cloak
+1 Windswept Heath
+1 Woodland Cemetery
+1 Wurmcoil Engine

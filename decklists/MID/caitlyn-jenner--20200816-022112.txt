@@ -1,0 +1,90 @@
+1 Alesha, Who Smiles at Death
+1 Altar of Dementia
+1 Anafenza, Kin-Tree Spirit
+1 Anax, Hardened in the Forge
+1 Anger
+1 Anguished Unmaking
+1 Anje Falkenrath
+1 Arcane Signet
+1 Arid Mesa
+1 Battlefield Forge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Boros Charm
+1 Buried Alive
+1 Burning Inquiry
+1 Cartel Aristocrat
+1 Caves of Koilos
+1 Clifftop Retreat
+1 Command Tower
+1 Crypt Champion
+1 Day of Judgment
+1 Deafening Silence
+1 Demonic Tutor
+1 Despark
+1 Disciple of Bolas
+1 Dockside Extortionist
+1 Dragonskull Summit
+1 Duergar Hedge-Mage
+1 Duplicant
+1 Elenda, the Dusk Rose
+1 Enlightened Tutor
+1 Entomb
+1 Erebos, Bleak-Hearted
+1 Fabled Passage
+1 Faithless Looting
+1 Fellwar Stone
+1 Fiend Hunter
+1 Fulminator Mage
+1 Goblin Bombardment
+1 Godless Shrine
+1 Gonti, Lord of Luxury
+1 Grand Abolisher
+1 Gray Merchant of Asphodel
+1 Imperial Recruiter
+1 Isolated Chapel
+1 Karmic Guide
+1 Key to the City
+1 Kor Haven
+1 Living Death
+1 Luxury Suite
+1 Marsh Flats
+1 Master of Cruelties
+1 Mirror Entity
+1 Mother of Runes
+3 Mountain
+1 Murderous Redcap
+1 Mythos of Snapdax
+1 Orzhov Signet
+1 Path to Exile
+1 Phyrexian Arena
+1 Phyrexian Tower
+5 Plains
+1 Reanimate
+1 Recruiter of the Guard
+1 Reflecting Pool
+1 Reveillark
+1 Sacred Foundry
+1 Savai Triome
+1 Serra Ascendant
+1 Skullclamp
+1 Smoldering Marsh
+1 Smothering Tithe
+1 Sol Ring
+1 Solemn Simulacrum
+1 Soul-Guide Lantern
+1 Sulfurous Springs
+5 Swamp
+1 Sword of the Animist
+1 Swords to Plowshares
+1 Talisman of Hierarchy
+1 Twilight Prophet
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Viscera Seer
+1 Wayfarer's Bauble
+1 Weathered Wayfarer
+1 Winding Canyons
+1 Wrath of God
+1 Yahenni, Undying Partisan
+1 Yawgmoth, Thran Physician

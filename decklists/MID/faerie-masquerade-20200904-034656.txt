@@ -1,0 +1,90 @@
+1 Academy Ruins
+1 Aetherflux Reservoir
+1 Alela, Artful Provocateur
+1 Altar of the Brood
+1 Arcane Sanctum
+1 Ashnod's Altar
+1 Azorius Chancery
+1 Azorius Signet
+1 Bitterblossom
+1 Blind Obedience
+1 Bolas's Citadel
+1 Citadel Siege
+1 Command Tower
+1 Counterspell
+1 Darksteel Plate
+1 Demonic Tutor
+1 Dimir Aqueduct
+1 Dimir Guildgate
+1 Dimir Signet
+1 Dovin's Veto
+1 Dragonlord Silumgar
+1 Estrid's Invocation
+1 Exquisite Blood
+1 Fabricate
+1 Fieldmist Borderpost
+1 Ghostly Prison
+1 Glacial Chasm
+1 Godless Shrine
+1 Grim Tutor
+1 Halimar Depths
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Hanna, Ship's Navigator
+1 Heliod, Sun-Crowned
+1 Humility
+1 Idyllic Tutor
+1 Imprisoned in the Moon
+4 Island
+1 Isochron Scepter
+1 Land Tax
+1 Meekstone
+1 Mistvein Borderpost
+1 Muddle the Mixture
+1 Myriad Landscape
+1 Narset's Reversal
+1 Oblivion Ring
+1 Oboro, Palace in the Clouds
+1 Odric, Lunarch Marshal
+1 Opal Palace
+1 Orzhov Basilica
+1 Orzhov Guildgate
+1 Orzhov Signet
+1 Phyrexian Unlife
+5 Plains
+1 Prairie Stream
+1 Propaganda
+1 Reliquary Tower
+1 Rhystic Study
+1 Rune-Tail, Kitsune Ascendant / Rune-Tail's Essence
+1 Sensei's Divining Top
+1 Shimmer Myr
+1 Skullclamp
+1 Smothering Tithe
+1 Sol Ring
+1 Solemnity
+1 Sphere of Safety
+1 Static Orb
+1 Sunken Hollow
+4 Swamp
+1 Sword of Body and Mind
+1 Sword of Feast and Famine
+1 Sword of Sinew and Steel
+1 Sword of the Meek
+1 Sword of Truth and Justice
+1 Sword of Vengeance
+1 Thopter Foundry
+1 Time Sieve
+1 Tribute Mage
+1 Trophy Mage
+1 Ulamog, the Infinite Gyre
+1 Urza, Lord High Artificer
+1 Vito, Thorn of the Dusk Rose
+1 Walking Ballista
+1 Watery Grave
+1 Westvale Abbey / Ormendahl, Profane Prince
+1 Windbrisk Heights
+1 Wishclaw Talisman
+1 Wrath of God
+1 Yennett, Cryptic Sovereign
+1 Zur the Enchanter

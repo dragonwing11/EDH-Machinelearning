@@ -1,0 +1,96 @@
+1 Ancient Tomb
+1 Arcane Signet
+1 Arid Mesa
+1 Baral, Chief of Compliance
+1 Blasphemous Act
+1 Bloodstained Mire
+1 Brainstorm
+1 Capture of Jingzhou
+1 Cascade Bluffs
+1 Chandra, Novice Pyromancer
+1 Chandra, Torch of Defiance
+1 Chromatic Lantern
+1 City of Brass
+1 Cloudstone Curio
+1 Coalition Relic
+1 Comet Storm
+1 Command Tower
+1 Counterspell
+1 Cyclonic Rift
+1 Dack Fayden
+1 Deepglow Skate
+1 Dockside Extortionist
+1 Evacuation
+1 Fabricate
+1 Fellwar Stone
+1 Fierce Guardianship
+1 Fiery Islet
+1 Flooded Strand
+1 Force of Negation
+1 Force of Will
+1 Gamble
+1 Gemstone Caverns
+1 Great Furnace
+1 Intuition
+1 Izzet Signet
+1 Jace, Vryn's Prodigy // Jace, Telepath Unbound
+1 Jeweled Lotus
+1 Koth of the Hammer
+1 Mana Confluence
+1 Mana Drain
+1 Mana Vault
+1 Maze of Ith
+1 Merchant Scroll
+1 Mind Stone
+1 Misty Rainforest
+1 Mox Opal
+1 Mystic Remora
+1 Mystic Retrieval
+1 Mystical Tutor
+1 Narset, Parter of Veils
+1 Negate
+1 Nexus of Fate
+1 Past in Flames
+1 Planebound Accomplice
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Prismatic Vista
+1 Ral Zarek
+1 Ral, Storm Conduit
+1 Reflecting Pool
+1 Reiterate
+1 Repeated Reverberation
+1 Rhystic Study
+1 Rings of Brighthearth
+1 Rolling Earthquake
+1 Rowan Kenrith
+1 Saheeli, the Gifted
+1 Savor the Moment
+1 Scalding Tarn
+1 Seat of the Synod
+1 Sensei's Divining Top
+1 Shivan Reef
+7 Snow-Covered Island
+4 Snow-Covered Mountain
+1 Sol Ring
+1 Spark Double
+1 Steam Vents
+1 Sulfur Falls
+1 Talisman of Creativity
+1 Teferi, Temporal Archmage
+1 Temporal Manipulation
+1 Tezzeret the Seeker
+1 Tezzeret's Gambit
+1 The Chain Veil
+1 Thought Vessel
+1 Time Warp
+1 Vandalblast
+1 Volcanic Island
+1 Will Kenrith
+1 Wooded Foothills
+
+Sideboard
+1 Chain Reaction
+1 Flusterstorm
+

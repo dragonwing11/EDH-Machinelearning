@@ -1,0 +1,102 @@
+1 Academy Ruins
+1 Ad Nauseam
+1 Ancient Tomb
+1 Arcane Signet
+1 Bloodstained Mire
+1 Brainstorm
+1 Cabal Ritual
+1 Cephalid Coliseum
+1 Chain of Vapor
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Conjurer's Bauble
+1 Cryptic Trilobite
+1 Culling the Weak
+1 Cyclonic Rift
+1 Dark Ritual
+1 Darkslick Shores
+1 Demonic Consultation
+1 Demonic Tutor
+1 Diabolic Intent
+1 Doomsday
+1 Dramatic Reversal
+1 Drowned Catacomb
+1 Emergence Zone
+1 Endless One
+1 Expedition Map
+1 Flooded Strand
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gemstone Caverns
+1 Gitaxian Probe
+1 Grim Monolith
+1 Hangarback Walker
+1 Imperial Seal
+1 Inventors' Fair
+1 Island
+1 Isochron Scepter
+1 Laboratory Maniac
+1 Lazav, the Multifarious
+1 Lim-Dul's Vault
+1 Lotus Petal
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Marsh Flats
+1 Mental Misstep
+1 Miscast
+1 Mishra's Bauble
+1 Mission Briefing
+1 Misty Rainforest
+1 Morphic Pool
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Muddle the Mixture
+1 Mystic Remora
+1 Mystical Tutor
+1 Opt
+1 Ornithopter
+1 Pact of Negation
+1 Phyrexian Tower
+1 Phyrexian Walker
+1 Plunge into Darkness
+1 Polluted Delta
+1 Ponder
+1 Preordain
+1 Rain of Filth
+1 Scalding Tarn
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Serum Visions
+1 Shield Sphere
+1 Slaughter Pact
+1 Snapcaster Mage
+1 Snow-Covered Island
+1 Sol Ring
+1 Songs of the Damned
+1 Spectral Sailor
+1 Spell Pierce
+1 Stonecoil Serpent
+1 Swamp
+1 Swan Song
+1 Tainted Pact
+1 Talisman of Dominance
+1 Thassa's Oracle
+1 Timetwister
+1 Ugin's Conjurant
+1 Underground Sea
+1 Unearth
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Bauble
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Village Rites
+1 Walking Ballista
+1 Watery Grave
+1 Yawgmoth's Will
+
+

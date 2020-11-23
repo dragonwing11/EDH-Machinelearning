@@ -1,0 +1,95 @@
+1 Abrupt Decay
+1 Ad Nauseam
+1 Ash Barrens
+1 Autumn's Veil
+1 Beast Within
+1 Birds of Paradise
+1 Blasted Landscape
+1 Bloodstained Mire
+1 Blooming Marsh
+1 Boreal Druid
+1 Cabal Pit
+1 Cabal Ritual
+1 Carpet of Flowers
+1 Caustic Caterpillar
+1 City of Brass
+1 Command Tower
+1 Crop Rotation
+1 Crystal Vein
+1 Culling the Weak
+1 Dakmor Salvage
+1 Dark Ritual
+1 Deathrite Shaman
+1 Demonic Tutor
+1 Diabolic Intent
+1 Duress
+1 Ebony Charm
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Emergence Zone
+1 Entomb
+1 Exotic Orchard
+1 Fellwar Stone
+1 Finale of Devastation
+1 Forbidden Orchard
+5 Forest
+1 Fyndhorn Elves
+1 Gaea's Blessing
+1 Ghost Quarter
+1 Golgari Grave-Troll
+1 Golgari Signet
+1 Grafdigger's Cage
+1 Green Sun's Zenith
+1 Homeward Path
+1 Joraga Treespeaker
+1 Life from the Loam
+1 Llanowar Elves
+1 Llanowar Wastes
+1 Lotus Petal
+1 Mausoleum Secrets
+1 Mindblade Render
+1 Nature's Claim
+1 Necropotence
+1 Noose Constrictor
+1 Noxious Revival
+1 Nurturing Peatland
+1 Oakhame Adversary
+1 Oblivion Crown
+1 Overgrown Tomb
+1 Phyrexian Tower
+1 Polluted Delta
+1 Priest of Titania
+1 Putrid Imp
+1 Rain of Filth
+1 Ramunap Excavator
+1 Raven's Crime
+1 Realms Uncharted
+1 Runic Armasaur
+1 Savage Summoning
+1 Slaughter Pact
+1 Sol Ring
+1 Springleaf Drum
+1 Squandered Resources
+1 Summoner's Pact
+4 Swamp
+1 Sylvan Safekeeper
+1 Sylvan Scrying
+1 Tainted Wood
+1 Talisman of Resilience
+1 The Gitrog Monster
+1 Twilight Mire
+1 Ulamog, the Infinite Gyre
+1 Urborg, Tomb of Yawgmoth
+1 Utopia Sprawl
+1 Veil of Summer
+1 Wall of Roots
+1 Wild Growth
+1 Wild Mongrel
+1 Windswept Heath
+1 Wooded Foothills
+1 Woodland Cemetery
+1 Worldly Tutor
+1 Zuran Orb
+
+

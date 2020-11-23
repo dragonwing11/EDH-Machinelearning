@@ -1,0 +1,86 @@
+1 Aerial Assault
+1 Airborne Aid
+1 Arcane Signet
+1 Aura Shards
+1 Aven Brigadier
+1 Aven Mimeomancer
+1 Aven Mindcensor
+1 Aven Wind Guide
+1 Battle Screech
+1 Beast Within
+1 Beck // Call
+1 Bident of Thassa
+1 Birds of Paradise
+1 Bountiful Promenade
+1 Breeding Pool
+1 Cavern of Souls
+1 Celestial Gatekeeper
+1 Cloudfin Raptor
+1 Coastal Piracy
+1 Command Tower
+1 Commander Eesha
+1 Derevi, Empyrial Tactician
+1 Dovescape
+1 Edge of Autumn
+1 Emeria Angel
+1 Empyrean Eagle
+1 Enlightened Tutor
+1 Fabled Passage
+1 Farseek
+1 Favorable Winds
+1 Fellwar Stone
+1 Flooded Strand
+1 Flurry of Wings
+6 Forest
+1 Fumigate
+1 Generous Gift
+1 Gilded Goose
+1 Glarecaster
+1 Gustcloak Savior
+1 Hallowed Fountain
+1 High Sentinels of Arashin
+1 Ishai, Ojutai Dragonspeaker
+6 Island
+1 Jubilant Skybonder
+1 Kangee, Aerie Keeper
+1 Karn's Bastion
+1 Keeper of the Nine Gales
+1 Lieutenant Kirtar
+1 Lifecrafter's Bestiary
+1 Lofty Denial
+1 Maze of Ith
+1 Migratory Route
+1 Mirror Entity
+1 Misty Rainforest
+1 Nature's Lore
+1 Nimbus Maze
+1 Oketra's Attendant
+6 Plains
+1 Prismatic Vista
+1 Reconnaissance Mission
+1 Reflecting Pool
+1 Riptide Replicator
+1 River Hoopoe
+1 Sea of Clouds
+1 Seaside Haven
+1 Shared Triumph
+1 Soraya the Falconer
+1 Soulcatcher
+1 Soulcatchers' Aerie
+1 Stormscape Familiar
+1 Strip Mine
+1 Swan Song
+1 Swords to Plowshares
+1 Temple Garden
+1 Thieving Magpie
+1 Thrummingbird
+1 Time Wipe
+1 Unclaimed Territory
+1 Unsettled Mariner
+1 Vanquisher's Banner
+1 Warden of Evos Isle
+1 Watcher of the Spheres
+1 Windbrisk Raptor
+1 Windswept Heath
+1 Wingmate Roc
+

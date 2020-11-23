@@ -1,0 +1,76 @@
+1 Academy Ruins
+1 All Is Dust
+1 Arcane Signet
+1 Azorius Signet
+1 Basalt Monolith
+1 Blink of an Eye
+1 Buried Ruin
+1 Burnished Hart
+1 Cascading Cataracts
+1 Chromatic Lantern
+1 Chromatic Orrery
+1 Command Tower
+1 Consecrated Sphinx
+1 Cyclonic Rift
+1 Darksteel Citadel
+1 Emrakul, the Promised End
+1 Emry, Lurker of the Loch
+1 Etherium Sculptor
+1 Everflowing Chalice
+1 Exotic Orchard
+1 Fellwar Stone
+1 Filigree Sages
+1 Flood of Tears
+1 Foundry Inspector
+1 Gilded Lotus
+1 Golos, Tireless Pilgrim
+1 High Tide
+1 Inventors' Fair
+26 Island
+1 Jace, Wielder of Mysteries
+1 Jhoira's Familiar
+1 Jin-Gitaxias, Core Augur
+1 Karn's Temporal Sundering
+1 Manifold Key
+1 Meteor Golem
+1 Midnight Clock
+1 Mind Stone
+1 Mirage Mirror
+1 Mirrodin Besieged
+1 Myr Retriever
+1 Mystic Forge
+1 Negate
+1 Nevinyrral's Disk
+1 Nexus of Fate
+1 Oblivion Stone
+1 One with the Machine
+1 Padeem, Consul of Innovation
+1 Paradoxical Outcome
+1 Ponder
+1 Pongify
+1 Rapid Hybridization
+1 Riddlesmith
+1 Scrap Trawler
+1 Seat of the Synod
+1 Sensei's Divining Top
+1 Shimmer Myr
+1 Shrine of the Forsaken Gods
+1 Sol Ring
+1 Solemn Simulacrum
+1 Soul-Guide Lantern
+1 Stoic Rebuttal
+1 Swan Song
+1 Talisman of Progress
+1 Tezzeret the Seeker
+1 Tezzeret, Artifice Master
+1 Thirst for Knowledge
+1 Thought Vessel
+1 Trophy Mage
+1 Ugin, the Ineffable
+1 Ugin, the Spirit Dragon
+1 Unwind
+1 Unwinding Clock
+1 Vedalken Orrery
+1 Whir of Invention
+1 Windfall
+

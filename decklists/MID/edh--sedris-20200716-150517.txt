@@ -1,0 +1,89 @@
+1 Anger
+1 Animate Dead
+1 Arcane Signet
+1 Ashiok, Dream Render
+1 Ashnod's Altar
+1 Baleful Strix
+1 Blasphemous Act
+1 Blood Crypt
+1 Blood for Bones
+1 Bloodstained Mire
+1 Body Double
+1 Bojuka Bog
+1 Buried Alive
+1 Chainer, Nightmare Adept
+1 Command Tower
+1 Dack Fayden
+1 Damnation
+1 Demonic Tutor
+1 Diabolic Intent
+1 Disallow
+1 Disciple of Bolas
+1 Drakuseth, Maw of Flames
+1 Entomb
+1 Evil Twin
+1 Faithless Looting
+1 Feldon of the Third Path
+1 Fellwar Stone
+1 Fleshbag Marauder
+1 Frantic Search
+1 God-Eternal Bontu
+1 Hedron Crab
+1 High Market
+1 Ilharg, the Raze-Boar
+5 Island
+1 It That Betrays
+1 Kiki-Jiki, Mirror Breaker
+1 Living Death
+1 Luxury Suite
+1 Magus of the Wheel
+1 Mana Confluence
+1 Morphic Pool
+4 Mountain
+1 Mulldrifter
+1 Mystic Remora
+1 Nicol Bolas, Dragon-God
+1 Nightveil Sprite
+1 Notion Thief
+1 Phyrexian Altar
+1 Phyrexian Tower
+1 Plaguecrafter
+1 Polluted Delta
+1 Prismatic Vista
+1 Puppeteer Clique
+1 Reanimate
+1 Reforge the Soul
+1 Rhystic Study
+1 River of Tears
+1 Scalding Tarn
+1 Sedris, the Traitor King
+1 Sheoldred, Whispering One
+1 Shriekmaw
+1 Sire of Insanity
+1 Smoldering Marsh
+1 Sneak Attack
+1 Sol Ring
+1 Solemn Simulacrum
+1 Steam Vents
+1 Stitcher's Supplier
+1 Sundial of the Infinite
+1 Sunken Hollow
+5 Swamp
+1 Tale's End
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Teferi's Veil
+1 Temple of Deceit
+1 Temple of Epiphany
+1 Temple of Malice
+1 The Scarab God
+1 Vampiric Tutor
+1 Victimize
+1 Viscera Seer
+1 Watery Grave
+1 Whip of Erebos
+1 Whispering Madness
+1 Windfall
+1 Wonder
+1 Zealous Conscripts

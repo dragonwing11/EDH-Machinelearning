@@ -1,0 +1,98 @@
+1 Ajani Unyielding
+1 Alms Collector
+1 Arcane Lighthouse
+1 Austere Command
+1 Balan, Wandering Knight
+1 Batterskull
+1 Blackblade Reforged
+1 Bountiful Promenade
+1 Bow of Nylea
+1 Branchloft Pathway / Boulderloft Pathway
+1 Brimaz, King of Oreskos
+1 Bronzehide Lion
+1 Canopy Vista
+1 Cavern of Souls
+1 Command Beacon
+1 Command Tower
+1 Council's Judgment
+1 Cultivate
+1 Dispatch
+1 Dusk / Dawn
+1 Elspeth, Knight-Errant
+1 Elspeth, Sun's Champion
+1 Enlightened Tutor
+1 Felidar Retreat
+1 Fleecemane Lion
+1 Flooded Strand
+4 Forest
+1 Fragmentize
+1 Ghost Quarter
+1 Hammer of Nazahn
+1 Helm of Kaldra
+1 Herald's Horn
+1 Heroic Intervention
+1 Inventors' Fair
+1 Keeper of Fables
+1 Kemba, Kha Regent
+1 Kodama's Reach
+1 Krosan Grip
+1 Krosan Verge
+1 Leonin Shikari
+1 Lifecrafter's Bestiary
+1 Lightning Greaves
+1 Masterwork of Ingenuity
+1 Maze of Ith
+1 Mirage Mirror
+1 Mirari's Wake
+1 Mirri, Weatherlight Duelist
+1 Mosswort Bridge
+1 Nahiri, the Lithomancer
+1 Nazahn, Revered Bladesmith
+1 Open the Armory
+1 Path of Ancestry
+1 Path to Exile
+3 Plains
+1 Pride Sovereign
+1 Prowling Serpopard
+1 Qasali Pridemage
+1 Qasali Slingers
+1 Rampant Growth
+1 Regal Caracal
+1 Reliquary Tower
+1 Rest in Peace
+1 Return to Dust
+1 Rogue's Passage
+1 Savannah
+1 Selesnya Sanctuary
+1 Selesnya Signet
+1 Shield of Kaldra
+1 Sigarda's Aid
+1 Skullclamp
+1 Sol Ring
+1 Squall Line
+1 Steelshaper's Gift
+1 Stirring Wildwood
+1 Sunpetal Grove
+1 Swiftfoot Boots
+1 Sword of Body and Mind
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of Kaldra
+1 Sword of Light and Shadow
+1 Sword of the Animist
+1 Sword of War and Peace
+1 Swords to Plowshares
+1 Sylvan Library
+1 Temple Garden
+1 Temple of the False God
+1 Thespian's Stage
+1 Throne of the High City
+1 Umezawa's Jitte
+1 Unclaimed Territory
+1 Wooded Bastion
+1 Wooded Foothills
+1 Worldly Tutor
+1 Wrath of God
+
+SIDEBOARD:
+1 Kaheera, the Orphanguard

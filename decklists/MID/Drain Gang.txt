@@ -1,0 +1,78 @@
+1 Ashnod's Altar
+1 Awakening Zone
+1 Bastion of Remembrance
+1 Beast Within
+1 Black Market
+1 Blood Artist
+1 Bojuka Bog
+1 Butcher of Malakir
+1 Casualties of War
+1 Chord of Calling
+1 Command Tower
+1 Cryptolith Rite
+1 Deathreap Ritual
+1 Deathspore Thallid
+1 Deathsprout
+1 Dictate of Erebos
+1 Dismember
+1 Elvish Mystic
+1 Exquisite Blood
+15 Forest
+1 Fungal Rebirth
+1 Golgari Charm
+1 Golgari Germination
+1 Grim Backwoods
+1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
+1 Heroic Intervention
+1 In Garruk's Wake
+1 Jade Mage
+1 Llanowar Elves
+1 Llanowar Wastes
+1 Maze of Ith
+1 Moldervine Reclamation
+1 Mycoloth
+1 Necrogenesis
+1 Overgrown Tomb
+1 Parallel Lives
+1 Pitiless Plunderer
+1 Poison-Tip Archer
+1 Primeval Bounty
+1 Psychotrope Thallid
+1 Putrefy
+1 Rampant Growth
+1 Sanguine Bond
+1 Saproling Symbiosis
+1 Savage Thallid
+1 Skullclamp
+1 Slimefoot, the Stowaway
+1 Snow-Covered Forest
+1 Sol Ring
+1 Species Specialist
+1 Sporecrown Thallid
+1 Sporemound
+1 Sporesower Thallid
+1 Sporoloth Ancient
+1 Sprout Swarm
+10 Swamp
+1 Syr Konrad, the Grim
+1 Tainted Wood
+1 Talisman of Resilience
+1 Temple of Malady
+1 Tendershoot Dryad
+1 Thallid Germinator
+1 Thallid Shell-Dweller
+1 Thallid Soothsayer
+1 The Ozolith
+1 Thelonite Hermit
+1 Tireless Tracker
+1 Twilight Mire
+1 Utopia Mycon
+1 Verdant Force
+1 Verdeloth the Ancient
+1 Village Rites
+1 Viscera Seer
+1 Vitaspore Thallid
+1 Winding Constrictor
+1 Woodland Cemetery
+1 Zulaport Cutthroat
+

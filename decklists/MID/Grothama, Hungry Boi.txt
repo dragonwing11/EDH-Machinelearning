@@ -1,0 +1,83 @@
+1 Apex Altisaur
+1 Arbor Elf
+1 Asceticism
+1 Bane of Progress
+1 Beast Whisperer
+1 Beast Within
+1 Berserk
+1 Birds of Paradise
+1 Collector Ouphe
+1 Eldritch Evolution
+1 Eternal Witness
+1 Force of Vigor
+29 Forest
+1 Gaea's Cradle
+1 Genesis Wave
+1 Ghalta, Primal Hunger
+1 God-Eternal Rhonas
+1 Goreclaw, Terror of Qal Sisma
+1 Greater Good
+1 Grothama, All-Devouring
+1 Gyre Sage
+1 Hall of Gemstone
+1 Heroic Intervention
+1 Impervious Greatwurm
+1 Karametra's Acolyte
+1 Kodama's Reach
+1 Krosan Grip
+1 Life's Legacy
+1 Llanowar Elves
+1 Lurking Predators
+1 Mossbridge Troll
+1 Mosswort Bridge
+1 Nature's Claim
+1 Nykthos, Shrine to Nyx
+1 Nyxbloom Ancient
+1 Oakhame Adversary
+1 Pathbreaker Ibex
+1 Pattern of Rebirth
+1 Praetor's Counsel
+1 Predatory Urge
+1 Priest of Titania
+1 Psychosis Crawler
+1 Reclamation Sage
+1 Reliquary Tower
+1 Return of the Wildspeaker
+1 Rhonas the Indomitable
+1 Rishkar's Expertise
+1 Rogue's Passage
+1 Selvala, Heart of the Wilds
+1 Setessan Tactics
+1 Shadowspear
+1 Skyshroud Claim
+1 Sol Ring
+1 Song of the Dryads
+1 Stonehoof Chieftain
+1 Swiftfoot Boots
+1 Sylvan Library
+1 Temur Sabertooth
+1 Terastodon
+1 The Great Henge
+1 Traverse the Outlands
+1 Ulvenwald Tracker
+1 Veil of Summer
+1 Vigor
+1 Wayward Swordtooth
+1 Whiptongue Hydra
+1 Wild Growth
+1 Withstand Death
+1 Wood Elves
+1 Worldspine Wurm
+1 Yavimaya Hollow
+1 Zendikar Resurgent
+
+Maybeboard
+1 Druid's Call
+1 Elvish Mystic
+1 Hornet Queen
+1 Mortal's Resolve
+1 Nature's Way
+1 Runic Armasaur
+1 Scavenging Ooze
+1 Somberwald Sage
+

@@ -1,0 +1,86 @@
+1 Altar of the Brood
+1 Anguished Unmaking
+1 Arcane Sanctum
+1 Arcane Signet
+1 Azorius Signet
+1 Baleful Strix
+1 Bitter Ordeal
+1 Blood for Bones
+1 Bolas's Citadel
+1 Brainstorm
+1 Buried Alive
+1 Buried Ruin
+1 Burnished Hart
+1 City of Brass
+1 Clone
+1 Command Tower
+1 Commander's Sphere
+1 Counterspell
+1 Countersquall
+1 Dance of the Manse
+1 Darksteel Citadel
+1 Darksteel Ingot
+1 Demonic Tutor
+1 Dimir Signet
+1 Disciple of the Vault
+1 Drowned Catacomb
+1 Emry, Lurker of the Loch
+1 Enlightened Tutor
+1 Entomb
+1 Etherium Sculptor
+1 Evolving Wilds
+1 Fabricate
+1 Fortuitous Find
+1 Foundry Inspector
+1 Gifts Ungiven
+1 Gitaxian Probe
+1 Glacial Fortress
+1 Glimmervoid
+1 Godless Shrine
+1 Grand Architect
+1 Hallowed Fountain
+1 Inventors' Fair
+8 Island
+1 Isolated Chapel
+1 Junk Diver
+1 Mine Excavation
+1 Myr Retriever
+1 Mystic Forge
+1 Mystical Tutor
+1 Orzhov Signet
+1 Padeem, Consul of Innovation
+1 Phyrexian Metamorph
+1 Pili-Pala
+2 Plains
+1 Ponder
+1 Preordain
+1 Reanimate
+1 Reliquary Tower
+1 Remember the Fallen
+1 Reshape
+1 Scrap Trawler
+1 Sculpting Steel
+1 Sharuum the Hegemon
+1 Sign in Blood
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spire of Industry
+7 Swamp
+1 Swan Song
+1 Sword of the Meek
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Tezzeret, Artifice Master
+1 Tezzeret, Master of the Bridge
+1 Thirst for Knowledge
+1 Thopter Assembly
+1 Thopter Foundry
+1 Time Sieve
+1 Trinket Mage
+1 Victimize
+1 Walking Ballista
+1 Watery Grave
+1 Whir of Invention

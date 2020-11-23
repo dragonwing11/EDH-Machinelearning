@@ -1,0 +1,89 @@
+1 Ancient Ziggurat
+1 Animar, Soul of Elements
+1 Arcane Signet
+1 Asceticism
+1 Baral's Expertise
+1 Beast Within
+1 Breeding Pool
+1 Burnished Hart
+1 Chariot of Victory
+1 Coiling Oracle
+1 Command Tower
+1 Commander's Sphere
+1 Cryptic Caves
+1 Cultivate
+1 Cyclonic Rift
+1 Deepfathom Skulker
+1 Dragon Broodmother
+1 Dryad of the Ilysian Grove
+1 Etali, Primal Storm
+1 Farseek
+1 Fellwar Stone
+1 Field of Ruin
+1 Fiery Islet
+1 Finale of Devastation
+8 Forest
+1 Frontier Bivouac
+1 Gaea's Blessing
+1 Gargos, Vicious Watcher
+1 Genesis
+1 Genesis Hydra
+1 Genesis Ultimatum
+1 Growing Rites of Itlimoc / Itlimoc, Cradle of the Sun
+1 Gruul Signet
+1 Guardian Project
+1 Hadana's Climb / Winged Temple of Orazca
+1 Halimar Depths
+1 Hooded Hydra
+1 Hungering Hydra
+1 Hydra's Growth
+1 Hydroid Krasis
+1 Ironscale Hydra
+4 Island
+1 Khenra Charioteer
+1 Kiora, Master of the Depths
+1 Kodama's Reach
+1 Master Biomancer
+1 Mina and Denn, Wildborn
+1 Mirrodin's Core
+1 Mistcutter Hydra
+2 Mountain
+1 Nylea's Intervention
+1 Nyxbloom Ancient
+1 Opal Palace
+1 Pir, Imaginative Rascal
+1 Pir's Whim
+1 Plaxcaster Frogling
+1 Proud Wildbonder
+1 Rhythm of the Wild
+1 Rosheen Meanderer
+1 Simic Ascendancy
+1 Simic Signet
+1 Skarrg, the Rage Pits
+1 Solemn Simulacrum
+1 Spark Double
+1 Spire Garden
+1 Steel Hellkite
+1 Steelbane Hydra
+1 Stomping Ground
+1 Sulfur Falls
+1 Swan Song
+1 Swiftfoot Boots
+1 Tale's End
+1 Temple of Abandon
+1 Temple of Epiphany
+1 Temur Ascendancy
+1 Terramorphic Expanse
+1 The Ozolith
+1 Thornwood Falls
+1 Tishana, Voice of Thunder
+1 Toothy, Imaginary Friend
+1 Unbound Flourishing
+1 Urban Evolution
+1 Uro, Titan of Nature's Wrath
+1 Vigor
+1 Vivid Crag
+1 Vivid Creek
+1 Vivid Grove
+1 Voracious Greatshark
+1 Voracious Hydra

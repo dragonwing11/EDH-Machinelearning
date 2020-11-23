@@ -1,0 +1,74 @@
+1 Accelerate
+1 Ancient Tomb
+1 Balduvian Rage
+1 Battle Hymn
+1 Blasphemous Act
+1 Blazing Shoal
+1 Brightstone Ritual
+1 Chaos Warp
+1 Chaotic Strike
+1 Coat of Arms
+1 Command Beacon
+1 Crimson Wisps
+1 Downhill Charge
+1 Dragon Fodder
+1 Dualcaster Mage
+1 Empty the Warrens
+1 Everflowing Chalice
+1 Expedite
+1 Fellwar Stone
+1 Fire Diamond
+1 Fists of Flame
+1 Goblin Chieftain
+1 Goblin Chirurgeon
+1 Goblin Cratermaker
+1 Goblin Dark-Dwellers
+1 Goblin Lackey
+1 Goblin Matron
+1 Goblin Piledriver
+1 Goblin Rabblemaster
+1 Goblin Recruiter
+1 Goblin Trashmaster
+1 Goblin Vandal
+1 Goblin Warchief
+1 Heat Shimmer
+1 Hordeling Outburst
+1 Howl of the Horde
+1 Increasing Vengeance
+1 Kher Keep
+1 Kiki-Jiki, Mirror Breaker
+1 Krenko's Command
+1 Krenko, Mob Boss
+1 Legion Loyalist
+1 Lotus Petal
+1 Mana Geyser
+1 Mana Vault
+1 Mizzix's Mastery
+1 Mogg War Marshal
+1 Moggcatcher
+28 Mountain
+1 Nykthos, Shrine to Nyx
+1 Panic
+1 Pashalik Mons
+1 Past in Flames
+1 Price of Glory
+1 Reliquary Tower
+1 Renegade Tactics
+1 Ruby Medallion
+1 Runaway Steam-Kin
+1 Sandstone Needle
+1 Siege-Gang Commander
+1 Skirk Prospector
+1 Skullclamp
+1 Sol Ring
+1 Spinerock Knoll
+1 Stun
+1 Tempt with Vengeance
+1 Tilonalli's Summoner
+1 Titan's Strength
+1 Treasonous Ogre
+1 Twinflame
+1 Warren Instigator
+1 Young Pyromancer
+1 Zada, Hedron Grinder
+

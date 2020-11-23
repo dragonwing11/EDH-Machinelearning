@@ -1,0 +1,77 @@
+1 Army of the Damned
+1 Authority of the Consuls
+1 Black Market
+1 Blood Artist
+1 Blood for Bones
+1 Bojuka Bog
+1 Burnished Hart
+1 Cathars' Crusade
+1 Clackbridge Troll
+1 Cruel Celebrant
+1 Crypt Ghast
+1 Debtors' Knell
+1 Dire Tactics
+1 Elspeth Tirel
+1 Ethereal Absolution
+1 Evolving Wilds
+1 Final Parting
+1 Force of Despair
+1 Godless Shrine
+1 Gray Merchant of Asphodel
+1 Grimoire of the Dead
+1 In Garruk's Wake
+1 Isolated Chapel
+1 Kaya's Ghostform
+1 Kaya's Guile
+1 Kaya's Wrath
+1 Krav, the Unredeemed
+1 Lapse of Certainty
+1 Liliana Vess
+1 Make a Stand
+1 Marchesa's Decree
+1 Martial Coup
+1 Mentor of the Meek
+1 Merciless Eviction
+1 Mutilate
+1 Nightmare Shepherd
+1 Orzhov Advokist
+1 Orzhov Basilica
+1 Path to Exile
+1 Pitiless Plunderer
+13 Plains
+1 Read the Bones
+1 Regna, the Redeemer
+1 Reliquary Tower
+1 Requiem Angel
+1 Revel in Riches
+1 Rogue's Passage
+1 Rootborn Defenses
+1 Rout
+1 Scoured Barrens
+1 Secure the Wastes
+1 Skullclamp
+1 Sol Ring
+1 Solemn Simulacrum
+1 Sorin, Grim Nemesis
+1 Soul Warden
+1 Sun Titan
+1 Suture Priest
+13 Swamp
+1 Swords to Plowshares
+1 Syr Konrad, the Grim
+1 Tainted Field
+1 Talisman of Hierarchy
+1 Temple of Silence
+1 Terramorphic Expanse
+1 Teysa Karlov
+1 Teysa, Envoy of Ghosts
+1 Thran Dynamo
+1 Twilight Drover
+1 Underworld Connections
+1 Utter End
+1 Vindicate
+1 Viscera Seer
+1 Vraska, Scheming Gorgon
+1 Westvale Abbey // Ormendahl, Profane Prince
+1 Zulaport Cutthroat
+
