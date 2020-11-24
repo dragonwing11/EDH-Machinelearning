@@ -1,0 +1,85 @@
+1 Kydele, Chosen of Kruphix
+1 Thrasios, Triton Hero
+1 Dramatic Reversal
+1 Isochron Scepter
+1 Staff of Domination
+1 Timetwister
+1 Umbral Mantle
+1 Arcane Denial
+1 Force of Will
+1 Mana Drain
+1 Swan Song
+1 Blue Sun's Zenith
+1 Brainstorm
+1 Commit
+1 Jace's Archivist
+1 Sylvan Library
+1 Teferi's Puzzle Box
+1 Time Spiral
+1 Tolarian Winds
+1 Whirlpool Rider
+1 Windfall
+1 Breeding Pool
+1 Dryad Arbor
+1 Flooded Strand
+2 Forest
+1 Gaea's Cradle
+8 Island
+1 Misty Rainforest
+1 Nykthos, Shrine to Nyx
+1 Polluted Delta
+1 Scalding Tarn
+1 Tropical Island
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya Coast
+1 Birds of Paradise
+1 Bloom Tender
+1 Boreal Druid
+1 Burgeoning
+1 Carpet of Flowers
+1 Chrome Mox
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Gemstone Array
+1 Growth Spiral
+1 Kiora's Follower
+1 Llanowar Elves
+1 Lotus Petal
+1 Magus of the Candelabra
+1 Mox Diamond
+1 Priest of Titania
+1 Simic Signet
+1 Training Grounds
+1 Utopia Sprawl
+1 Wild Growth
+1 Autumn's Veil
+1 Heroic Intervention
+1 Lightning Greaves
+1 Swiftfoot Boots
+1 Sylvan Safekeeper
+1 Eternal Witness
+1 Noxious Revival
+1 Riftsweeper
+1 Beast Within
+1 Cyclonic Rift
+1 Into the Roil
+1 Nature's Claim
+1 Rapid Hybridization
+1 Reality Shift
+1 Reclamation Sage
+1 Crop Rotation
+1 Fabricate
+1 Green Sun's Zenith
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Spellseeker
+1 Trophy Mage
+1 Alchemist's Refuge
+1 Cavern of Souls
+1 Cephalid Coliseum
+1 Minamo, School at Water's Edge
+1 Riptide Laboratory
+1 Winding Canyons
+1 Yavimaya Hollow
