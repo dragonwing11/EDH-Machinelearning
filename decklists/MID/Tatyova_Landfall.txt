@@ -1,0 +1,81 @@
+1 Tatyova, Benthic Druid 
+1 Arcane Denial
+1 Daze
+1 Delay
+1 Mana Drain
+1 Mana Leak
+1 Negate
+1 Soratami Savant
+1 Swan Song
+1 Thwart
+1 Trickbind
+1 Breeding Pool
+1 Dryad Arbor
+1 Flooded Strand
+12 Forest
+1 Gaea's Cradle
+1 Ghost Quarter
+9 Island
+1 Misty Rainforest
+1 Polluted Delta
+1 Scalding Tarn
+1 Strip Mine
+1 Tropical Island
+1 Verdant Catacombs
+1 Wasteland
+1 Windswept Heath
+1 Wooded Foothills
+1 Avenger of Zendikar
+1 Gush
+1 Meloku the Clouded Mirror
+1 Multani, Yavimaya's Avatar
+1 Rampaging Baloths
+1 Scapeshift
+1 Tireless Tracker
+1 Sylvan Safekeeper
+1 Amulet of Vigor
+1 Azusa, Lost but Seeking
+1 Birds of Paradise
+1 Boundless Realms
+1 Burgeoning
+1 Carpet of Flowers
+1 Elvish Mystic
+1 Exploration
+1 Fyndhorn Elves
+1 Harrow
+1 Harvest Season
+1 Llanowar Elves
+1 Lotus Cobra
+1 Manabond
+1 Nature's Lore
+1 Oracle of Mul Daya
+1 Patron of the Moon
+1 Skyshroud Claim
+1 Three Visits
+1 Traverse the Outlands
+1 Wayward Swordtooth
+1 Crucible of Worlds
+1 Eternal Witness
+1 Life from the Loam
+1 Noxious Revival
+1 Ramunap Excavator
+1 Splendid Reclamation
+1 Timetwister
+1 Beast Within
+1 Cyclonic Rift
+1 Nature's Claim
+1 Pongify
+1 Reclamation Sage
+1 Seeds of Innocence
+1 Terastodon
+1 Winds of Rebuke
+1 Mana Breach
+1 Overburden
+1 Sunder
+1 Chord of Calling
+1 Crop Rotation
+1 Dizzy Spell
+1 Fabricate
+1 Green Sun's Zenith
+1 Realms Uncharted
+1 Worldly Tutor
